@@ -1,0 +1,19 @@
+<script language="javascript" type="text/javascript" src="/dap/javascript/jsstrings.php"></script>
+<script language="javascript" type="text/javascript" src="/dap/javascript/LoginForm.js"></script>
+
+
+
+<form name="loginFormLoginForm" method="post" action="" onSubmit="validateDAPLoginForm(document.loginFormLoginForm); return false;">
+
+<p><span class="commentslabel">Email</span> <br /><input type="text" name="email" value="" size="50" maxlength="60" class="textfield" /> </p>
+
+<p><span class="commentslabel">Password</span> <br /><input type="password" name="password" value="" size="50" maxlength="20" class="textfield" /> </p>
+
+<p><input name="rememberMe" type="checkbox" id="rememberMe" value="rememberMe" /> <span class="commentslabel">Remember me (for 2 weeks)</span></p>
+
+<p><input name="LoginDAPLoginForm" type="submit" value="Login" class="button" onClick="validateDAPLoginForm(this.form); return false;" /></p>
+
+  <input type="hidden" name="submitted" value="Y" />
+  <input type="hidden" name="forgot" value="N" />
+  <input type="hidden" name="request" value="%%REQUEST%%" />
+</form>

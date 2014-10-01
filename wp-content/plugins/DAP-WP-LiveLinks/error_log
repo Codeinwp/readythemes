@@ -1,0 +1,1 @@
+[29-Jul-2012 01:20:27] PHP Fatal error:  Call to undefined function  add_shortcode() in /home5/marineb1/public_html/readythemes/wp-content/plugins/DAP-WP-LiveLinks/DAP-ShortCodes-UserLinks.php on line 3

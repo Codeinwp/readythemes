@@ -1,0 +1,3518 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pureVISION WP Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-07-16 19:09-0500\n"
+"PO-Revision-Date: 2012-07-16 19:09-0500\n"
+"Last-Translator: Andon <andon.design@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__;esc_attr__;esc_attr_e;esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: D:\\purevision\n"
+
+#: D:\purevision/404.php:15
+msgid "Oops..., I cannot find that page you are looking for, sorry... (Error 404)"
+msgstr "Oops... Non riusciamo a trovare la pagina che stavi cercando. Spiacenti! (Errore 404)"
+
+#: D:\purevision/404.php:18
+msgid "Let me help you find it:"
+msgstr "Permettimi di aiutarti a trovarlo:"
+
+#: D:\purevision/404.php:21
+msgid "<strong>Search</strong> for it:"
+msgstr "<strong>Fai una ricerca</strong>:"
+
+#: D:\purevision/404.php:25
+msgid "<strong>If you typed in a URL...</strong> check the spelling and try reloading the page."
+msgstr "<strong>Se hai immesso un indirizzo URL.</strong> controlla di non avere fatto errori di battitura e cerca di ricaricare la pagina."
+
+#: D:\purevision/404.php:28
+#, php-format
+msgid "<strong>Start over again</strong> with the %1$sHomepage%2$s."
+msgstr "<strong>Ricomincia</strong> dalla %1$sHomepage%2$s."
+
+#: D:\purevision/archive.php:32
+#: D:\purevision/page-Blog.php:79
+msgid "Tags: "
+msgstr "Tag:"
+
+#: D:\purevision/archive.php:34
+#: D:\purevision/page-Blog.php:81
+msgid "Written by"
+msgstr "Scritto da"
+
+#: D:\purevision/archive.php:36
+#: D:\purevision/page-Blog.php:83
+msgid "Posted in "
+msgstr "Pubblicato in "
+
+#: D:\purevision/archive.php:36
+#: D:\purevision/page-Blog.php:83
+msgid "Edit"
+msgstr "Modifica"
+
+#: D:\purevision/archive.php:36
+#: D:\purevision/page-Blog.php:83
+msgid "Leave a comment"
+msgstr "Scrivi un commento"
+
+#: D:\purevision/archive.php:36
+#: D:\purevision/comments.php:21
+#: D:\purevision/page-Blog.php:83
+msgid "1 Comment"
+msgstr "1 commento"
+
+#: D:\purevision/archive.php:36
+#: D:\purevision/comments.php:21
+#: D:\purevision/page-Blog.php:83
+msgid "% Comments"
+msgstr "% commenti"
+
+#: D:\purevision/archive.php:69
+#, php-format
+msgid "<h2 class='center'>Sorry, but there aren't any posts in the %s category yet.</h2>"
+msgstr "<h2 class='center'>Spiacenti, ma nella categoria %s non ci sono ancora articoli.</h2>"
+
+#: D:\purevision/archive.php:71
+msgid "<h2>Sorry, but there aren't any posts with this date.</h2>"
+msgstr "<h2>Spiacenti, ma non ci sono articoli pubblicati in questa data.</h2>"
+
+#: D:\purevision/archive.php:74
+#, php-format
+msgid "<h2 class='center'>Sorry, but there aren't any posts by %s yet.</h2>"
+msgstr "<h2 class='center'>Spiacenti, ma non ci sono ancora articoli su %s .</h2>"
+
+#: D:\purevision/archive.php:76
+msgid "<h2 class='center'>No posts found.</h2>"
+msgstr "<h2 class='center'>Non sono stati trovati articoli.</h2>"
+
+#: D:\purevision/archives.php:25
+msgid "Archive Index Page"
+msgstr "Pagina indice dell'archivio"
+
+#: D:\purevision/archives.php:28
+#: D:\purevision/image.php:22
+#: D:\purevision/page-FullWidth.php:18
+msgid "<p class=\"serif\">Read the rest of this entry &raquo;</p>"
+msgstr "<p class=\"serif\">Leggi il resto di questo articolo &raquo;</p>"
+
+#: D:\purevision/archives.php:36
+msgid "Archives by Year:"
+msgstr "Archivi annuali:"
+
+#: D:\purevision/archives.php:41
+msgid "Archives by Month:"
+msgstr "Archivi mensili:"
+
+#: D:\purevision/archives.php:46
+msgid "Archives by Subject:"
+msgstr "Archivi per titolo:"
+
+#: D:\purevision/author.php:15
+msgid "About:"
+msgstr ""
+
+#: D:\purevision/author.php:18
+#, fuzzy
+msgid "Website:"
+msgstr "Sito web"
+
+#: D:\purevision/author.php:19
+msgid "Profile:"
+msgstr ""
+
+#: D:\purevision/author.php:23
+msgid "Posts by"
+msgstr ""
+
+#: D:\purevision/author.php:31
+msgid "No posts by this author."
+msgstr ""
+
+#: D:\purevision/author.php:34
+#: D:\purevision/page-Contact.php:147
+#: D:\purevision/page-FullWidth.php:25
+#: D:\purevision/page-PageTemplate2.php:29
+#: D:\purevision/page-PageTemplate3.php:29
+#: D:\purevision/page-PageTemplate4.php:29
+msgid "Edit this entry."
+msgstr "Modifica questo articolo."
+
+#: D:\purevision/comments.php:12
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Questo articolo &egrave; protetto da password. Immetti la password per vedere i commenti."
+
+#: D:\purevision/comments.php:21
+msgid "No Responses"
+msgstr "Nessuna risposta"
+
+#: D:\purevision/comments.php:47
+msgid "Comments are closed."
+msgstr "I commenti sono stati disabilitati."
+
+#: D:\purevision/comments.php:57
+msgid "Leave a Reply"
+msgstr "Scrivi un commento"
+
+#: D:\purevision/comments.php:57
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "Scrivi un commento in risposta a %s"
+
+#: D:\purevision/comments.php:64
+#, php-format
+msgid "<p>You must be <a href=\"%s\">logged in</a> to post a comment.</p>"
+msgstr "<p>Per pubblicare un commento devi prima<a href=\"%s\">autenticarti</a>.</p>"
+
+#: D:\purevision/comments.php:71
+#, php-format
+msgid "Logged in as <a href=\"%1$s/wp-admin/profile.php\">%2$s</a>."
+msgstr "Sei connesso come <a href=\"%1$s/wp-admin/profile.php\">%2$s</a>."
+
+#: D:\purevision/comments.php:71
+msgid "Log out of this account"
+msgstr "Disconnettiti da questo account"
+
+#: D:\purevision/comments.php:71
+msgid "Log out &raquo;"
+msgstr "Disconnessione"
+
+#: D:\purevision/comments.php:76
+#: D:\purevision/page-Contact.php:186
+msgid "Name"
+msgstr "Nome"
+
+#: D:\purevision/comments.php:76
+#: D:\purevision/comments.php:79
+#: D:\purevision/page-Contact.php:194
+#: D:\purevision/page-Contact.php:207
+msgid "(required)"
+msgstr "(obbligatorio)"
+
+#: D:\purevision/comments.php:79
+msgid "Mail (will not be published)"
+msgstr "E-mail (non verrà pubblicata)"
+
+#: D:\purevision/comments.php:82
+msgid "Website"
+msgstr "Sito web"
+
+#: D:\purevision/comments.php:90
+msgid "Submit Comment"
+msgstr "Invia il commento"
+
+#: D:\purevision/footer.php:116
+msgid " is proudly powered by <a href=\"http://wordpress.org/\"><strong>WordPress</strong></a>"
+msgstr " utilizza <a href=\"http://wordpress.org/\"><strong>WordPress</strong></a>"
+
+#: D:\purevision/footer.php:119
+msgid "Entries (RSS)"
+msgstr "Articoli (RSS)"
+
+#: D:\purevision/footer.php:122
+msgid "Comments (RSS)"
+msgstr "Commenti (RSS)"
+
+#: D:\purevision/footer.php:127
+#: D:\purevision/functions.php:554
+msgid "Back to Top"
+msgstr "Torna all'inizio"
+
+#: D:\purevision/functions.php:141
+msgid "Primary Navigation"
+msgstr "Navigazione primaria"
+
+#: D:\purevision/functions.php:164
+msgid "Home"
+msgstr "Home"
+
+#: D:\purevision/functions.php:173
+#: D:\purevision/functions.php:174
+#: D:\purevision/functions.php:175
+#: D:\purevision/functions.php:176
+#: D:\purevision/functions.php:177
+#: D:\purevision/functions.php:178
+#: D:\purevision/functions.php:179
+msgid "menu image pre-loader"
+msgstr "Pre-caricatore immagini menù"
+
+#: D:\purevision/functions.php:194
+msgid "Search for:"
+msgstr "Termini di ricerca:"
+
+#: D:\purevision/functions.php:196
+msgid "Search"
+msgstr "Cerca"
+
+#: D:\purevision/functions.php:310
+#: D:\purevision/functions.php:319
+#, php-format
+msgid "Go back to %s"
+msgstr "Torna a %s"
+
+#: D:\purevision/functions.php:366
+#, php-format
+msgid "<span class=\"time\">%1$s</span> on <a href=\"#comment-%2$s\" title=\"\">%3$s</a>"
+msgstr "<span class=\"time\">alle %1$s</span> del <a href=\"#comment-%2$s\" title=\"\">%3$s</a>"
+
+#: D:\purevision/functions.php:366
+msgid "g:i a"
+msgstr "G:i a"
+
+#: D:\purevision/functions.php:366
+msgid "F j, Y"
+msgstr "j F Y"
+
+#: D:\purevision/functions.php:367
+msgid "edit"
+msgstr "modifica"
+
+#: D:\purevision/functions.php:373
+msgid "Your comment is awaiting moderation."
+msgstr "Il tuo commento &egrave; in attesa di approvazione."
+
+#: D:\purevision/functions.php:438
+#: D:\purevision/functions.php:460
+#: D:\purevision/functions.php:482
+#: D:\purevision/functions.php:504
+msgid "Read more..."
+msgstr "Leggi di pi&ugrave;..."
+
+#: D:\purevision/functions.php:554
+msgid "Top of Page"
+msgstr "Inizio della pagina"
+
+#: D:\purevision/functions.php:845
+msgid "Latest Posts"
+msgstr "Ultimi articoli"
+
+#: D:\purevision/functions.php:861
+#, php-format
+msgid "%s: Widget class not found. Make sure this widget exists and the class name is correct"
+msgstr "%s: Classe di Widget non trovata. Sincerati che il widget esiste e che il nome della classe è corretto."
+
+#: D:\purevision/functions.php:968
+msgid "A widget area, used as a sidebar for regular pages."
+msgstr "Un'area widget, usata come barra laterale per le pagine standard."
+
+#: D:\purevision/functions.php:977
+msgid "A widget area, used as a sidebar for the Portfolio section."
+msgstr "Un'area widget, usata come barra laterale per la sezione Portfolio."
+
+#: D:\purevision/functions.php:986
+msgid "A widget area, used as a sidebar for the Blog/News section."
+msgstr "Un'area widget, usata come barra laterale per la sezione Blog/Notizie."
+
+#: D:\purevision/functions.php:995
+msgid "A widget area, used as a sidebar for the Contact page."
+msgstr "Un'area widget, usata come barra laterale per la pagina dei Contatti."
+
+#: D:\purevision/functions.php:1004
+msgid "A widget area, used as a sidebar for the Sitemap page."
+msgstr "Un'area widget, usata come barra laterale per la pagina di mappa del sito."
+
+#: D:\purevision/functions.php:1013
+msgid "Home Page Before Content"
+msgstr "Home page prima del contenuto"
+
+#: D:\purevision/functions.php:1015
+msgid "A widget area positioned just above the Home Page Main Content area."
+msgstr "Un'area widget posizionata al di sopra dell'area principale dei contenuti della Home Page."
+
+#: D:\purevision/functions.php:1024
+msgid "Home Page Column 1"
+msgstr "Colonna 1 della Home Page"
+
+#: D:\purevision/functions.php:1026
+msgid "A widget area, used as the 1st column in the Main Content area."
+msgstr "Un'area widget, usata come 1a colonna nell'area principale dei contenuti."
+
+#: D:\purevision/functions.php:1034
+msgid "Home Page Column 2"
+msgstr "Colonna 2 della Home Page"
+
+#: D:\purevision/functions.php:1036
+msgid "A widget area, used as the 2nd column in the Main Content area."
+msgstr "Un'area widget, usata come 2a colonna nell'area principale dei contenuti."
+
+#: D:\purevision/functions.php:1044
+msgid "Home Page Column 3"
+msgstr "Colonna 3 della Home Page"
+
+#: D:\purevision/functions.php:1046
+msgid "A widget area, used as the 3rd column in the Main Content area."
+msgstr "Un'area widget, usata come 3a colonna nell'area principale dei contenuti."
+
+#: D:\purevision/functions.php:1054
+msgid "Home Page Column 4"
+msgstr "Colonna 4 della Home Page"
+
+#: D:\purevision/functions.php:1056
+msgid "A widget area, used as the 4th column in the Main Content area."
+msgstr "Un'area widget, usata come 4a colonna nell'area principale dei contenuti."
+
+#: D:\purevision/functions.php:1065
+msgid "Bottom 1"
+msgstr "Fondo 1"
+
+#: D:\purevision/functions.php:1067
+msgid "A widget area, used as the 1st column in the Bottom area (just above the footer)."
+msgstr "Un'area widget, usata come 1a colonna nell'area inferiore (sopra il pi&egrave; di pagina)."
+
+#: D:\purevision/functions.php:1075
+msgid "Bottom 2"
+msgstr "Fondo 2"
+
+#: D:\purevision/functions.php:1077
+msgid "A widget area, used as the 2nd column in the Bottom area (just above the footer)."
+msgstr "Un'area widget, usata come 2a colonna nell'area inferiore (sopra il pi&egrave; di pagina)."
+
+#: D:\purevision/functions.php:1085
+msgid "Bottom 3"
+msgstr "Fondo 3"
+
+#: D:\purevision/functions.php:1087
+msgid "A widget area, used as the 3rd column in the Bottom area (just above the footer)."
+msgstr "Un'area widget, usata come 3a colonna nell'area inferiore (sopra il pi&egrave; di pagina)."
+
+#: D:\purevision/functions.php:1095
+msgid "Bottom 4"
+msgstr "Fondo 4"
+
+#: D:\purevision/functions.php:1097
+msgid "A widget area, used as the 4th column in the Bottom area (just above the footer)."
+msgstr "Un'area widget, usata come 4a colonna nell'area inferiore (sopra il pi&egrave; di pagina)."
+
+#: D:\purevision/functions.php:1106
+msgid "A widget area, used as a sidebar for the Page Template 2."
+msgstr "Un'area widget, usata come barra laterale per il template 2 di pagina."
+
+#: D:\purevision/functions.php:1115
+msgid "A widget area, used as a sidebar for the Page Template 3."
+msgstr "Un'area widget, usata come barra laterale per il template 3 di pagina."
+
+#: D:\purevision/functions.php:1124
+msgid "A widget area, used as a sidebar for the Page Template 4."
+msgstr "Un'area widget, usata come barra laterale per il template 4 di pagina."
+
+#: D:\purevision/functions.php:1133
+msgid "A widget area, used as a sidebar for the Page Template 5."
+msgstr "Un'area widget, usata come barra laterale per il template 5 di pagina."
+
+#: D:\purevision/functions.php:1142
+msgid "A widget area, used as a sidebar for the Page Template 6."
+msgstr "Un'area widget, usata come barra laterale per il template 6 di pagina."
+
+#: D:\purevision/functions.php:1151
+msgid "A widget area, used as a sidebar for the Page Template 7."
+msgstr "Un'area widget, usata come barra laterale per il template 7 di pagina."
+
+#: D:\purevision/functions.php:1160
+msgid "A widget area, used as a sidebar for the Page Template 8."
+msgstr "Un'area widget, usata come barra laterale per il template 8 di pagina."
+
+#: D:\purevision/header.php:55
+msgid "Feedback"
+msgstr "La vostra opinione"
+
+#: D:\purevision/header.php:60
+msgid "Subscribe"
+msgstr "Abbonati"
+
+#: D:\purevision/header.php:85
+msgid "Search..."
+msgstr "Cerca..."
+
+#: D:\purevision/header.php:185
+#, php-format
+msgid "Archive for the &#8216;%s&#8217; Category"
+msgstr "Archivio per la categoria  &#8216;%s&#8217;"
+
+#: D:\purevision/header.php:188
+#, fuzzy, php-format
+msgid "Search Results for &#8216;<em>%s</em>&#8217;"
+msgstr "Risultati della ricerca di &#8216;<em>%s</em>&#8216;"
+
+#: D:\purevision/header.php:190
+msgid "Page Not Found (Error 404)"
+msgstr "Pagina non trovata (Errore 404)"
+
+#: D:\purevision/header.php:192
+#, php-format
+msgid "Posts Tagged &#8216;%s&#8217;"
+msgstr "Articoli con tag &#8216;%s&#8217;"
+
+#: D:\purevision/header.php:194
+#: D:\purevision/header.php:196
+#: D:\purevision/header.php:198
+#, php-format
+msgid "Archive for %s"
+msgstr "Archivio di %s"
+
+#: D:\purevision/header.php:200
+msgid "Author Archive"
+msgstr "Archivio autori"
+
+#: D:\purevision/header.php:202
+msgid "Blog Archives"
+msgstr "Archivi blog"
+
+#: D:\purevision/image.php:35
+msgid "Sorry, no attachments matched your criteria."
+msgstr "Spiacenti, nessun allegato rientra nei tuoi criteri."
+
+#: D:\purevision/page-Blog.php:115
+msgid "Not Found"
+msgstr "Non trovato"
+
+#: D:\purevision/page-Blog.php:116
+msgid "Sorry, but you are looking for something that isn't here."
+msgstr "Spiacenti, ma stai cercando qualcosa che qui non c'&egrave;."
+
+#: D:\purevision/page-Blog.php:122
+msgid "Edit this page"
+msgstr "Modifica questa pagina"
+
+#: D:\purevision/page-Contact.php:50
+#: D:\purevision/page-Contact.php:189
+msgid "Please enter a name"
+msgstr "Immetti un nome"
+
+#: D:\purevision/page-Contact.php:52
+#: D:\purevision/page-Contact.php:190
+msgid "Your name must consist of at least 2 characters"
+msgstr "Il tuo nome deve avere almeno due lettere"
+
+#: D:\purevision/page-Contact.php:56
+#: D:\purevision/page-Contact.php:58
+#: D:\purevision/page-Contact.php:196
+msgid "Please enter a valid email address"
+msgstr "Immetti un indirizzo email valido"
+
+#: D:\purevision/page-Contact.php:63
+msgid "phone number"
+msgstr "Numero di telefono"
+
+#: D:\purevision/page-Contact.php:66
+msgid "extension"
+msgstr "Prefisso"
+
+#: D:\purevision/page-Contact.php:70
+#, php-format
+msgid "Please enter a valid %1$s and %2$s"
+msgstr "Immetti un %1$s e %2$s valido"
+
+#: D:\purevision/page-Contact.php:72
+#: D:\purevision/page-Contact.php:74
+#, php-format
+msgid "Please enter a valid %s"
+msgstr "Immetti un %s valido"
+
+#: D:\purevision/page-Contact.php:78
+msgid "Please enter your message"
+msgstr "Immetti il messaggio"
+
+#: D:\purevision/page-Contact.php:82
+#: D:\purevision/page-Contact.php:202
+msgid "ext."
+msgstr "interno"
+
+#: D:\purevision/page-Contact.php:83
+msgid "Phone: "
+msgstr "Telefono: "
+
+#: D:\purevision/page-Contact.php:86
+#, php-format
+msgid "Contact Form submission from %s"
+msgstr "Invio modulo di contatto da %s"
+
+#: D:\purevision/page-Contact.php:87
+msgid "Sender's name: "
+msgstr "Nome del mittente: "
+
+#: D:\purevision/page-Contact.php:88
+msgid "E-mail: "
+msgstr "E-mail: "
+
+#: D:\purevision/page-Contact.php:90
+msgid "Message: "
+msgstr "Messaggio: "
+
+#: D:\purevision/page-Contact.php:141
+#: D:\purevision/page-PageTemplate2.php:22
+#: D:\purevision/page-PageTemplate3.php:22
+#: D:\purevision/page-PageTemplate4.php:22
+msgid "<p class=\"serif\">Read the rest of this page &raquo;</p>"
+msgstr "<p class=\"serif\">Leggi il resto di questa pagina &raquo;</p>"
+
+#: D:\purevision/page-Contact.php:171
+msgid "Email Successfully Sent!"
+msgstr "Email inviata con successo!"
+
+#: D:\purevision/page-Contact.php:172
+#, php-format
+msgid "Thank you <strong>%s</strong> for using our contact form! Your email was successfully sent and we will be in touch with you shortly."
+msgstr "Grazie <strong>%s</strong> per aver utilizzato il nostro modulo di contatto! Il tuo messaggio email è stato spedito con successo e sarà nostra cura contattarti al più presto."
+
+#: D:\purevision/page-Contact.php:178
+msgid "Failed to connect to mailserver!"
+msgstr "Non è stato possibile collegarsi al server di posta!"
+
+#: D:\purevision/page-Contact.php:184
+msgid "Please use the form below to send us an email:"
+msgstr "Usa il modulo sottostante per inviarci un messaggio email:"
+
+#: D:\purevision/page-Contact.php:186
+msgid "(required, at least 2 characters)"
+msgstr "(obbligatorio, almeno 2 lettere)"
+
+#: D:\purevision/page-Contact.php:188
+msgid "required"
+msgstr "obbligatorio"
+
+#: D:\purevision/page-Contact.php:194
+msgid "E-Mail"
+msgstr "E-Mail"
+
+#: D:\purevision/page-Contact.php:200
+msgid "Phone"
+msgstr "Telefono"
+
+#: D:\purevision/page-Contact.php:200
+msgid "(optional)"
+msgstr "(opzionale)"
+
+#: D:\purevision/page-Contact.php:207
+msgid "Your comment"
+msgstr "Il tuo commento"
+
+#: D:\purevision/page-Contact.php:209
+msgid "<br />Please enter your message"
+msgstr "<br />Immetti il messaggio"
+
+#: D:\purevision/page-Contact.php:221
+msgid "Submit"
+msgstr "Invia"
+
+#: D:\purevision/page-Portfolio1Col.php:49
+#: D:\purevision/page-Portfolio2Col.php:49
+#: D:\purevision/page-Portfolio3Col.php:49
+#: D:\purevision/page-Portfolio4Col.php:49
+msgid "Categories"
+msgstr "Categorie"
+
+#: D:\purevision/page-Portfolio1Col.php:52
+#: D:\purevision/page-Portfolio1Col.php:54
+#: D:\purevision/page-Portfolio2Col.php:52
+#: D:\purevision/page-Portfolio2Col.php:54
+#: D:\purevision/page-Portfolio3Col.php:52
+#: D:\purevision/page-Portfolio3Col.php:54
+#: D:\purevision/page-Portfolio4Col.php:52
+#: D:\purevision/page-Portfolio4Col.php:54
+msgid "All"
+msgstr "Tutto"
+
+#: D:\purevision/page-Portfolio1Col.php:135
+#: D:\purevision/page-Portfolio2Col.php:140
+#: D:\purevision/page-Portfolio3Col.php:140
+#: D:\purevision/page-Portfolio4Col.php:140
+msgid "Portfolio section for this page has not been found!"
+msgstr "Non &egrave; stata trovata la sezione Portfolio di questa pagina!"
+
+#: D:\purevision/page-Portfolio1Col.php:136
+#: D:\purevision/page-Portfolio2Col.php:141
+#: D:\purevision/page-Portfolio3Col.php:141
+#: D:\purevision/page-Portfolio4Col.php:141
+msgid "<strong>Reason:</strong> No category has been assigned as Portfolio section for this page yet. In order to fix this, go to the theme's options page and assign a category for this page."
+msgstr "<strong>Motivo:</strong> A questa pagina non è stata ancora assegnata nessuna categoria come Portfolio. Per risolvere il problema, vai alla pagina di opzioni del tema ed assegna una categoria a questa pagina."
+
+#: D:\purevision/purevision_options_page.php:337
+msgid "pureVISION"
+msgstr "pureVISION"
+
+#: D:\purevision/purevision_options_page.php:362
+msgid "Help"
+msgstr "Aiuto"
+
+#: D:\purevision/purevision_options_page.php:363
+msgid "General Options"
+msgstr "Opzioni generali"
+
+#: D:\purevision/purevision_options_page.php:364
+msgid "Font Settings"
+msgstr "Configurazione font"
+
+#: D:\purevision/purevision_options_page.php:365
+msgid "Custom Colors"
+msgstr "Personalizzazione dei colori"
+
+#: D:\purevision/purevision_options_page.php:366
+msgid "Front Page Sliders"
+msgstr "Slider della pagina principale"
+
+#: D:\purevision/purevision_options_page.php:367
+msgid "Portfolio Section"
+msgstr "Sezione Portfolio"
+
+#: D:\purevision/purevision_options_page.php:368
+msgid "Blog Section"
+msgstr "Sezione Blog"
+
+#: D:\purevision/purevision_options_page.php:369
+msgid "Contact Page"
+msgstr "Pagina Contatti"
+
+#: D:\purevision/purevision_options_page.php:370
+msgid "Footer Options"
+msgstr "Opzioni pi&egrave; di pagina"
+
+#: D:\purevision/purevision_options_page.php:371
+msgid "Statistics"
+msgstr "Statistiche"
+
+#: D:\purevision/purevision_options_page.php:380
+msgid "Settings saved."
+msgstr "Configurazione salvata."
+
+#: D:\purevision/purevision_options_page.php:384
+#, php-format
+msgid "Options <small>(version %1$s)</small>"
+msgstr "Opzioni <small>(versione %1$s)</small>"
+
+#: D:\purevision/purevision_options_page.php:406
+#: D:\purevision/purevision_options_page.php:409
+msgid "Reset to defaults"
+msgstr "Riporta il tema alle impostazioni di base"
+
+#: D:\purevision/purevision_options_page.php:414
+#: D:\purevision/purevision_options_page.php:4855
+msgid "Save Changes"
+msgstr "Salva modifiche"
+
+#: D:\purevision/purevision_options_page.php:1035
+msgid "Cheatin' uh?"
+msgstr "Stai scherzando, vero?"
+
+#: D:\purevision/purevision_options_page.php:1064
+msgid "pureVISION theme help resources:"
+msgstr "Risorse di aiuto per il tema pureVISION:"
+
+#: D:\purevision/purevision_options_page.php:1066
+msgid "Documentation"
+msgstr "Documentazione"
+
+#: D:\purevision/purevision_options_page.php:1067
+msgid "Documentation (new window)"
+msgstr "Documentazione (in una nuova finestra)"
+
+#: D:\purevision/purevision_options_page.php:1068
+msgid "Video Tutorials (Author's YouTube Tutorials Channel)"
+msgstr "Guide video (Canale YouTube di guide dell'autore)"
+
+#: D:\purevision/purevision_options_page.php:1069
+msgid "pureVISION Demo Site"
+msgstr "Sito dimostrativo pureVISION"
+
+#: D:\purevision/purevision_options_page.php:1070
+msgid "pureVISION Shortcodes"
+msgstr "Shortcode pureVISION"
+
+#: D:\purevision/purevision_options_page.php:1071
+msgid "Get the Code: All of the Home page examples source code is available here."
+msgstr "Scarica il codice: il codice sorgente di tutti gli esempi della home page è disponibile qui."
+
+#: D:\purevision/purevision_options_page.php:1072
+msgid "Support Forum"
+msgstr "Forum di supporto"
+
+#: D:\purevision/purevision_options_page.php:1073
+msgid "Contact the Author"
+msgstr "Contatta l'autore"
+
+#: D:\purevision/purevision_options_page.php:1086
+msgid "Custom Logo"
+msgstr "Logo personalizzato"
+
+#: D:\purevision/purevision_options_page.php:1089
+msgid "Enter a URL or upload an image for your logo:"
+msgstr "Immetti un URL o carica un'immagine per il logo:"
+
+#: D:\purevision/purevision_options_page.php:1091
+msgid "Upload Logo"
+msgstr "Carica logo"
+
+#: D:\purevision/purevision_options_page.php:1094
+msgid "To upload an image click on \"Upload Logo\" button. Once the image is uploaded it will give you various options. Click on \"Insert into Post\" button. Once you click on \"Insert into Post\", link with the uploaded image will be inserted into the text field above."
+msgstr "Per caricare un'immagine clicca sul pulsante \"Carica logo\". Una volta caricata l'immagine, sarà possibile accedere alle varie opzioni. Clicca su \"Inserisci nell'articolo\". Dopo aver cliccato su \"Inserisci nell'articolo\", il link assieme all'immagine caricata sarà inserito nel campo di testo qui sopra."
+
+#: D:\purevision/purevision_options_page.php:1098
+msgid "Top Area Height"
+msgstr "Altezza banda superiore"
+
+#: D:\purevision/purevision_options_page.php:1101
+msgid "(Height) in pixels."
+msgstr "(Altezza) in pixel."
+
+#: D:\purevision/purevision_options_page.php:1102
+msgid "Note: the minimum recommended height is 55px."
+msgstr "Nota: l'altezza minima raccomandata &egrave; di 55px."
+
+#: D:\purevision/purevision_options_page.php:1106
+msgid "Logo Dimensions"
+msgstr "Dimensioni del logo"
+
+#: D:\purevision/purevision_options_page.php:1111
+msgid "(Width X Height) in pixels."
+msgstr "(larghezza x altezza) in pixel."
+
+#: D:\purevision/purevision_options_page.php:1115
+msgid "Slogan Position from the Top"
+msgstr "Posizione dello slogan dal margine superiore"
+
+#: D:\purevision/purevision_options_page.php:1118
+msgid "from the top."
+msgstr "dal bordo superiore."
+
+#: D:\purevision/purevision_options_page.php:1122
+msgid "Slogan Position from the Left"
+msgstr "Posizione dello slogan dal lato sinistro"
+
+#: D:\purevision/purevision_options_page.php:1125
+msgid "from the left. Enter a number between 0 and 400."
+msgstr "dal lato sinistro. Immetti un numero tra 0 e 400."
+
+#: D:\purevision/purevision_options_page.php:1126
+#, php-format
+msgid "Please note that the actual Slogan text can be changed or deleted at %1$sSettings -> General%2$s <strong>Tagline</strong> option."
+msgstr "Nota che l'attuale testo dello slogan può essere modificato o cambiato su  %1$sImpostazioni -> Generale%2$s <strong>Motto</strong>."
+
+#: D:\purevision/purevision_options_page.php:1130
+msgid "Slogan Font Size"
+msgstr "Dimensioni font dello slogan"
+
+#: D:\purevision/purevision_options_page.php:1133
+#: D:\purevision/purevision_options_page.php:1501
+#: D:\purevision/purevision_options_page.php:1557
+#: D:\purevision/purevision_options_page.php:4072
+msgid "Font Size: "
+msgstr "Dimensioni font:"
+
+#: D:\purevision/purevision_options_page.php:1163
+msgid "Phone Number Information"
+msgstr "Informazioni numero telefonico"
+
+#: D:\purevision/purevision_options_page.php:1166
+msgid "Use this field to provide a phone number or any other short piece of information (30 character limit for display).  It is displayed near the search box located at the top right corner of the theme."
+msgstr "Usa questo campo per fornire un numero telefonico o qualunque altra breve informazione (limite massimo di 30 caratteri visualizzabili). Verr&agrave; mostrato al di sotto del riquadro di ricerca situato nell'angolo superiore destro del tema."
+
+#: D:\purevision/purevision_options_page.php:1170
+msgid "Search Box"
+msgstr "Riquadro di ricerca"
+
+#: D:\purevision/purevision_options_page.php:1174
+msgid "Enable the Search box displayed in the top area of the page."
+msgstr "Abilita la visualizzazione del riquadro di ricerca nell'area superiore della pagina."
+
+#: D:\purevision/purevision_options_page.php:1179
+msgid "Page Peel"
+msgstr "Angolo da sfogliare"
+
+#: D:\purevision/purevision_options_page.php:1183
+msgid "Enable Page Peel (Display the page curl/peel located in the top right corner of the site).  Could be used for your FeedBurner subscription or advertising."
+msgstr "Attiva angolo da sfogliare (mostra in alto a destra un angolo della pagina da sfogliare). Può essere usato per inserire annunci pubblicitari o l'abbonamento FeedBurner."
+
+#: D:\purevision/purevision_options_page.php:1185
+msgid "Page Peel Link URL:"
+msgstr "URL del link da assegnare all'angolo da sfogliare:"
+
+#: D:\purevision/purevision_options_page.php:1190
+msgid "Feedback Button"
+msgstr "Pulsante \"La vostra opinione\""
+
+#: D:\purevision/purevision_options_page.php:1194
+#, fuzzy
+msgid "Enable Feedback button (Display the Feedback button located in the most left side of the site)"
+msgstr "Attiva pulsante \"La vostra opinione\" (viene mostrato sul lato sinistro delle pagine del sito)"
+
+#: D:\purevision/purevision_options_page.php:1196
+msgid "Feedback Button URL:"
+msgstr "URL del link da assegnare al pulsante \"La vostra opinione\""
+
+#: D:\purevision/purevision_options_page.php:1201
+msgid "Fix the position of the \"Feedback\" button to prevent it from scrolling with the page."
+msgstr ""
+
+#: D:\purevision/purevision_options_page.php:1206
+msgid "Enable prettyPhoto script"
+msgstr "Attiva script prettyPhoto"
+
+#: D:\purevision/purevision_options_page.php:1210
+#, fuzzy, php-format
+msgid "Enable %1$sprettyPhoto%2$s script. In case of conflicts with some other lightbox plugins you may wish to disable the %1$sprettyPhoto%2$s script."
+msgstr "Attiva lo script %1$sprettyPhoto%2$s. In caso di conflitti con altri plugin del tipo \"lightbox\" potresti essere costretto a disabilitare lo script  %1$sprettyPhoto%2$s. Questo script viene automaticamente disabilitato nel caso il plugin %3$sWP-prettyPhoto%4$s sia già installato e attivato."
+
+#: D:\purevision/purevision_options_page.php:1215
+msgid "Exclude Pages From Menu"
+msgstr "Pagine da escludere dal menu"
+
+#: D:\purevision/purevision_options_page.php:1217
+msgid "Please select the page(s) you would like to be excluded from the top navigation menu. This option will NOT affect the settings in the new WordPress 3.0+ Menu option."
+msgstr "Seleziona la o le pagine che desideri vengano escluse dal menu di navigazione superiore. Questa opzione NON ha effetto sulle regolazioni della nuova opzione Menu di WordPress 3.0+."
+
+#: D:\purevision/purevision_options_page.php:1223
+msgid "page ID:"
+msgstr "ID della pagina:"
+
+#: D:\purevision/purevision_options_page.php:1226
+msgid "Keep in mind that if you exclude a page that has descendants (children pages), they will automatically be excluded from the menu as well!"
+msgstr "Tieni a mente che se escludi una pagina che ha discendenti (pagine figlio), anch'essi verranno esclusi automaticamente dal menu!"
+
+#: D:\purevision/purevision_options_page.php:1230
+msgid "Breadcrumbs"
+msgstr "Percorso di navigazione"
+
+#: D:\purevision/purevision_options_page.php:1232
+#: D:\purevision/purevision_options_page.php:1235
+msgid "Show Breadcrumbs"
+msgstr "Mostra percorso di navigazione"
+
+#: D:\purevision/purevision_options_page.php:1241
+#: D:\purevision/purevision_options_page.php:1243
+msgid "Top Menu Auto Arrows"
+msgstr "Frecce automatiche nel menu superiore"
+
+#: D:\purevision/purevision_options_page.php:1246
+msgid "Show the top navigation menu's auto arrows. Those are the arrows indicating a submenu. "
+msgstr "Mostra automaticamente le frecce nel menu superiore di navigazione. Queste frecce indicano la presenza di un sottomenu."
+
+#: D:\purevision/purevision_options_page.php:1252
+#: D:\purevision/purevision_options_page.php:1254
+msgid "Top Menu Drop Shadows"
+msgstr "Ombre portate nel menu superiore"
+
+#: D:\purevision/purevision_options_page.php:1257
+msgid "Enable drop shadows to the sub-menus. "
+msgstr "Attiva le ombre portate nei sottomenu"
+
+#: D:\purevision/purevision_options_page.php:1263
+#: D:\purevision/purevision_options_page.php:1265
+msgid "Border Under the Menu"
+msgstr "Bordo sotto al menu"
+
+#: D:\purevision/purevision_options_page.php:1268
+msgid "Remove the border line located under the menu. "
+msgstr "Elimina la linea di demarcazione situata sotto il menu."
+
+#: D:\purevision/purevision_options_page.php:1274
+msgid "Default Post Thumbnail"
+msgstr "Miniatura immagine di base per gli articoli"
+
+#: D:\purevision/purevision_options_page.php:1276
+msgid "Enable Default Thumb"
+msgstr "Attiva miniatura di base"
+
+#: D:\purevision/purevision_options_page.php:1279
+msgid "Enable default thumbnail for posts (This options is used with the \"pureVISION: Recent Posts\" widget)."
+msgstr "Attiva miniature di base per gli articoli (Questa opzione è usata con il widget \"pureVISION: Recent Posts\")."
+
+#: D:\purevision/purevision_options_page.php:1290
+msgid "Set the width of the \"Home Page Column 1\" Widget Area as constant 1/3 width (Applies only to a two column layout, in other words having the first widget area \"Home Page Column 1\" in combination with any of the other widget areas being active)."
+msgstr "Imposta la larghezza dell'area widget della \"Home Page Column 1\" come un'ampiezza costante di 1/3 (si applica solo ad un'impaginazione a due colonne, in altre parole quando si ha una prima area widget \"Home Page Column 1\" in combinazone con qualunque altra area widget attiva)."
+
+#: D:\purevision/purevision_options_page.php:1296
+msgid "Default Pages Sidebar Position"
+msgstr "Posizione di base della barra laterale nelle pagine"
+
+#: D:\purevision/purevision_options_page.php:1298
+#: D:\purevision/purevision_options_page.php:1307
+#: D:\purevision/purevision_options_page.php:1316
+#: D:\purevision/purevision_options_page.php:1325
+#: D:\purevision/purevision_options_page.php:1334
+#: D:\purevision/purevision_options_page.php:1343
+#: D:\purevision/purevision_options_page.php:1352
+#: D:\purevision/purevision_options_page.php:1361
+#: D:\purevision/purevision_options_page.php:1370
+#: D:\purevision/purevision_options_page.php:4374
+#: D:\purevision/purevision_options_page.php:4390
+#: D:\purevision/purevision_options_page.php:4466
+#: D:\purevision/purevision_options_page.php:4687
+msgid "Choose position:"
+msgstr "Scegli posizione:"
+
+#: D:\purevision/purevision_options_page.php:1299
+#: D:\purevision/purevision_options_page.php:1308
+#: D:\purevision/purevision_options_page.php:1317
+#: D:\purevision/purevision_options_page.php:1326
+#: D:\purevision/purevision_options_page.php:1335
+#: D:\purevision/purevision_options_page.php:1344
+#: D:\purevision/purevision_options_page.php:1353
+#: D:\purevision/purevision_options_page.php:1362
+#: D:\purevision/purevision_options_page.php:1371
+#: D:\purevision/purevision_options_page.php:4391
+#: D:\purevision/purevision_options_page.php:4467
+#: D:\purevision/purevision_options_page.php:4621
+#: D:\purevision/purevision_options_page.php:4688
+msgid "Left"
+msgstr "A sinistra"
+
+#: D:\purevision/purevision_options_page.php:1300
+#: D:\purevision/purevision_options_page.php:1309
+#: D:\purevision/purevision_options_page.php:1318
+#: D:\purevision/purevision_options_page.php:1327
+#: D:\purevision/purevision_options_page.php:1336
+#: D:\purevision/purevision_options_page.php:1345
+#: D:\purevision/purevision_options_page.php:1354
+#: D:\purevision/purevision_options_page.php:1363
+#: D:\purevision/purevision_options_page.php:1372
+#: D:\purevision/purevision_options_page.php:4392
+#: D:\purevision/purevision_options_page.php:4468
+#: D:\purevision/purevision_options_page.php:4623
+#: D:\purevision/purevision_options_page.php:4689
+msgid "Right"
+msgstr "A destra"
+
+#: D:\purevision/purevision_options_page.php:1301
+msgid "This is the sidebar position for all pages assigned with \"Default Template\"."
+msgstr "Questa è la posizione della barra laterale per tutte le pagine assegnate al \"Template standard\"."
+
+#: D:\purevision/purevision_options_page.php:1305
+msgid "Default Pages Sidebar 2 Position"
+msgstr "Posizione barra laterale 2 nelle pagine di base"
+
+#: D:\purevision/purevision_options_page.php:1310
+msgid "This is the sidebar position for all pages assigned with \"Page Template 2\"."
+msgstr "Questa è la posizione della barra laterale per tutte le pagine assegnate al \"Page Template 2\"."
+
+#: D:\purevision/purevision_options_page.php:1314
+msgid "Default Pages Sidebar 3 Position"
+msgstr "Posizione barra laterale 3 nelle pagine di base"
+
+#: D:\purevision/purevision_options_page.php:1319
+msgid "This is the sidebar position for all pages assigned with \"Page Template 3\"."
+msgstr "Questa è la posizione della barra laterale per tutte le pagine assegnate al \"Page Template 3\"."
+
+#: D:\purevision/purevision_options_page.php:1323
+msgid "Default Pages Sidebar 4 Position"
+msgstr "Posizione barra laterale 4 nelle pagine di base"
+
+#: D:\purevision/purevision_options_page.php:1328
+msgid "This is the sidebar position for all pages assigned with \"Page Template 4\"."
+msgstr "Questa è la posizione della barra laterale per tutte le pagine assegnate al \"Page Template 4\"."
+
+#: D:\purevision/purevision_options_page.php:1332
+msgid "Default Pages Sidebar 5 Position"
+msgstr "Posizione barra laterale 5 nelle pagine di base"
+
+#: D:\purevision/purevision_options_page.php:1337
+msgid "This is the sidebar position for all pages assigned with \"Page Template 5\"."
+msgstr "Questa è la posizione della barra laterale per tutte le pagine assegnate al \"Page Template 5\"."
+
+#: D:\purevision/purevision_options_page.php:1341
+msgid "Default Pages Sidebar 6 Position"
+msgstr "Posizione barra laterale 6 nelle pagine di base"
+
+#: D:\purevision/purevision_options_page.php:1346
+msgid "This is the sidebar position for all pages assigned with \"Page Template 6\"."
+msgstr "Questa è la posizione della barra laterale per tutte le pagine assegnate al \"Page Template 6\"."
+
+#: D:\purevision/purevision_options_page.php:1350
+msgid "Default Pages Sidebar 7 Position"
+msgstr "Posizione barra laterale 7 nelle pagine di base"
+
+#: D:\purevision/purevision_options_page.php:1355
+msgid "This is the sidebar position for all pages assigned with \"Page Template 7\"."
+msgstr "Questa è la posizione della barra laterale per tutte le pagine assegnate al \"Page Template 7\"."
+
+#: D:\purevision/purevision_options_page.php:1359
+msgid "Default Pages Sidebar 8 Position"
+msgstr "Posizione barra laterale 8 nelle pagine di base"
+
+#: D:\purevision/purevision_options_page.php:1364
+msgid "This is the sidebar position for all pages assigned with \"Page Template 8\"."
+msgstr "Questa è la posizione della barra laterale per tutte le pagine assegnate al \"Page Template 8\"."
+
+#: D:\purevision/purevision_options_page.php:1368
+msgid "Sitemap Page Sidebar Position"
+msgstr "Posizione barra laterale nella pagina di Mappa del sito"
+
+#: D:\purevision/purevision_options_page.php:1373
+msgid "This is the sidebar position for all pages assigned with \"Sitemap page\" template."
+msgstr "Questa è la posizione della barra laterale per tutte le pagine assegnate alla \"Sitemap page\"."
+
+#: D:\purevision/purevision_options_page.php:1377
+msgid "Excerpt Length"
+msgstr "Lunghezza estratto"
+
+#: D:\purevision/purevision_options_page.php:1379
+msgid "Change the excerpt length:"
+msgstr "Modifica la lunghezza dell'estratto"
+
+#: D:\purevision/purevision_options_page.php:1380
+msgid "Shorten or lengthen the excerpt to suite your personal needs. The number refers to the first number of words from a post."
+msgstr "Accorcia o allunga l'estratto secondo le tue esigenze personali. Il numero si riferisce alla quantit&agrave; di parole all'inizio di ogni articolo."
+
+#: D:\purevision/purevision_options_page.php:1384
+msgid "Excerpt More Phrase"
+msgstr "Frase di aggiunta estratto"
+
+#: D:\purevision/purevision_options_page.php:1386
+msgid "Change the phrase"
+msgstr "Modifica la frase"
+
+#: D:\purevision/purevision_options_page.php:1388
+msgid "This is the excerpt's 'Read more..' link. Change it to anything you'd like..."
+msgstr "Questo è il link 'Leggi il resto' per l'estratto degli articoli. Puoi cambiarlo con qualunque altro testo"
+
+#: D:\purevision/purevision_options_page.php:1392
+#: D:\purevision/purevision_options_page.php:1394
+msgid "Show Comments on Pages"
+msgstr "Mostra commenti nelle pagine"
+
+#: D:\purevision/purevision_options_page.php:1397
+#, fuzzy
+msgid "Show Comments on Pages. Those are the pages assigned with the 'Default Page', 'Page Template 2', ..., 'Page Template 8' and 'Full-width Page' templates. Additionally, you can 'Allow' these comments from the individual page's configuration."
+msgstr "Mostra commenti nelle pagine. Le pagine sono quelle assegnate con i template  'Template standard', 'Page Template 2', 'Page Template 3' e 'Page Template 4'. Inoltre, puoi 'Consentire' questi commenti dalla configurazione delle singole pagine."
+
+#: D:\purevision/purevision_options_page.php:1403
+#: D:\purevision/purevision_options_page.php:1405
+msgid "Percentage Based Column Layouts"
+msgstr ""
+
+#: D:\purevision/purevision_options_page.php:1408
+msgid "Enable this option to set shortcode generated column layouts based on percentage rather than fixed width."
+msgstr ""
+
+#: D:\purevision/purevision_options_page.php:1414
+#: D:\purevision/purevision_options_page.php:1416
+msgid "Disable Theme Update Notifier"
+msgstr "Disattiva la notifica di aggiornamenti del tema"
+
+#: D:\purevision/purevision_options_page.php:1419
+msgid "Disable the theme's notification of new updates."
+msgstr "Disattiva la notifica di nuovi aggiornamenti del tema"
+
+#: D:\purevision/purevision_options_page.php:1425
+#: D:\purevision/purevision_options_page.php:1427
+#, fuzzy
+msgid "Disable TimThumb"
+msgstr "Disattiva"
+
+#: D:\purevision/purevision_options_page.php:1430
+msgid "Disable the use of TimThumb script for cropping images."
+msgstr ""
+
+#: D:\purevision/purevision_options_page.php:1436
+#, php-format
+msgid "Enable %1$sstyle.css%2$s"
+msgstr "Attiva %1$sstyle.css%2$s"
+
+#: D:\purevision/purevision_options_page.php:1438
+msgid "Enable \"style.css\""
+msgstr "Attiva \"style.css\""
+
+#: D:\purevision/purevision_options_page.php:1441
+#, php-format
+msgid "Enable the %1$sstyle.css%2$s located in the theme's root folder. You can then edit that file from %3$sAppearance -> Edit%4$s to add any custom CSS. You would also need to enable this option if you want to use a %5$schild theme%6$s."
+msgstr "Attiva il foglio stile %1$sstyle.css%2$s situato al livello base della cartella del tema. Puoi modificare il foglio stile dal menù %3$sAspetto -> Modifica%4$s per aggiungere codici CSS personalizzati. Devi attivare questa opzione anche nel caso di utilizzo di un %5$schild theme%6$s."
+
+#: D:\purevision/purevision_options_page.php:1456
+msgid "Google WebFont Directory"
+msgstr "Elenco WebFont Google"
+
+#: D:\purevision/purevision_options_page.php:1458
+msgid "Google Web Fonts"
+msgstr "Font Google Web"
+
+#: D:\purevision/purevision_options_page.php:1461
+msgid "Enable Google WebFonts."
+msgstr "Attiva WebFont Google."
+
+#: D:\purevision/purevision_options_page.php:1464
+msgid "Enable this option and hit \"Update\" to add the Google Fonts to the available fonts listed below."
+msgstr "Attiva questa opzione e clicca su \"Aggiorna\" per aggiungere le font Google alla lista di font disponibili qui in basso."
+
+#: D:\purevision/purevision_options_page.php:1465
+msgid "Preview the available fonts at"
+msgstr "Mostra anteprima delle fonti disponibili in "
+
+#: D:\purevision/purevision_options_page.php:1469
+#: D:\purevision/purevision_options_page.php:1659
+#: D:\purevision/purevision_options_page.php:2372
+msgid "Update"
+msgstr "Aggiorna"
+
+#: D:\purevision/purevision_options_page.php:1475
+msgid "General Font Settings"
+msgstr "Configurazione generale font"
+
+#: D:\purevision/purevision_options_page.php:1478
+#: D:\purevision/purevision_options_page.php:1534
+#: D:\purevision/purevision_options_page.php:1591
+msgid "Font Family: "
+msgstr "Famiglia di font:"
+
+#: D:\purevision/purevision_options_page.php:1531
+msgid "Top Navigation Menu Font Settings"
+msgstr "Configurazione font del menu superiore di navigazione"
+
+#: D:\purevision/purevision_options_page.php:1587
+msgid "Title Headings Font Settings"
+msgstr "Configurazione font delle intestazioni"
+
+#: D:\purevision/purevision_options_page.php:1589
+msgid "This font is applied to all h1, h2, h3, h4, h5, h6 - Headings (with small exceptions) and  the Slogan (Tagline):"
+msgstr "Questa font verr&agrave; applicata a tutte le intestazioni h1, h2, h3, h4, h5, h6 (con piccole eccezioni) e alla frase slogan:"
+
+#: D:\purevision/purevision_options_page.php:1620
+msgid "Font Size Coefficient: "
+msgstr "Coefficiente dimensioni:"
+
+#: D:\purevision/purevision_options_page.php:1638
+msgid "The Font Size Coefficient is multiplied by the actual heading size in \"em\", thus any coefficient greater than \"1.0\" will cause the font size to inclease and any coefficient less than \"1.0 will produce smaller font size."
+msgstr "Il coefficiente dimensioni font è moltiplicato per l'attuale dimensione delle intestazioni in \"em\", quindi tutti i coefficienti maggiori di \"1.0\" ne aumentano le dimensioni, mentre i coefficienti minori di \"1.0\" riducono le dimensioni dei font."
+
+#: D:\purevision/purevision_options_page.php:1650
+msgid "Custom Colors Switch"
+msgstr "Selettore colori personalizzati"
+
+#: D:\purevision/purevision_options_page.php:1652
+msgid "If enabled this option will overwrite the default CSS styles."
+msgstr "Se attivata, questa opzione avrà la priorità sugli stili CSS di base."
+
+#: D:\purevision/purevision_options_page.php:1653
+msgid "Custom colors option:"
+msgstr "Opzione di personalizzazione dei colori:"
+
+#: D:\purevision/purevision_options_page.php:1654
+msgid "Enable"
+msgstr "Attiva"
+
+#: D:\purevision/purevision_options_page.php:1655
+msgid "Disable"
+msgstr "Disattiva"
+
+#: D:\purevision/purevision_options_page.php:1662
+msgid "Continue with the section below to customize the colors..."
+msgstr "Continua con la sezione sottostante per personalizzare i colori..."
+
+#: D:\purevision/purevision_options_page.php:1674
+msgid "General Text and Link Colors:"
+msgstr "Colori per il testo e i link:"
+
+#: D:\purevision/purevision_options_page.php:1678
+msgid "Body Text Color"
+msgstr "Colore per il corpo del testo"
+
+#: D:\purevision/purevision_options_page.php:1686
+msgid "Main body text color affecting the entire site."
+msgstr "Il colore del corpo del testo riguarda l'intero sito."
+
+#: D:\purevision/purevision_options_page.php:1690
+msgid "Link Color"
+msgstr "Colore dei link"
+
+#: D:\purevision/purevision_options_page.php:1698
+msgid "Main link color affecting the entire site."
+msgstr "Il colore principale dei link riguarda l'intero sito."
+
+#: D:\purevision/purevision_options_page.php:1702
+msgid "Link Hover Color"
+msgstr "Colore di passaggio sui link"
+
+#: D:\purevision/purevision_options_page.php:1710
+msgid "This is the link hover color."
+msgstr "Questo è il colore di passaggio sui link."
+
+#: D:\purevision/purevision_options_page.php:1714
+msgid "Headings Color"
+msgstr "Colore intestazioni"
+
+#: D:\purevision/purevision_options_page.php:1722
+msgid "This is the color for general H1, H2, H3, H4 ,H5 ,H6 Headings where applicable."
+msgstr "Questo è il colore delle intestazioni generali H1, H2, H3, H4 ,H5 ,H6, nel caso in cui sia applicabile."
+
+#: D:\purevision/purevision_options_page.php:1727
+msgid "Top Section Colors:"
+msgstr "Colori della sezione superiore:"
+
+#: D:\purevision/purevision_options_page.php:1731
+msgid "Top Area Background"
+msgstr "Sfondo dell'area superiore"
+
+#: D:\purevision/purevision_options_page.php:1739
+#, fuzzy
+msgid "Site's top section background color. This is the section with the logo, logan, phone number and search box, immediately above the menu."
+msgstr "Colore di fondo della sezione superiore del sito. Questa &egrave; la sezione con il logo, il numero di telefono e il riquadro di ricerca, immediatamente al di sopra del menu."
+
+#: D:\purevision/purevision_options_page.php:1747
+msgid "Top Area Text Color"
+msgstr "Colore del testo nell'area superiore"
+
+#: D:\purevision/purevision_options_page.php:1755
+msgid "This color affects the slogan, phone number and search text."
+msgstr "Questo &egrave; il colore del testo dello slogan, del numero telefonico e della ricerca."
+
+#: D:\purevision/purevision_options_page.php:1759
+msgid "Top Menu Link Color"
+msgstr "Colore dei link nell'area superiore"
+
+#: D:\purevision/purevision_options_page.php:1767
+msgid "This is the color of the main menu links."
+msgstr "Questo &egrave; il colore dei link nel menu principale."
+
+#: D:\purevision/purevision_options_page.php:1771
+msgid "Top Menu Active Link Color"
+msgstr "Colore dei link attivi nel menu superiore"
+
+#: D:\purevision/purevision_options_page.php:1779
+msgid "This is the color of the main menu active/selected link."
+msgstr "Questo &egrave; il colore del link selezionato/attivo nel menu principale."
+
+#: D:\purevision/purevision_options_page.php:1783
+msgid "Top Menu Hover Link Color"
+msgstr "Colore di passaggio sui link del menu superiore"
+
+#: D:\purevision/purevision_options_page.php:1791
+msgid "This is the color of the main menu hover link."
+msgstr "Questo &egrave; il colore che appare passando il cursore sui link del menu principale."
+
+#: D:\purevision/purevision_options_page.php:1796
+msgid "Midsection Colors:"
+msgstr "Colori della sezione mediana:"
+
+#: D:\purevision/purevision_options_page.php:1800
+msgid "Page Title Color"
+msgstr "Colore del titolo della pagina"
+
+#: D:\purevision/purevision_options_page.php:1808
+msgid "This is the color for the title of pages/posts/archives, etc. located in the area underneath the menu."
+msgstr "Questo &egrave; il colore per il titolo delle pagine/articoli/archivi ecc. situato nell'area al di sotto del menu."
+
+#: D:\purevision/purevision_options_page.php:1812
+msgid "Page Title Background Color"
+msgstr "Colore di fondo del titolo di pagina"
+
+#: D:\purevision/purevision_options_page.php:1820
+msgid "This is the background color behind the page titles."
+msgstr "Questo è il colore dello sfondo dei titoli di pagina"
+
+#: D:\purevision/purevision_options_page.php:1824
+msgid "Header/Slider Background"
+msgstr "Sfondo testata/slider"
+
+#: D:\purevision/purevision_options_page.php:1832
+msgid "This is the color behind the slider as well as page titles area background."
+msgstr "Questo &egrave; il colore dietro lo slider e anche lo sfondo dell'area titoli della pagina"
+
+#: D:\purevision/purevision_options_page.php:1840
+msgid "Main Content Area Background"
+msgstr "Sfondo dell'area di contenuto principale"
+
+#: D:\purevision/purevision_options_page.php:1848
+msgid "This is the color of the main content wrapper background."
+msgstr "Questo è il colore dello sfondo del contenuto principale"
+
+#: D:\purevision/purevision_options_page.php:1853
+msgid "Home Page Before Content Widget Area Colors:"
+msgstr "Colori dell'area widget nella home page, prima del contenuto:"
+
+#: D:\purevision/purevision_options_page.php:1857
+msgid "Title Color"
+msgstr "Colore del titolo"
+
+#: D:\purevision/purevision_options_page.php:1865
+msgid "This is the color for the title of widgets used in this Widget Area, usually an \"H3\" Headings."
+msgstr "Questo è il colore per il titolo dei widget usati in questa area widget, normalmente un'intestazione \"H3\"."
+
+#: D:\purevision/purevision_options_page.php:1869
+#: D:\purevision/purevision_options_page.php:4129
+msgid "Text Color"
+msgstr "Colore del testo"
+
+#: D:\purevision/purevision_options_page.php:1877
+msgid "This is the default text color applied to this Widget Area."
+msgstr "Questo è il colore del testo di base applicato a questa area widget."
+
+#: D:\purevision/purevision_options_page.php:1881
+msgid "Background Color"
+msgstr "Colore di fondo"
+
+#: D:\purevision/purevision_options_page.php:1889
+msgid "This is the background color."
+msgstr "Questo è il colore dello sfondo."
+
+#: D:\purevision/purevision_options_page.php:1894
+msgid "Bottom Area Colors:"
+msgstr "Colori dell'area inferiore:"
+
+#: D:\purevision/purevision_options_page.php:1895
+#: D:\purevision/purevision_options_page.php:1966
+#: D:\purevision/purevision_options_page.php:4579
+msgid "Enable This Section"
+msgstr "Attiva questa sezione"
+
+#: D:\purevision/purevision_options_page.php:1898
+#: D:\purevision/purevision_options_page.php:1969
+msgid "Enable this section."
+msgstr "Attiva questa sezione"
+
+#: D:\purevision/purevision_options_page.php:1904
+msgid "Bottom Background Color"
+msgstr "Colore di fondo dell'area inferiore"
+
+#: D:\purevision/purevision_options_page.php:1912
+msgid "This is the background color for the bottom area."
+msgstr "Questo è il colore dello sfondo dell'area inferiore."
+
+#: D:\purevision/purevision_options_page.php:1916
+msgid "Bottom Titles Color"
+msgstr "Colore dei titoli dell'area inferiore"
+
+#: D:\purevision/purevision_options_page.php:1924
+msgid "This is the color applied to the bottom area widget titles."
+msgstr "Questo è il colore applicato ai titoli dei widget del piè di pagina."
+
+#: D:\purevision/purevision_options_page.php:1928
+msgid "Bottom Text Color"
+msgstr "Colore del testo dell'area inferiore"
+
+#: D:\purevision/purevision_options_page.php:1936
+msgid "This is the default text color applied to the bottom area."
+msgstr "Questo è il colore di base del testo applicato all'area inferiore."
+
+#: D:\purevision/purevision_options_page.php:1940
+msgid "Bottom Link Color"
+msgstr "Colore dei link nell'area inferiore"
+
+#: D:\purevision/purevision_options_page.php:1948
+msgid "This is the bottom area link color."
+msgstr "Questo è il colore dei link nell'area inferiore."
+
+#: D:\purevision/purevision_options_page.php:1952
+msgid "Bottom Link Hover Color"
+msgstr "Colore di passaggio sui link del piè di pagina"
+
+#: D:\purevision/purevision_options_page.php:1960
+msgid "This is the bottom area link hover color."
+msgstr "Questo è il colore di passaggio sui link del piè di pagina."
+
+#: D:\purevision/purevision_options_page.php:1965
+msgid "Footer Area Colors:"
+msgstr "Colori del piè di pagina:"
+
+#: D:\purevision/purevision_options_page.php:1975
+msgid "Footer Background Color"
+msgstr "Colore di fondo del piè di pagina"
+
+#: D:\purevision/purevision_options_page.php:1983
+msgid "This is the footer background color."
+msgstr "Questo è il colore dello sfondo del piè di pagina."
+
+#: D:\purevision/purevision_options_page.php:1987
+msgid "Footer Text Color"
+msgstr "Colore del testo del piè di pagina"
+
+#: D:\purevision/purevision_options_page.php:1995
+msgid "This is the footer general text color."
+msgstr "Questo è il colore del testo generico del piè di pagina."
+
+#: D:\purevision/purevision_options_page.php:1999
+msgid "Footer Link Color"
+msgstr "Colore dei link del piè di pagina"
+
+#: D:\purevision/purevision_options_page.php:2007
+msgid "This is the footer link color."
+msgstr "Questo è il colore dei link del piè di pagina."
+
+#: D:\purevision/purevision_options_page.php:2011
+msgid "Footer Link Hover Color"
+msgstr "Colore di passaggio sui link del piè di pagina"
+
+#: D:\purevision/purevision_options_page.php:2019
+msgid "This is the footer link hover color."
+msgstr "Questo è il colore di passaggio sui link del piè di pagina."
+
+#: D:\purevision/purevision_options_page.php:2028
+msgid "Background Images:"
+msgstr "Immagini dello sfondo:"
+
+#: D:\purevision/purevision_options_page.php:2029
+msgid "Tip: To upload an image click on 'Upload Image' button below. Once the image is uploaded it will give you various options. Click on 'Insert into Post' button. Once you click on 'Insert into Post', link with the uploaded image will be inserted into the corresponding text field below. The background image is placed according to the background-position property. If 'No Repeat' is specified (see below), the image is placed at the element's top center possition."
+msgstr "Consiglio: Per caricare un'immagine clicca sul pulsante 'Carica immagine'. Una volta caricata l'immagine, sarà possibile accedere alle varie opzioni. Clicca sul pulsante 'Inserisci nell'articolo'. Dopo aver cliccato su 'Inserisci nell'articolo', il link assieme all'immagine caricata sarà inserito nel campo di testo corrispondente, qui in basso. L'immagine di sfondo verrà posizionata in base alla proprietà di posizionamento dello sfondo. Nel caso sia selezionata la voce 'Senza ripetizione' (vedi qui in basso), l'immagine sarà collocata nella posizione centrale superiore dell'elemento."
+
+#: D:\purevision/purevision_options_page.php:2033
+msgid "Top Background Image"
+msgstr "Immagini di sfondo dell'area superiore"
+
+#: D:\purevision/purevision_options_page.php:2036
+#: D:\purevision/purevision_options_page.php:2072
+#: D:\purevision/purevision_options_page.php:2108
+#: D:\purevision/purevision_options_page.php:2144
+#: D:\purevision/purevision_options_page.php:2180
+#: D:\purevision/purevision_options_page.php:2216
+#: D:\purevision/purevision_options_page.php:2252
+#: D:\purevision/purevision_options_page.php:2288
+#: D:\purevision/purevision_options_page.php:3883
+#: D:\purevision/purevision_options_page.php:3952
+msgid "Enter a URL or upload an image:"
+msgstr "Immetti un URL o carica un'immagine:"
+
+#: D:\purevision/purevision_options_page.php:2038
+#: D:\purevision/purevision_options_page.php:2074
+#: D:\purevision/purevision_options_page.php:2110
+#: D:\purevision/purevision_options_page.php:2146
+#: D:\purevision/purevision_options_page.php:2182
+#: D:\purevision/purevision_options_page.php:2218
+#: D:\purevision/purevision_options_page.php:2254
+#: D:\purevision/purevision_options_page.php:2290
+#: D:\purevision/purevision_options_page.php:2538
+#: D:\purevision/purevision_options_page.php:2590
+#: D:\purevision/purevision_options_page.php:2854
+#: D:\purevision/purevision_options_page.php:2881
+#: D:\purevision/purevision_options_page.php:3397
+#: D:\purevision/purevision_options_page.php:3429
+#: D:\purevision/purevision_options_page.php:3448
+#: D:\purevision/purevision_options_page.php:3497
+#: D:\purevision/purevision_options_page.php:3541
+#: D:\purevision/purevision_options_page.php:3572
+#: D:\purevision/purevision_options_page.php:3885
+#: D:\purevision/purevision_options_page.php:3954
+#: D:\purevision/purevision_options_page.php:4158
+#: D:\purevision/purevision_options_page.php:4241
+msgid "Upload Image"
+msgstr "Carica immagine"
+
+#: D:\purevision/purevision_options_page.php:2042
+#: D:\purevision/purevision_options_page.php:2078
+#: D:\purevision/purevision_options_page.php:2114
+#: D:\purevision/purevision_options_page.php:2150
+msgid "Background  Properties:"
+msgstr "Proprietà dello sfondo:"
+
+#: D:\purevision/purevision_options_page.php:2044
+#: D:\purevision/purevision_options_page.php:2080
+#: D:\purevision/purevision_options_page.php:2116
+#: D:\purevision/purevision_options_page.php:2152
+#: D:\purevision/purevision_options_page.php:2188
+#: D:\purevision/purevision_options_page.php:2224
+#: D:\purevision/purevision_options_page.php:2260
+#: D:\purevision/purevision_options_page.php:2296
+msgid "No Repeat"
+msgstr "Senza ripetizione"
+
+#: D:\purevision/purevision_options_page.php:2045
+#: D:\purevision/purevision_options_page.php:2081
+#: D:\purevision/purevision_options_page.php:2117
+#: D:\purevision/purevision_options_page.php:2153
+#: D:\purevision/purevision_options_page.php:2189
+#: D:\purevision/purevision_options_page.php:2225
+#: D:\purevision/purevision_options_page.php:2261
+#: D:\purevision/purevision_options_page.php:2297
+msgid "Repeat only Horizontally"
+msgstr "Ripeti solo orizzontalmente"
+
+#: D:\purevision/purevision_options_page.php:2046
+#: D:\purevision/purevision_options_page.php:2082
+#: D:\purevision/purevision_options_page.php:2118
+#: D:\purevision/purevision_options_page.php:2154
+#: D:\purevision/purevision_options_page.php:2190
+#: D:\purevision/purevision_options_page.php:2226
+#: D:\purevision/purevision_options_page.php:2262
+#: D:\purevision/purevision_options_page.php:2298
+msgid "Repeat only Vertically"
+msgstr "Ripeti solo verticalmente"
+
+#: D:\purevision/purevision_options_page.php:2047
+#: D:\purevision/purevision_options_page.php:2083
+#: D:\purevision/purevision_options_page.php:2119
+#: D:\purevision/purevision_options_page.php:2155
+#: D:\purevision/purevision_options_page.php:2191
+#: D:\purevision/purevision_options_page.php:2227
+#: D:\purevision/purevision_options_page.php:2263
+#: D:\purevision/purevision_options_page.php:2299
+msgid "Repeat both Vertically and Horizontally"
+msgstr "Ripeti sia verticalmente che orizzontalmente"
+
+#: D:\purevision/purevision_options_page.php:2049
+#: D:\purevision/purevision_options_page.php:2085
+#: D:\purevision/purevision_options_page.php:2121
+#: D:\purevision/purevision_options_page.php:2157
+#: D:\purevision/purevision_options_page.php:2193
+#: D:\purevision/purevision_options_page.php:2229
+#: D:\purevision/purevision_options_page.php:2265
+#: D:\purevision/purevision_options_page.php:2301
+msgid "Horizontal:"
+msgstr "Orizzontale:"
+
+#: D:\purevision/purevision_options_page.php:2051
+#: D:\purevision/purevision_options_page.php:2058
+#: D:\purevision/purevision_options_page.php:2087
+#: D:\purevision/purevision_options_page.php:2094
+#: D:\purevision/purevision_options_page.php:2123
+#: D:\purevision/purevision_options_page.php:2130
+#: D:\purevision/purevision_options_page.php:2159
+#: D:\purevision/purevision_options_page.php:2166
+#: D:\purevision/purevision_options_page.php:2195
+#: D:\purevision/purevision_options_page.php:2202
+#: D:\purevision/purevision_options_page.php:2231
+#: D:\purevision/purevision_options_page.php:2238
+#: D:\purevision/purevision_options_page.php:2267
+#: D:\purevision/purevision_options_page.php:2274
+#: D:\purevision/purevision_options_page.php:2303
+#: D:\purevision/purevision_options_page.php:2310
+#: D:\purevision/purevision_options_page.php:3199
+msgid "center"
+msgstr "centrato"
+
+#: D:\purevision/purevision_options_page.php:2052
+#: D:\purevision/purevision_options_page.php:2088
+#: D:\purevision/purevision_options_page.php:2124
+#: D:\purevision/purevision_options_page.php:2160
+#: D:\purevision/purevision_options_page.php:2196
+#: D:\purevision/purevision_options_page.php:2232
+#: D:\purevision/purevision_options_page.php:2268
+#: D:\purevision/purevision_options_page.php:2304
+#: D:\purevision/purevision_options_page.php:3200
+msgid "left"
+msgstr "a sinistra"
+
+#: D:\purevision/purevision_options_page.php:2053
+#: D:\purevision/purevision_options_page.php:2089
+#: D:\purevision/purevision_options_page.php:2125
+#: D:\purevision/purevision_options_page.php:2161
+#: D:\purevision/purevision_options_page.php:2197
+#: D:\purevision/purevision_options_page.php:2233
+#: D:\purevision/purevision_options_page.php:2269
+#: D:\purevision/purevision_options_page.php:2305
+#: D:\purevision/purevision_options_page.php:3201
+msgid "right"
+msgstr "a destra"
+
+#: D:\purevision/purevision_options_page.php:2055
+#: D:\purevision/purevision_options_page.php:2091
+#: D:\purevision/purevision_options_page.php:2127
+#: D:\purevision/purevision_options_page.php:2163
+#: D:\purevision/purevision_options_page.php:2199
+#: D:\purevision/purevision_options_page.php:2235
+#: D:\purevision/purevision_options_page.php:2271
+#: D:\purevision/purevision_options_page.php:2307
+msgid "Vertical:"
+msgstr "Verticale:"
+
+#: D:\purevision/purevision_options_page.php:2057
+#: D:\purevision/purevision_options_page.php:2093
+#: D:\purevision/purevision_options_page.php:2129
+#: D:\purevision/purevision_options_page.php:2165
+#: D:\purevision/purevision_options_page.php:2201
+#: D:\purevision/purevision_options_page.php:2237
+#: D:\purevision/purevision_options_page.php:2273
+#: D:\purevision/purevision_options_page.php:2309
+msgid "top"
+msgstr "in alto"
+
+#: D:\purevision/purevision_options_page.php:2059
+#: D:\purevision/purevision_options_page.php:2095
+#: D:\purevision/purevision_options_page.php:2131
+#: D:\purevision/purevision_options_page.php:2167
+#: D:\purevision/purevision_options_page.php:2203
+#: D:\purevision/purevision_options_page.php:2239
+#: D:\purevision/purevision_options_page.php:2275
+#: D:\purevision/purevision_options_page.php:2311
+msgid "bottom"
+msgstr "In basso"
+
+#: D:\purevision/purevision_options_page.php:2069
+msgid "Home Page Header Background Image"
+msgstr "Immagine di sfondo della testata della home page"
+
+#: D:\purevision/purevision_options_page.php:2105
+msgid "Home Page Before Content Background Image"
+msgstr "Immagine dello sfondo della home page prima del contenuto"
+
+#: D:\purevision/purevision_options_page.php:2141
+msgid "Page Title Background Image"
+msgstr "Immagine di sfondo del titolo di pagina"
+
+#: D:\purevision/purevision_options_page.php:2177
+msgid "Main Content Background Image"
+msgstr "Immagine di sfondo dell'area di contenuto principale"
+
+#: D:\purevision/purevision_options_page.php:2186
+#: D:\purevision/purevision_options_page.php:2222
+#: D:\purevision/purevision_options_page.php:2258
+#: D:\purevision/purevision_options_page.php:2294
+msgid "Background Properties:"
+msgstr "Proprietà dello sfondo:"
+
+#: D:\purevision/purevision_options_page.php:2213
+msgid "Bottom Area Background Image  <div style=\"font-size:10px; font-style:italic; color:#929292;\">(Enable the \"Bottom Area Colors\" above to use this section)</div>"
+msgstr "Immagine di sfondo dell'area inferiore <div style=\"font-size:10px; font-style:italic; color:#929292;\">(per usare questa sezione devi attivare i \"Colori dell'area inferiore\" più in alto)</div>"
+
+#: D:\purevision/purevision_options_page.php:2249
+msgid "Footer Background Image <div style=\"font-size:10px; font-style:italic; color:#929292;\">(Enable the \"Footer Area Colors\" above to use this section)</div>"
+msgstr "Immagine di sfondo del piè di pagina <div style=\"font-size:10px; font-style:italic; color:#929292;\">(per usare questa sezione devi attivare i \"Colori del piè di pagina\" più in alto)</div>"
+
+#: D:\purevision/purevision_options_page.php:2285
+msgid "One Continuous Background Image That Will Span Across All Sections"
+msgstr "Immagine continua di sfondo che attraversa tutte le sezioni"
+
+#: D:\purevision/purevision_options_page.php:2315
+#, php-format
+msgid "For Background color  %1$sTop Area Background %2$s%3$s  will be used."
+msgstr "Il colore di fondo sarà quello impostato nello %1$sSfondo della sezione superiore%2$s%3$s"
+
+#: D:\purevision/purevision_options_page.php:2317
+msgid "Fixed Position"
+msgstr "Posizione fissa"
+
+#: D:\purevision/purevision_options_page.php:2320
+msgid "Fix the position of the background image so that it is not scrollable."
+msgstr "Fissa la posizione dell'immagine di fondo, in modo che non scorra."
+
+#: D:\purevision/purevision_options_page.php:2323
+msgid "Allow Other Sections' Images"
+msgstr "Consenti immagini di altre sezioni"
+
+#: D:\purevision/purevision_options_page.php:2326
+msgid "Enable background images from other sections to show as well, you can achieve sort of layered layout."
+msgstr "Mostra le immagini di fondo anche da altre sezioni; è possibile ottenere una sorta di layout a livelli."
+
+#: D:\purevision/purevision_options_page.php:2330
+#, php-format
+msgid "Note: If you wish to remove the border line under the top navigation menu, the option for that is located under: %1$s General Options %2$s Border Under the Menu %3$s"
+msgstr "Nota: se desideri eliminare la linea di demarcazione al di sotto del menu superiore di navigazione, l'opzione è disponibile in %1$s Opzioni generali %2$s Bordo sotto il menu %3$s"
+
+#: D:\purevision/purevision_options_page.php:2340
+msgid "Administrative Tasks:"
+msgstr "Funzioni amministrative:"
+
+#: D:\purevision/purevision_options_page.php:2343
+msgid "Save the current custom colors."
+msgstr "Salva gli attuali colori personalizzati."
+
+#: D:\purevision/purevision_options_page.php:2345
+msgid "A Color Scheme will be saved with an automatic name generated from the current time stamp. Once saved you will be able to choose it from the dropdown below and load it at a later time."
+msgstr "Uno schema di colore sarà salvato con un nome automatico generato dall'attuale orario. Una volta salvato, sarai in grado di selezionarlo dal menu a discesa qui in basso e caricarlo successivamente."
+
+#: D:\purevision/purevision_options_page.php:2348
+msgid "Save"
+msgstr "Salva"
+
+#: D:\purevision/purevision_options_page.php:2353
+msgid "Choose a custom color scheme from the first dropdown below and then choose a task to perform from the second dropdown, then hit the \"Update\" button."
+msgstr "Scegli uno schema di colore personalizzato dal primo menu a discesa qui in basso e quindi scegli una funzione da effettuare con il secondo menu a discesa. Clicca infine  sul pulsante \"Aggiorna\""
+
+#: D:\purevision/purevision_options_page.php:2368
+msgid "Note: The \"Default Colors\" cannot be deleted."
+msgstr "Nota: i \"Default Colors\" non possono essere cancellati."
+
+#: D:\purevision/purevision_options_page.php:2387
+msgid "Current Slider"
+msgstr "Slider attuale"
+
+#: D:\purevision/purevision_options_page.php:2389
+msgid "Choose a slider:"
+msgstr "Scegli uno slider:"
+
+#: D:\purevision/purevision_options_page.php:2392
+#, fuzzy
+msgid "Flashmo Grid Slider"
+msgstr "1. Flashmo Grid"
+
+#: D:\purevision/purevision_options_page.php:2393
+#, fuzzy
+msgid "Piecemaker"
+msgstr "2. Piecemaker"
+
+#: D:\purevision/purevision_options_page.php:2394
+#, fuzzy
+msgid "Piecemaker 2"
+msgstr "3. Piecemaker 2"
+
+#: D:\purevision/purevision_options_page.php:2395
+#, fuzzy
+msgid "Cycle 1 (full width image)"
+msgstr "4. Ciclo 1 (immagine a piena larghezza)"
+
+#: D:\purevision/purevision_options_page.php:2396
+#, fuzzy
+msgid "Cycle 2 (image with text)"
+msgstr "5. Ciclo 2 (immagine con testo)"
+
+#: D:\purevision/purevision_options_page.php:2397
+#, fuzzy
+msgid "No Slider"
+msgstr "6. Nessuno Slider"
+
+#: D:\purevision/purevision_options_page.php:2402
+msgid "Save & Activate"
+msgstr "Salva e attiva"
+
+#: D:\purevision/purevision_options_page.php:2405
+msgid "Continue with the section below to customize the slider..."
+msgstr "Per personalizzare lo slider prosegui nella sezione qui in basso:"
+
+#: D:\purevision/purevision_options_page.php:2437
+msgid "Flashmo Grid Slider Settings:"
+msgstr "Configurazione slider Flashmo Grid:"
+
+#: D:\purevision/purevision_options_page.php:2441
+#: D:\purevision/purevision_options_page.php:2679
+#: D:\purevision/purevision_options_page.php:2935
+#: D:\purevision/purevision_options_page.php:4590
+msgid "Image Width"
+msgstr "Larghezza immagine"
+
+#: D:\purevision/purevision_options_page.php:2444
+msgid "The width in pixels of the slider images (940 recommended)."
+msgstr "Larghezza in pixel delle immagini dello slider (940 pixel raccomandati)"
+
+#: D:\purevision/purevision_options_page.php:2448
+#: D:\purevision/purevision_options_page.php:2686
+#: D:\purevision/purevision_options_page.php:2942
+#: D:\purevision/purevision_options_page.php:4597
+msgid "Image Height"
+msgstr "Altezza immagine"
+
+#: D:\purevision/purevision_options_page.php:2451
+msgid "The height in pixels of the slider images (400 recommended)."
+msgstr "L'altezza in pixel delle immagini dello slider (400 pixel raccomandati)"
+
+#: D:\purevision/purevision_options_page.php:2455
+msgid "Auto Play"
+msgstr "Riproduzione automatica"
+
+#: D:\purevision/purevision_options_page.php:2458
+msgid "True"
+msgstr "Vero"
+
+#: D:\purevision/purevision_options_page.php:2459
+msgid "False"
+msgstr "Falso"
+
+#: D:\purevision/purevision_options_page.php:2461
+msgid "Set the auto play option, true by default ( or false )."
+msgstr "Regola l'opzione di riproduzione automatica, che di base &egrave; attivata (True)."
+
+#: D:\purevision/purevision_options_page.php:2465
+msgid "Auto Play Duration"
+msgstr "Durata della riproduzione automatica"
+
+#: D:\purevision/purevision_options_page.php:2468
+msgid "Number of seconds between transitions, 2.4 seconds by default ( or any number of seconds )."
+msgstr "Numero di secondi tra due diverse transizioni, regolati di base a 2,4 secondi (modificabile)."
+
+#: D:\purevision/purevision_options_page.php:2472
+msgid "Number of Rows"
+msgstr "Numero di righe"
+
+#: D:\purevision/purevision_options_page.php:2475
+msgid "Number of rows, in which the images will be sliced, 4 rows by default ( or any number of rows )"
+msgstr "Numero di righe in cui l'immagine viene ritagliata, di base 4 (modificabili)"
+
+#: D:\purevision/purevision_options_page.php:2479
+msgid "Number of Columns"
+msgstr "Numero di colonne"
+
+#: D:\purevision/purevision_options_page.php:2482
+msgid "Number of columns, in which the images will be sliced, 6 columns by default ( or any number of columns )"
+msgstr "Numero di colonne in cui l'immagine viene ritagliata, di base 6 (modificabile)"
+
+#: D:\purevision/purevision_options_page.php:2486
+msgid "Tween Duration"
+msgstr "Durata animazione"
+
+#: D:\purevision/purevision_options_page.php:2489
+msgid "Duration in seconds of the motion tween for each block in the transition."
+msgstr "Durata in secondi dell'animazione di movimento per ogni blocco della transizione."
+
+#: D:\purevision/purevision_options_page.php:2493
+#: D:\purevision/purevision_options_page.php:2707
+msgid "Tween Delay"
+msgstr "Ritardo animazione"
+
+#: D:\purevision/purevision_options_page.php:2496
+msgid "Delay in seconds between each block in the transition."
+msgstr "Ritardo in secondi tra ogni blocco della transizione"
+
+#: D:\purevision/purevision_options_page.php:2500
+msgid "Bar Status"
+msgstr "Barra di stato"
+
+#: D:\purevision/purevision_options_page.php:2503
+msgid "Hide the Bar"
+msgstr "Nascondi la barra"
+
+#: D:\purevision/purevision_options_page.php:2504
+msgid "Show the Bar"
+msgstr "Mostra la barra"
+
+#: D:\purevision/purevision_options_page.php:2505
+msgid "Show the Bar and Photo Description"
+msgstr "Mostra la barra e la descrizione della foto"
+
+#: D:\purevision/purevision_options_page.php:2507
+msgid "This is the area in the slider displaying additional controls and text."
+msgstr "Questa &egrave; l'area nello slider che mostra testo e controlli aggiuntivi."
+
+#: D:\purevision/purevision_options_page.php:2511
+#: D:\purevision/purevision_options_page.php:2513
+#: D:\purevision/purevision_options_page.php:2798
+#: D:\purevision/purevision_options_page.php:2800
+#: D:\purevision/purevision_options_page.php:3858
+#: D:\purevision/purevision_options_page.php:3860
+msgid "3D Shadow"
+msgstr "Ombra 3D"
+
+#: D:\purevision/purevision_options_page.php:2516
+#: D:\purevision/purevision_options_page.php:2803
+#: D:\purevision/purevision_options_page.php:3863
+msgid "Remove the 3D shadow under the slider"
+msgstr "Rimuove l'ombra 3D al di sotto dello slider"
+
+#: D:\purevision/purevision_options_page.php:2536
+#: D:\purevision/purevision_options_page.php:2588
+#: D:\purevision/purevision_options_page.php:2852
+#: D:\purevision/purevision_options_page.php:2879
+#: D:\purevision/purevision_options_page.php:3395
+#: D:\purevision/purevision_options_page.php:3427
+#: D:\purevision/purevision_options_page.php:3446
+#: D:\purevision/purevision_options_page.php:3495
+#: D:\purevision/purevision_options_page.php:3539
+#: D:\purevision/purevision_options_page.php:3570
+#: D:\purevision/purevision_options_page.php:4156
+#: D:\purevision/purevision_options_page.php:4239
+msgid "Image:"
+msgstr "Immagine:"
+
+#: D:\purevision/purevision_options_page.php:2542
+#: D:\purevision/purevision_options_page.php:2594
+msgid "Flow:"
+msgstr "Flusso:"
+
+#: D:\purevision/purevision_options_page.php:2549
+#: D:\purevision/purevision_options_page.php:2601
+msgid "Direction:"
+msgstr "Direzione:"
+
+#: D:\purevision/purevision_options_page.php:2559
+#: D:\purevision/purevision_options_page.php:2611
+msgid "Rotation:"
+msgstr "Rotazione:"
+
+#: D:\purevision/purevision_options_page.php:2569
+#: D:\purevision/purevision_options_page.php:2621
+#: D:\purevision/purevision_options_page.php:3417
+#: D:\purevision/purevision_options_page.php:3517
+#: D:\purevision/purevision_options_page.php:4210
+#: D:\purevision/purevision_options_page.php:4293
+msgid "Slide text"
+msgstr "Testo slide"
+
+#: D:\purevision/purevision_options_page.php:2573
+#: D:\purevision/purevision_options_page.php:2625
+msgid "This textfield supports HTML and CSS. The CSS classes used are located in \"sliders/flashmo/grid_slider/flashmo_224_style.css\""
+msgstr "Questo campo di testo supporta HTML e CSS. Le classi CSS sono reperibili in \"sliders/flashmo/grid_slider/flashmo_224_style.css\""
+
+#: D:\purevision/purevision_options_page.php:2635
+#: D:\purevision/purevision_options_page.php:2900
+#: D:\purevision/purevision_options_page.php:3792
+msgid "No JavaScript image"
+msgstr "Immagine per browser senza JavaScript"
+
+#: D:\purevision/purevision_options_page.php:2637
+#: D:\purevision/purevision_options_page.php:2902
+#: D:\purevision/purevision_options_page.php:3794
+msgid "Paste the full path to your image:"
+msgstr "Incollate il percorso completo all'immagine:"
+
+#: D:\purevision/purevision_options_page.php:2639
+msgid "In the case when JavaScript is disabled the 1st slider image is displayed by default in place of the Flashmo slider, you may change that in here"
+msgstr "Nel caso in cui JavaScript sia disattivato, la prima immagine dello slider viene mostrata di base al posto dello slider Flashmo, ed è modificabile da qui"
+
+#: D:\purevision/purevision_options_page.php:2675
+msgid "Piecemaker Slider Settings:"
+msgstr "Regolazione slider Piecemaker:"
+
+#: D:\purevision/purevision_options_page.php:2682
+msgid "The width of the images to be loaded."
+msgstr "Larghezza delle immagini da caricare."
+
+#: D:\purevision/purevision_options_page.php:2689
+msgid "The height of the images to be loaded."
+msgstr "Altezza delle immagini da caricare."
+
+#: D:\purevision/purevision_options_page.php:2693
+msgid "Number of segments"
+msgstr "Numero di segmenti"
+
+#: D:\purevision/purevision_options_page.php:2696
+msgid "Number of segments, in which the images will be sliced."
+msgstr "Numero di segmenti in cui l'immagine viene suddivisa"
+
+#: D:\purevision/purevision_options_page.php:2700
+msgid "Tween Time"
+msgstr "Tempo di animazione"
+
+#: D:\purevision/purevision_options_page.php:2703
+msgid "Number of seconds for each element to be turned."
+msgstr "Numero di secondi per la rotazione di ciascun elemento."
+
+#: D:\purevision/purevision_options_page.php:2710
+msgid "Number of seconds from one element starting to turn to the next element starting."
+msgstr "Numero di secondi per l'inizio della rotazione di un elemento rispetto a quello successivo."
+
+#: D:\purevision/purevision_options_page.php:2714
+msgid "Tween Type"
+msgstr "Tipo di animazione"
+
+#: D:\purevision/purevision_options_page.php:2759
+#, php-format
+msgid "Type of transition from Caurina&#39;s Tweener class. Find all possible transition types and more information about Tweener in the official %1$sdocumentation%2$s."
+msgstr "Tipo di transizione dalla classe Tweener Caurina&#39;s. Trova tutti i tipi possibili di transizione e informazioni aggiuntive su Tweener nella %1$sdocumentazione%2$s ufficiale."
+
+#: D:\purevision/purevision_options_page.php:2763
+msgid "Z Distance"
+msgstr "Distanza Z"
+
+#: D:\purevision/purevision_options_page.php:2766
+#, fuzzy
+msgid "To which extent are the cubes moved on z axis when being tweened. Negative values bring the cube closer to the camera, positive values take it further away. A good range is roughly between -200 and 700."
+msgstr "Fino a quale estensione i cubi devono spostarsi sull'asse Z durante l'animazione. Valori negativi portano il cubo più vicino alla camera di ripresa, valori negativi lo allontanano. Una buona gamma di valori è all'incirca tra -200 e 700."
+
+#: D:\purevision/purevision_options_page.php:2770
+msgid "Expand"
+msgstr "Espandi"
+
+#: D:\purevision/purevision_options_page.php:2773
+#, fuzzy
+msgid "To which extent are the cubes moved away from each other when tweening."
+msgstr "Fino a quale estensione i cubi devono spostarsi l'uno dall'altro durante l'animazione."
+
+#: D:\purevision/purevision_options_page.php:2777
+msgid "Shadow Darkness"
+msgstr "Profondità ombra"
+
+#: D:\purevision/purevision_options_page.php:2780
+#, fuzzy
+msgid "To which extent are the sides shadowed, when the elements are tweening and the sided move towards the background. 100 is black, 0 is no darkening."
+msgstr "Fino a quale estensione l'ombra deve cadere sui lati durante l'animazione degli elementi e quando i lati si spostano verso lo sfondo. 100 = nero, 0 = nessuna ombra."
+
+#: D:\purevision/purevision_options_page.php:2784
+#: D:\purevision/purevision_options_page.php:2983
+msgid "Autoplay"
+msgstr "Riproduzione automatica"
+
+#: D:\purevision/purevision_options_page.php:2787
+msgid "Number of seconds to the next image."
+msgstr "Numero di secondi per l'immagine successiva."
+
+#: D:\purevision/purevision_options_page.php:2791
+msgid "Text Distance"
+msgstr "Distanza del testo"
+
+#: D:\purevision/purevision_options_page.php:2794
+msgid "Distance of the info text to the borders of its background."
+msgstr "Distanza del testo di informazioni dai bordi dello sfondo."
+
+#: D:\purevision/purevision_options_page.php:2814
+msgid "Text Background"
+msgstr "Sfondo del testo"
+
+#: D:\purevision/purevision_options_page.php:2822
+msgid "Description text background"
+msgstr "Sfondo del testo di descrizione"
+
+#: D:\purevision/purevision_options_page.php:2826
+msgid "Inner Color"
+msgstr "Colore interno"
+
+#: D:\purevision/purevision_options_page.php:2834
+msgid "Sides color of the sliced elements"
+msgstr "Colore dei lati degli elementi ritagliati"
+
+#: D:\purevision/purevision_options_page.php:2860
+#: D:\purevision/purevision_options_page.php:2886
+msgid "Edit the info text, erase all for none:"
+msgstr "Modifica il testo di informazioni, cancella il contenuto per non mostrare nulla:"
+
+#: D:\purevision/purevision_options_page.php:2864
+#: D:\purevision/purevision_options_page.php:2890
+msgid "Study the above text for slider's specific syntax"
+msgstr "Studia il testo qui sopra per la sintassi specifica dello slider"
+
+#: D:\purevision/purevision_options_page.php:2904
+msgid "In the case when JavaScript is disabled the 1st slider image is displayed by default in place of the Piecemaker slider, you may change that in here"
+msgstr "Nel caso in cui JavaScript sia disattivato, la prima immagine dello slider viene mostrata di base al posto dello slider Piecemaker, ed è modificabile da qui"
+
+#: D:\purevision/purevision_options_page.php:2928
+msgid "Piecemaker 2 Slider Settings:"
+msgstr "Impostazione slider Piecemaker 2:"
+
+#: D:\purevision/purevision_options_page.php:2931
+msgid "General Settings:"
+msgstr "Impostazioni generali:"
+
+#: D:\purevision/purevision_options_page.php:2938
+msgid "The width of every image."
+msgstr "La larghezza di ogni immagine."
+
+#: D:\purevision/purevision_options_page.php:2945
+msgid "The height of every image."
+msgstr "L'altezza di ogni immagine."
+
+#: D:\purevision/purevision_options_page.php:2954
+msgid "Loader Color"
+msgstr "Colore del caricatore"
+
+#: D:\purevision/purevision_options_page.php:2962
+msgid "Color of the cubes before the first image appears, also the color of the back sides of the cube, which become visible at some transition types."
+msgstr "Colore dei cubi prima che appaia la prima immagine e colore delle facce nascoste del cubo, che diventano visibili in qualche tipo di transizione."
+
+#: D:\purevision/purevision_options_page.php:2966
+msgid "Inner Side Color"
+msgstr "Colore facce interne"
+
+#: D:\purevision/purevision_options_page.php:2974
+msgid "Color of the inner sides of the cube when sliced"
+msgstr "Colore delle facce interne del cubo quando viene scomposto"
+
+#: D:\purevision/purevision_options_page.php:2986
+msgid "Number of seconds from one transition to another, if not stopped. Set to 0 to disable autoplay."
+msgstr "Numero di secondi tra due transizioni, se non vengono interrotte. Imposta su 0 per disattivare la riproduzione automatica."
+
+#: D:\purevision/purevision_options_page.php:2990
+msgid "Field of View"
+msgstr "Campo visivo"
+
+#: D:\purevision/purevision_options_page.php:2993
+#, php-format
+msgid "The display of the slide object moving down the z axis (1 to 179). It appears to change size quickly and moves a great distance. %1$sMore info%2$s"
+msgstr "La visualizzazione dell'oggetto slide che si muove lungo l'asse Z (da 1 a 179). Sembra modificare le dimensioni velocemente e si sposta di una grande distanza. %1$sAltre informazioni%2$s"
+
+#: D:\purevision/purevision_options_page.php:3001
+msgid "Shadows:"
+msgstr "Ombre:"
+
+#: D:\purevision/purevision_options_page.php:3005
+msgid "Side Shadow Alpha"
+msgstr "Opacità ombra facce laterali"
+
+#: D:\purevision/purevision_options_page.php:3008
+#, php-format
+msgid "Sides get darker when moved away from the front. This is the degree of darkness 0 = no change, 1 = 100%s black."
+msgstr "Le facce laterali si scuriscono mano a mano che si spostano dal lato frontale. Livello di oscuramento: 0 = nessun cambiamento, 1 = 100%s nero."
+
+#: D:\purevision/purevision_options_page.php:3012
+msgid "Drop Shadow Alpha"
+msgstr "Opacità ombra portata"
+
+#: D:\purevision/purevision_options_page.php:3015
+msgid "Alpha of the drop shadow 0 = no shadow, 1 = opaque."
+msgstr "Opacità dell'ombra portata; 0 = nessuna ombta, 1 = opaca."
+
+#: D:\purevision/purevision_options_page.php:3019
+msgid "Drop Shadow Distance"
+msgstr "Distanza ombra portata"
+
+#: D:\purevision/purevision_options_page.php:3022
+msgid "Distance of the shadow from the bottom of the image."
+msgstr "Distanza dell'ombra dalla base dell'immagine"
+
+#: D:\purevision/purevision_options_page.php:3026
+msgid "Drop Shadow Scale"
+msgstr "Scala dell'ombra portata"
+
+#: D:\purevision/purevision_options_page.php:3029
+msgid "As the shadow is blurred, it appears wider that the actual image, when not resized. Thus it's a good idea to make it slightly smaller. 1 would be no resizing at all."
+msgstr "Dato che l'ombra non ha contorni definiti, appare più larga dell'immagine reale, se non viene ridimensionata. Quindi è una buona idea rimpicciolirla leggermente. 1 = nessun ridimensionamento."
+
+#: D:\purevision/purevision_options_page.php:3033
+msgid "Drop Shadow Blur X"
+msgstr "Riduzione definizione X ombra portata"
+
+#: D:\purevision/purevision_options_page.php:3036
+msgid "Blur of the drop shadow on the x-axis."
+msgstr "Riduce la definizione dell'ombra portata sull'asse X"
+
+#: D:\purevision/purevision_options_page.php:3040
+msgid "Drop Shadow Blur Y"
+msgstr "Riduzione definizione Y ombra portata"
+
+#: D:\purevision/purevision_options_page.php:3043
+msgid "Blur of the drop shadow on the y-axis."
+msgstr "Riduce la definizione dell'ombra portata sull'asse Y"
+
+#: D:\purevision/purevision_options_page.php:3051
+msgid "Menu:"
+msgstr "Menu:"
+
+#: D:\purevision/purevision_options_page.php:3055
+msgid "Menu Distance X"
+msgstr "Distanza X dei menu"
+
+#: D:\purevision/purevision_options_page.php:3058
+msgid "Distance between two menu items (from center to center)."
+msgstr "Distanza tra due menu adiacenti (da un centro all'altro)."
+
+#: D:\purevision/purevision_options_page.php:3062
+msgid "Menu Distance Y"
+msgstr "Distanza Y dei menu"
+
+#: D:\purevision/purevision_options_page.php:3065
+msgid "Distance of the menu from the bottom of the image."
+msgstr "Distanza dei menu dalla base dell'immagine."
+
+#: D:\purevision/purevision_options_page.php:3074
+msgid "Menu Color 1"
+msgstr "Colore 1 menu"
+
+#: D:\purevision/purevision_options_page.php:3082
+msgid "Color of an inactive menu item."
+msgstr "Colore di un menu non attivo."
+
+#: D:\purevision/purevision_options_page.php:3086
+msgid "Menu Color 2"
+msgstr "Colore 2 menu"
+
+#: D:\purevision/purevision_options_page.php:3094
+msgid "Color of an active menu item."
+msgstr "Colore di un menu attivo"
+
+#: D:\purevision/purevision_options_page.php:3098
+msgid "Menu Color 3"
+msgstr "Colore 3 menu"
+
+#: D:\purevision/purevision_options_page.php:3106
+msgid "Color of the inner circle of an active menu item. Should equal the background color of the whole thing."
+msgstr "Colore del cerchio interno di un oggetto di menu attivo. Dovrebbe essere uguale al colore di sfondo del resto."
+
+#: D:\purevision/purevision_options_page.php:3114
+msgid "Controls:"
+msgstr "Controlli:"
+
+#: D:\purevision/purevision_options_page.php:3118
+msgid "Controls' Size"
+msgstr "Dimensioni dei controlli"
+
+#: D:\purevision/purevision_options_page.php:3121
+msgid "Size of the controls, which appear on rollover (play, stop, info, link)."
+msgstr "Dimensioni dei controlli che appaiono al passaggio del cursore (riproduci, stop, informazioni, link)."
+
+#: D:\purevision/purevision_options_page.php:3125
+msgid "Controls' Distance"
+msgstr "Distanza dei controlli"
+
+#: D:\purevision/purevision_options_page.php:3128
+msgid "Distance between the controls (from the borders)."
+msgstr "Distanza tra i controlli (dai bordi)."
+
+#: D:\purevision/purevision_options_page.php:3137
+msgid "Control Color 1"
+msgstr "Colore 1 dei controlli"
+
+#: D:\purevision/purevision_options_page.php:3145
+msgid "Background color of the controls."
+msgstr "Colore di fondo dei controlli."
+
+#: D:\purevision/purevision_options_page.php:3149
+msgid "Control Color 2"
+msgstr "Colore 2 dei controlli"
+
+#: D:\purevision/purevision_options_page.php:3157
+msgid "Font color of the controls."
+msgstr "Colore del font dei controlli."
+
+#: D:\purevision/purevision_options_page.php:3166
+msgid "Control Alpha"
+msgstr "Opacità dei controlli"
+
+#: D:\purevision/purevision_options_page.php:3169
+msgid "Alpha of a control, when mouse is not over."
+msgstr "Opacità di un controllo, quando il mouse non si sovrappone."
+
+#: D:\purevision/purevision_options_page.php:3173
+msgid "Control Alpha Over"
+msgstr "Opacità in sovrapposizione ai controlli"
+
+#: D:\purevision/purevision_options_page.php:3176
+msgid "Alpha of a control, when mouse is over."
+msgstr "Opacità di un controllo, quando il mouse è in sovrapposizione"
+
+#: D:\purevision/purevision_options_page.php:3180
+msgid "Controls X"
+msgstr "X dei controlli"
+
+#: D:\purevision/purevision_options_page.php:3183
+msgid "X-position of the point, which aligns the controls (measured from [0,0] of the image)."
+msgstr "Posizione X del punto di allineamento dei controlli (misurata [0,0] dall'immagine)."
+
+#: D:\purevision/purevision_options_page.php:3187
+msgid "Controls Y"
+msgstr "Y dei controlli"
+
+#: D:\purevision/purevision_options_page.php:3190
+msgid "Y-position of the point, which aligns the controls (measured from [0,0] of the image)."
+msgstr "Posizione Y del punto di allineamento dei controlli (misurata [0,0] dall'immagine)."
+
+#: D:\purevision/purevision_options_page.php:3194
+msgid "Controls' Alignment"
+msgstr "Allineamento dei controlli"
+
+#: D:\purevision/purevision_options_page.php:3197
+#: D:\purevision/purevision_options_page.php:4619
+msgid "Choose Alignment: "
+msgstr "Scegli allineamento:"
+
+#: D:\purevision/purevision_options_page.php:3204
+msgid "Type of alignment from the point [controlsX, controlsY] - can be \"center\", \"left\" or \"right\"."
+msgstr "Tipo di allineamento dal punti controlsX, controlsY] - può essere \"centrato\", \"a sinistra\" o \"a destra\"."
+
+#: D:\purevision/purevision_options_page.php:3212
+msgid "Toolstips:"
+msgstr "Messaggi a comparsa:"
+
+#: D:\purevision/purevision_options_page.php:3216
+msgid "Tooltip Height"
+msgstr "Altezza messaggio a comparsa"
+
+#: D:\purevision/purevision_options_page.php:3219
+msgid "Height of the tooltip surface in the menu."
+msgstr "Altezza della superficie del messaggio a comparsa nel menu."
+
+#: D:\purevision/purevision_options_page.php:3228
+msgid "Tooltip Color"
+msgstr "Colore del messaggio a comparsa"
+
+#: D:\purevision/purevision_options_page.php:3236
+msgid "Color of the tooltip surface in the menu."
+msgstr "Colore della superficie del messaggio a comparsa nel menu."
+
+#: D:\purevision/purevision_options_page.php:3245
+msgid "Tooltip Text Y"
+msgstr "Testo Y messaggio a comparsa"
+
+#: D:\purevision/purevision_options_page.php:3248
+msgid "Y-distance of the tooltip text field from the top of the tooltip."
+msgstr "Distanza Y del campo di testo del messaggio a comparsa dalla parte superiore del messaggio."
+
+#: D:\purevision/purevision_options_page.php:3252
+msgid "Tooltip Text Style"
+msgstr "Stile del testo del messaggio a comparsa"
+
+#: D:\purevision/purevision_options_page.php:3255
+msgid "The style of the tooltip text, specified in the CSS file. Default: \"P-Italic\""
+msgstr "Lo stile del testo del messaggio a comparsa, specificato nel file CSS. Impostazione di base: \"P-Italic\""
+
+#: D:\purevision/purevision_options_page.php:3264
+msgid "Tooltip Text Color"
+msgstr "Colore testo del messaggio a comparsa"
+
+#: D:\purevision/purevision_options_page.php:3272
+msgid "Color of the tooltip text."
+msgstr "Il colore del testo del messaggio a comparsa."
+
+#: D:\purevision/purevision_options_page.php:3281
+msgid "Tooltip Margin Left"
+msgstr "Margine sinistro messaggio a comparsa"
+
+#: D:\purevision/purevision_options_page.php:3284
+msgid "Margin of the text to the left end of the tooltip."
+msgstr "Margine del testo dal lato sinistro del messaggio a comparsa"
+
+#: D:\purevision/purevision_options_page.php:3288
+msgid "Tooltip Margin Right"
+msgstr "Margine destro messaggio a comparsa"
+
+#: D:\purevision/purevision_options_page.php:3291
+msgid "Margin of the text to the right end of the tooltip."
+msgstr "Margine del testo dal lato destro del messaggio a comparsa"
+
+#: D:\purevision/purevision_options_page.php:3295
+msgid "Tooltip Text Sharpness"
+msgstr "Definizione testo del messaggio a comparsa"
+
+#: D:\purevision/purevision_options_page.php:3298
+#, php-format
+msgid "Sharpness of the tooltip text (-400 to 400). %1$sMore info%2$s"
+msgstr "Definizione del testo del messaggio a comparsa (da -400 a 400).  %1$sAltre informazioni%2$s"
+
+#: D:\purevision/purevision_options_page.php:3302
+msgid "Tooltip Text Thickness"
+msgstr "Spessore testo del messaggio a comparsa"
+
+#: D:\purevision/purevision_options_page.php:3305
+#, php-format
+msgid "Thickness of the tooltip text (-400 to 400). %1$sMore info%2$s"
+msgstr "Spessore del testo del messaggio a comparsa (da -400 a 400).  %1$sAltre informazioni%2$s"
+
+#: D:\purevision/purevision_options_page.php:3313
+msgid "Info Text:"
+msgstr "Testo Informazioni:"
+
+#: D:\purevision/purevision_options_page.php:3317
+msgid "Info Width"
+msgstr "Larghezza Informazioni"
+
+#: D:\purevision/purevision_options_page.php:3320
+msgid "The width of the info text field."
+msgstr "La larghezza del campo di testo informazioni."
+
+#: D:\purevision/purevision_options_page.php:3329
+msgid "Info Background"
+msgstr "Sfondo Informazioni"
+
+#: D:\purevision/purevision_options_page.php:3337
+msgid "The background color of the info text field."
+msgstr "Il colore di fondo del campo di testo informazioni."
+
+#: D:\purevision/purevision_options_page.php:3346
+msgid "Info Background Alpha"
+msgstr "Opacità sfondo informazioni"
+
+#: D:\purevision/purevision_options_page.php:3349
+msgid "The alpha of the background of the info text, the image shines through, when smaller than 1."
+msgstr "Opacità dello sfondo del testo di informazioni. L'immagine appare in trasparenza per valori inferiori a 1."
+
+#: D:\purevision/purevision_options_page.php:3353
+msgid "Info Margin"
+msgstr "Margine Informazioni"
+
+#: D:\purevision/purevision_options_page.php:3356
+msgid "The margin of the text field in the info section to all sides."
+msgstr "Il margine da tutti i lati di un campo di testo nella sezione informazioni."
+
+#: D:\purevision/purevision_options_page.php:3360
+msgid "Info Sharpness"
+msgstr "Definizione informazioni"
+
+#: D:\purevision/purevision_options_page.php:3363
+msgid "Sharpness of the info text (-400 to 400)."
+msgstr "Definizione del testo di informazioni (da -400 a 400)."
+
+#: D:\purevision/purevision_options_page.php:3367
+msgid "Info Thickness"
+msgstr "Spessore Informazioni"
+
+#: D:\purevision/purevision_options_page.php:3370
+msgid "Thickness of the info text (-400 to 400)."
+msgstr "Spessore del testo Informazioni (da -400 a 400)."
+
+#: D:\purevision/purevision_options_page.php:3379
+msgid "Piecemaker 2 Slides:"
+msgstr "Slide Piecemaker 2:"
+
+#: D:\purevision/purevision_options_page.php:3402
+#: D:\purevision/purevision_options_page.php:3502
+msgid "Title:"
+msgstr "Titolo:"
+
+#: D:\purevision/purevision_options_page.php:3406
+#: D:\purevision/purevision_options_page.php:3506
+#: D:\purevision/purevision_options_page.php:3924
+#: D:\purevision/purevision_options_page.php:3993
+#: D:\purevision/purevision_options_page.php:4195
+#: D:\purevision/purevision_options_page.php:4278
+msgid "Link:"
+msgstr "Link:"
+
+#: D:\purevision/purevision_options_page.php:3409
+#: D:\purevision/purevision_options_page.php:3509
+#: D:\purevision/purevision_options_page.php:3927
+#: D:\purevision/purevision_options_page.php:3996
+#: D:\purevision/purevision_options_page.php:4198
+#: D:\purevision/purevision_options_page.php:4281
+msgid "Target: "
+msgstr "Target:"
+
+#: D:\purevision/purevision_options_page.php:3411
+#: D:\purevision/purevision_options_page.php:3511
+#: D:\purevision/purevision_options_page.php:3929
+#: D:\purevision/purevision_options_page.php:3998
+#: D:\purevision/purevision_options_page.php:4200
+#: D:\purevision/purevision_options_page.php:4283
+msgid "self"
+msgstr "self"
+
+#: D:\purevision/purevision_options_page.php:3412
+#: D:\purevision/purevision_options_page.php:3512
+#: D:\purevision/purevision_options_page.php:3930
+#: D:\purevision/purevision_options_page.php:3999
+#: D:\purevision/purevision_options_page.php:4201
+#: D:\purevision/purevision_options_page.php:4284
+msgid "blank"
+msgstr "blank"
+
+#: D:\purevision/purevision_options_page.php:3422
+#: D:\purevision/purevision_options_page.php:3522
+msgid "To remove the text just leave a single space."
+msgstr "Per eliminare il testo immettete un singolo spazio."
+
+#: D:\purevision/purevision_options_page.php:3434
+#: D:\purevision/purevision_options_page.php:3453
+#: D:\purevision/purevision_options_page.php:3546
+#: D:\purevision/purevision_options_page.php:3577
+msgid "Title Attribute:"
+msgstr "Attributo del titolo:"
+
+#: D:\purevision/purevision_options_page.php:3436
+#: D:\purevision/purevision_options_page.php:3455
+#: D:\purevision/purevision_options_page.php:3548
+#: D:\purevision/purevision_options_page.php:3579
+msgid "(The title attribute will be shown in the tooltip on the menu)"
+msgstr "(L'attributo del titolo verrà mostrato nel messaggio a comparsa del menu)"
+
+#: D:\purevision/purevision_options_page.php:3439
+#: D:\purevision/purevision_options_page.php:3551
+msgid "SWF Link:"
+msgstr "Link SWF:"
+
+#: D:\purevision/purevision_options_page.php:3441
+#: D:\purevision/purevision_options_page.php:3553
+msgid "(Paste the URL to the SWF file here. Should be on same Server)"
+msgstr "(incolla qui l'URL del file SWF. Dovrebbe trovarsi sullo stesso server)"
+
+#: D:\purevision/purevision_options_page.php:3458
+#: D:\purevision/purevision_options_page.php:3582
+msgid "Video Link:"
+msgstr "Link video:"
+
+#: D:\purevision/purevision_options_page.php:3460
+msgid "(Paste the URL to the video file here. Should be on same Server. Accepted file formats are MPEG4 with H.264 Codec, as well as F4V and FLV)"
+msgstr "(incolla qui l'URL del file video. Dovrebbe trovarsi sullo stesso server. I formati accettati sono l'MPEG4 con Codec H.264, l'F4V e l'FLV)"
+
+#: D:\purevision/purevision_options_page.php:3463
+#: D:\purevision/purevision_options_page.php:3587
+msgid "Width:"
+msgstr "Larghezza:"
+
+#: D:\purevision/purevision_options_page.php:3467
+#: D:\purevision/purevision_options_page.php:3591
+msgid "Height:"
+msgstr "Altezza:"
+
+#: D:\purevision/purevision_options_page.php:3472
+#: D:\purevision/purevision_options_page.php:3596
+msgid "Autoplay: "
+msgstr "Riproduzione automatica:"
+
+#: D:\purevision/purevision_options_page.php:3474
+#: D:\purevision/purevision_options_page.php:3598
+msgid "Yes"
+msgstr "S&igrave;"
+
+#: D:\purevision/purevision_options_page.php:3475
+#: D:\purevision/purevision_options_page.php:3599
+msgid "No"
+msgstr "No"
+
+#: D:\purevision/purevision_options_page.php:3584
+msgid "(Paste the URL to the FLV file here. Should be on same Server. Accepted file formats are MPEG4 with H.264 Codec, as well as F4V and FLV)"
+msgstr "(Incolla qui l'URL del file FLV. Deve risiedere sullo stesso server. I formati di file accettati sono l'MPEG4 con Codec H.264, l'F4V e l'FLV)"
+
+#: D:\purevision/purevision_options_page.php:3610
+msgid "Piecemaker 2 Transitions:"
+msgstr "Transizioni Piecemaker 2:"
+
+#: D:\purevision/purevision_options_page.php:3634
+#: D:\purevision/purevision_options_page.php:3714
+msgid "Pieces:"
+msgstr "Pezzi:"
+
+#: D:\purevision/purevision_options_page.php:3638
+#: D:\purevision/purevision_options_page.php:3718
+msgid "Time:"
+msgstr "Durata:"
+
+#: D:\purevision/purevision_options_page.php:3643
+#: D:\purevision/purevision_options_page.php:3723
+msgid "Transition: "
+msgstr "Transizione:"
+
+#: D:\purevision/purevision_options_page.php:3690
+#: D:\purevision/purevision_options_page.php:3770
+msgid "Delay:"
+msgstr "Ritardo:"
+
+#: D:\purevision/purevision_options_page.php:3694
+#: D:\purevision/purevision_options_page.php:3774
+msgid "Depth Offset:"
+msgstr "Profondit&agrave; spostamento:"
+
+#: D:\purevision/purevision_options_page.php:3698
+#: D:\purevision/purevision_options_page.php:3778
+msgid "Cube Distance:"
+msgstr "Distanza del cubo:"
+
+#: D:\purevision/purevision_options_page.php:3796
+msgid "In the case when JavaScript is disabled the 1st slider image is displayed by default in place of the Piecemaker 2 slider, you may change that in here"
+msgstr "Nel caso in cui JavaScript sia disattivato, la prima immagine dello slider viene mostrata di base al posto dello slider Piecemaker 2, ed è modificabile da qui"
+
+#: D:\purevision/purevision_options_page.php:3817
+msgid "Cycle 1 Slider Settings:"
+msgstr "Impostazioni slider Ciclo 1:"
+
+#: D:\purevision/purevision_options_page.php:3821
+#: D:\purevision/purevision_options_page.php:4033
+msgid "Transition Speed"
+msgstr "Velocità di transizione"
+
+#: D:\purevision/purevision_options_page.php:3824
+#: D:\purevision/purevision_options_page.php:4036
+msgid "Speed of the transition."
+msgstr "Velocità della transizione."
+
+#: D:\purevision/purevision_options_page.php:3828
+#: D:\purevision/purevision_options_page.php:4040
+msgid "Timeout"
+msgstr "Pausa"
+
+#: D:\purevision/purevision_options_page.php:3831
+#: D:\purevision/purevision_options_page.php:4043
+msgid "Milliseconds between slide transitions (0 to disable auto advance)."
+msgstr "Millisecondi tra due transizioni di slide (0 per disabilitare l'avanzamento automatico)"
+
+#: D:\purevision/purevision_options_page.php:3835
+#: D:\purevision/purevision_options_page.php:3837
+#: D:\purevision/purevision_options_page.php:4047
+#: D:\purevision/purevision_options_page.php:4049
+msgid "Sync"
+msgstr "Sincronizza"
+
+#: D:\purevision/purevision_options_page.php:3840
+#: D:\purevision/purevision_options_page.php:4052
+msgid "Toggle this option to see how some effects behave differently (such as blind, curtain, and zoom)."
+msgstr "Attiva questa opzione per vedere come i vari effetti hanno un diverso comportamento (come ad esempio veneziane, tendine e zoom)."
+
+#: D:\purevision/purevision_options_page.php:3846
+#: D:\purevision/purevision_options_page.php:3848
+msgid "Image Frame"
+msgstr "Cornice immagine"
+
+#: D:\purevision/purevision_options_page.php:3851
+msgid "Remove the image frame with the border around the image?"
+msgstr "Rimuovi la cornice immagine con i bordi intorno all'immagine?"
+
+#: D:\purevision/purevision_options_page.php:3852
+msgid "With the frame enabled (default state) image dimension is 914px by 374px (width by height). Without the frame image dimension is 940px by 400px. Depending on which option is selected, create and upload images with the corresponding dimensions for optimal quality."
+msgstr "Con la cornice attivata (impostazione di base) le dimensioni dell'immagine sono 914 x 374 pixel (larghezza x altezza). Senza la cornice, le dimensioni dell'immagine sono 940 x 400 pixel. Per una qualità ottimale, crea e carica immagini di dimensioni corrispondenti all'opzione selezionata."
+
+#: D:\purevision/purevision_options_page.php:3920
+#: D:\purevision/purevision_options_page.php:3989
+msgid "Transition effect."
+msgstr "Effetto di transizione."
+
+#: D:\purevision/purevision_options_page.php:3934
+#: D:\purevision/purevision_options_page.php:4003
+#: D:\purevision/purevision_options_page.php:4205
+#: D:\purevision/purevision_options_page.php:4288
+#, fuzzy
+msgid "Alt Tag:"
+msgstr "Tag:"
+
+#: D:\purevision/purevision_options_page.php:3937
+#: D:\purevision/purevision_options_page.php:4006
+msgid "(To clear a text field above, replace it with a single space)"
+msgstr ""
+
+#: D:\purevision/purevision_options_page.php:4029
+msgid "Cycle 2 Slider Settings:"
+msgstr "Impostazioni slider Ciclo 2"
+
+#: D:\purevision/purevision_options_page.php:4058
+#: D:\purevision/purevision_options_page.php:4060
+msgid "Enable Transition on Text"
+msgstr "Attiva transizione sul testo"
+
+#: D:\purevision/purevision_options_page.php:4063
+msgid "Toggle this option to enable/disable the transition effect on the info text. If disabled (unchecked) then the text will disapear for the duration of the transition."
+msgstr "Utilizza questa opzione per attivare/disattivare l'effetto di transizione sul testo di informazioni. Se disabilitata, il testo sparirà per la durata della transizione."
+
+#: D:\purevision/purevision_options_page.php:4069
+msgid "Text Size"
+msgstr "Dimensioni testo"
+
+#: D:\purevision/purevision_options_page.php:4088
+msgid "When using \"em\" you are specifying size relative to the general font size."
+msgstr "Usando \"em\" specifichi le dimensioni relative a quelle stabilite come riferimento generale."
+
+#: D:\purevision/purevision_options_page.php:4092
+msgid "Text Line Height"
+msgstr "Interlinea testo"
+
+#: D:\purevision/purevision_options_page.php:4095
+msgid "Line Height: "
+msgstr "Interlinea:"
+
+#: D:\purevision/purevision_options_page.php:4137
+msgid "Slider text color including the Title."
+msgstr "Colore del testo dello slider, titolo incluso"
+
+#: D:\purevision/purevision_options_page.php:4162
+#: D:\purevision/purevision_options_page.php:4245
+msgid "Transition:"
+msgstr "Transizione:"
+
+#: D:\purevision/purevision_options_page.php:4210
+#: D:\purevision/purevision_options_page.php:4293
+msgid "(You could use text and/or html)"
+msgstr "(Puoi usare testo e/o HTML)"
+
+#: D:\purevision/purevision_options_page.php:4216
+#: D:\purevision/purevision_options_page.php:4299
+msgid "Button Text:"
+msgstr "Testo pulsante:"
+
+#: D:\purevision/purevision_options_page.php:4218
+#: D:\purevision/purevision_options_page.php:4301
+msgid "Button Style: "
+msgstr "Stile del pulsante:"
+
+#: D:\purevision/purevision_options_page.php:4220
+#: D:\purevision/purevision_options_page.php:4303
+msgid "Dark"
+msgstr "Scuro"
+
+#: D:\purevision/purevision_options_page.php:4221
+#: D:\purevision/purevision_options_page.php:4304
+msgid "Light"
+msgstr "Chiaro"
+
+#: D:\purevision/purevision_options_page.php:4224
+#: D:\purevision/purevision_options_page.php:4307
+#, fuzzy
+msgid "The button is activated only if a <strong>Link</strong> is provided. To remove the button just replace the link with a single space."
+msgstr "Il pulsante &egrave; attivato solo se si specifica un <strong>link</strong>."
+
+#: D:\purevision/purevision_options_page.php:4327
+msgid "\"No Slider\" Text"
+msgstr "Testo \"Nessuno slider\""
+
+#: D:\purevision/purevision_options_page.php:4329
+msgid "Change the phrase:"
+msgstr "Modifica la frase:"
+
+#: D:\purevision/purevision_options_page.php:4331
+msgid "This is the title text displayed in the place of the slider on the home page"
+msgstr "Questo &egrave; il titolo del testo visualizzato nella home page al posto dello slider"
+
+#: D:\purevision/purevision_options_page.php:4347
+msgid "Portfolio Pages"
+msgstr "Pagine Portfolio"
+
+#: D:\purevision/purevision_options_page.php:4349
+msgid "Use this area to assign Portfolio Categories to their respective Portfolio pages."
+msgstr "Usa quest'area per assegnare categorie di Portfolio alle rispettive pagine Portolio."
+
+#: D:\purevision/purevision_options_page.php:4350
+msgid "Firstly though, you have to create the Portfolio page(s) and assign the \"Portfolio page\" template to it."
+msgstr "Per prima cosa, tuttavia, devi creare la/le pagine Portfolio ed assegnare ad esse il template \"Portfolio page\"."
+
+#: D:\purevision/purevision_options_page.php:4351
+msgid "If you don't see any categories in the dropdown(s) below it's because you haven't created any yet, in that case go to 'Posts -> Categories' and create a 'Portfolio' category there. Also don't forget to save all your Portfolio related Posts and sub categories under that category."
+msgstr "Se non vedi nessuna categoria nel/nei menu a discesa qui in basso &egrave; perch&eacute; non ne &egrave; stato ancora creato nessuno. In questo caso, vai su 'Articoli -> Categorie' e crea una categoria 'Portfolio'. Non dimenticare inoltre di salvare tutti gli articoli correlati a Portfolio e le sottocategorie  ad esso collegate."
+
+#: D:\purevision/purevision_options_page.php:4356
+msgid "To Portfolio page"
+msgstr "Alla pagina Portfolio"
+
+#: D:\purevision/purevision_options_page.php:4357
+msgid "assign the Category:"
+msgstr "assegna la Categoria:"
+
+#: D:\purevision/purevision_options_page.php:4357
+msgid "Select Category"
+msgstr "Seleziona la categoria"
+
+#: D:\purevision/purevision_options_page.php:4358
+msgid "with"
+msgstr "con"
+
+#: D:\purevision/purevision_options_page.php:4358
+msgid "items per page."
+msgstr "elementi per pagina."
+
+#: D:\purevision/purevision_options_page.php:4363
+msgid "Do not link adjacent items in this category as gallery."
+msgstr ""
+
+#: D:\purevision/purevision_options_page.php:4365
+msgid "(Remove the ability to go to the next or previous item when previewing with prettyPhoto lightbox)"
+msgstr ""
+
+#: D:\purevision/purevision_options_page.php:4372
+msgid "Portfolio Title Position"
+msgstr "Posizione del titolo Portfolio"
+
+#: D:\purevision/purevision_options_page.php:4375
+msgid "Below"
+msgstr "Sotto"
+
+#: D:\purevision/purevision_options_page.php:4376
+msgid "Above"
+msgstr "Sopra"
+
+#: D:\purevision/purevision_options_page.php:4377
+msgid "This is the post title shown with every thumbnail. Choose whether you would like to have it displayed above the Thumbnail or just below it."
+msgstr "Questo è il titolo dell'articolo mostrato con ogni miniatura d'immagine. Scegli se desideri mostrarlo al di sopra o al di sotto della miniatura."
+
+#: D:\purevision/purevision_options_page.php:4384
+#, fuzzy
+msgid "The following settings refer to the individual portfolio item post (single post view)"
+msgstr "Le regolazioni seguenti si riferiscono ad un singolo articolo di un oggetto Portfolio che in genere &egrave; accessibile passando sul titolo di un oggetto Portfolio o sul link \"leggi altro...\" (se presente)"
+
+#: D:\purevision/purevision_options_page.php:4388
+#: D:\purevision/purevision_options_page.php:4464
+#: D:\purevision/purevision_options_page.php:4686
+msgid "Sidebar Position"
+msgstr "Posizione barra laterale"
+
+#: D:\purevision/purevision_options_page.php:4393
+msgid "This is the sidebar shown on individual portflio items' posts"
+msgstr "Questa &egrave; la barra visualizzata sui singoli articoli degli oggetti portfolio"
+
+#: D:\purevision/purevision_options_page.php:4397
+#: D:\purevision/purevision_options_page.php:4399
+msgid "Portfolio Post Date"
+msgstr "Data di pubblicazione Portfolio"
+
+#: D:\purevision/purevision_options_page.php:4402
+msgid "Show the date located at the top right corner next to the Post title (Single View)."
+msgstr "Mostra la data localizzata nell'angolo superiore destro, vicino al titolo dell'Articolo (vista singola)."
+
+#: D:\purevision/purevision_options_page.php:4408
+#: D:\purevision/purevision_options_page.php:4410
+msgid "Portfolio Post Metadata"
+msgstr "Metadata delll'articolo del Portfolio"
+
+#: D:\purevision/purevision_options_page.php:4413
+msgid "Show Portfolio Post Metadata box (Single View)."
+msgstr "Mostra il riquadro Metadati negli articoli Portfolio (vista singola)"
+
+#: D:\purevision/purevision_options_page.php:4414
+msgid "This is the info box situated right under the post and just above the comments area."
+msgstr "Questo è il riquadro di informazione appena al di sotto dell'articolo e sopra l'area dei commenti."
+
+#: D:\purevision/purevision_options_page.php:4420
+#: D:\purevision/purevision_options_page.php:4422
+msgid "Portfolio Post Author"
+msgstr "Autore dell'articolo del portfolio"
+
+#: D:\purevision/purevision_options_page.php:4425
+msgid "Show Author Name (\"Portfolio Post Metadata\" needs to be enabled for this option)"
+msgstr ""
+
+#: D:\purevision/purevision_options_page.php:4426
+#: D:\purevision/purevision_options_page.php:4509
+#, fuzzy, php-format
+msgid "The following text: \"Written by: Author Name\" will be added to the postmetadata box. The author's name will be displayed as specified under %1$sUsers -> Your Profile%2$s <strong>Display name publicly as</strong> field and linking it to the author's page."
+msgstr "The following text: \"Written by: Author Name\" will be added to the postmetadata box. The author's name will be displayed as specified under %1$sUsers -> Your Profile%2$s <strong>Display name publicly as</strong> field and linking to the URL specified under the <strong>Website</strong> field."
+
+#: D:\purevision/purevision_options_page.php:4432
+#: D:\purevision/purevision_options_page.php:4434
+msgid "Show Comment Area"
+msgstr "Mostra area di commento"
+
+#: D:\purevision/purevision_options_page.php:4437
+msgid "Show comment area in Portfolio posts (Single View)"
+msgstr "Mostra l'area di commento negli articoli Portfolio (vista singola)"
+
+#: D:\purevision/purevision_options_page.php:4443
+#: D:\purevision/purevision_options_page.php:4445
+#: D:\purevision/purevision_options_page.php:4548
+#: D:\purevision/purevision_options_page.php:4550
+msgid "Full-width Single Post View Page"
+msgstr "Pagina vista articolo singolo a piena ampiezza"
+
+#: D:\purevision/purevision_options_page.php:4448
+#, fuzzy
+msgid "Remove the sidebar from Single Post View Portfolio pages."
+msgstr "Elimina la barra laterale dalle pagine vista articolo singolo."
+
+#: D:\purevision/purevision_options_page.php:4469
+msgid "This is the sidebar shown on blog pages"
+msgstr "Questa &egrave; la barra laterale mostrata nelle pagine blog"
+
+#: D:\purevision/purevision_options_page.php:4473
+msgid "\"Read more\" Button"
+msgstr "Pulsante \"Leggi altro\""
+
+#: D:\purevision/purevision_options_page.php:4476
+msgid "Enter the text for the post's 'Read more' button.  Leave blank to hide the button."
+msgstr "Immetti il testi per il pulsante 'Leggi altro'. Lascia in bianco per nascondere il pulsante."
+
+#: D:\purevision/purevision_options_page.php:4480
+msgid "Show Excerpt"
+msgstr "Mostra estratto"
+
+#: D:\purevision/purevision_options_page.php:4482
+#: D:\purevision/purevision_options_page.php:4491
+#: D:\purevision/purevision_options_page.php:4493
+msgid "Exclude Portfolio(s) from Blog"
+msgstr "Escludi Portfolio dal Blog"
+
+#: D:\purevision/purevision_options_page.php:4485
+msgid "Show the excerpt only instead of the default post content on the Blog page."
+msgstr "Mostra solo l'estratto invece del normale contenuto dell'articolo nella pagina Blog."
+
+#: D:\purevision/purevision_options_page.php:4496
+msgid "Exclude Portfolio section(s) related posts from showing in the the general Blog section (\"Blog page\" template loop)."
+msgstr "Esclude gli articoli correlati alla o alle sezioni Portfolio dalla sezione generale del Blog (loop template \"Blog page\")."
+
+#: D:\purevision/purevision_options_page.php:4497
+msgid "Note: Portfolio posts are those that have been assigned to a portfolio related category. A portfolio related category is one which either directly or indireclty (parent or descendant) has been assigned to a \"Portfolio page\" template (see the \"Portfolio section above for these assignments)"
+msgstr "Nota: gli articoli Portfolio sono quelli assegnati ad una categoria correlata di Portfolio. Una categoria correlata di Portfolio &egrave; quella in cui &egrave; stata assegnata direttamente o indirettamente (correlata o discendente) a un template \"Portfolio page\" (per questo tipo di assegnazioni vedi la sezione Portfolio qui sopra)"
+
+#: D:\purevision/purevision_options_page.php:4503
+#: D:\purevision/purevision_options_page.php:4505
+msgid "Show Post Author"
+msgstr "Mostra l'autore dell'articolo"
+
+#: D:\purevision/purevision_options_page.php:4508
+#, fuzzy
+msgid "Show Author Name"
+msgstr "Mostra l'autore dell'articolo"
+
+#: D:\purevision/purevision_options_page.php:4515
+#: D:\purevision/purevision_options_page.php:4517
+msgid "Category Archive Title"
+msgstr "Titolo dell'archivio di categoria"
+
+#: D:\purevision/purevision_options_page.php:4520
+msgid "Remove the \"Archive for the '...' Category\" string from the category archive title."
+msgstr "Elimina la stringa di testo \"Archivio della Categoria '...' \" dal titolo di archivio di categoria"
+
+#: D:\purevision/purevision_options_page.php:4526
+#: D:\purevision/purevision_options_page.php:4528
+msgid "Full-width Blog Page"
+msgstr "Pagina blog a piena ampiezza"
+
+#: D:\purevision/purevision_options_page.php:4531
+msgid "Remove the sidebar from Blog pages."
+msgstr "Elimina la barra laterale dalle pagine Blog."
+
+#: D:\purevision/purevision_options_page.php:4537
+#: D:\purevision/purevision_options_page.php:4539
+msgid "Full-width Archive Page"
+msgstr "Pagina archivio a piena ampiezza"
+
+#: D:\purevision/purevision_options_page.php:4542
+msgid "Remove the sidebar from Archive pages (e.g. Category archives, Date archives, Tag archives, etc.)."
+msgstr "Elimina la barra laterale dalle pagine archivio (ad es. archivi di categoroa, per data, per tag, ecc.)"
+
+#: D:\purevision/purevision_options_page.php:4553
+msgid "Remove the sidebar from Single Post View pages."
+msgstr "Elimina la barra laterale dalle pagine vista articolo singolo."
+
+#: D:\purevision/purevision_options_page.php:4559
+#: D:\purevision/purevision_options_page.php:4561
+msgid "Post Image in Single Post View"
+msgstr "Immagine dell'articolo nella vista articolo singolo"
+
+#: D:\purevision/purevision_options_page.php:4564
+msgid "Display the post image in single post view."
+msgstr "Mostra l'immagine dell'articolo nella vista articolo singolo."
+
+#: D:\purevision/purevision_options_page.php:4574
+msgid "Blog and Archive Section \"Featured Image\":"
+msgstr "\"Immagine in evidenza\" per la sezione blog e archivio:"
+
+#: D:\purevision/purevision_options_page.php:4575
+msgid "Use this section to set the Post \"Featured Image\" the way it will be shown on the Blog and Archive Pages for each post. Please note, that if you have \"post_image\" custom field specified in a post, it will be given priority over the post \"Featured Image\", so if you would like to use the \"Featured Image\" do not use the custom field \"post_image\"."
+msgstr "Usa questa sezione per impostare la \"Immagine in evidenza\" in modo che venga mostrata nella pagina blog e in quella archivio di ogni articolo. Da notare che se hai utilizzato un campo personalizzato \"post_image\" in un articolo, sarà a questo che verrà data la priorità rispetto alla \"Immagine in evidenza\". Quindi se vuoi usare la \"Immagine in evidenza\", non usare il campo personalizzato \"post_image\"."
+
+#: D:\purevision/purevision_options_page.php:4581
+#: D:\purevision/purevision_options_page.php:4606
+msgid "Enable Custom \"Featured Image\""
+msgstr "Attiva \"Immagine in evidenza\" personalizzata"
+
+#: D:\purevision/purevision_options_page.php:4584
+msgid "Select this option to apply the settings below to the \"Featured Image\"."
+msgstr "Seleziona questa opzione per applicare alla \"Immagine in evidenza\" le impostazioni sottostanti."
+
+#: D:\purevision/purevision_options_page.php:4593
+msgid "Apply this image width in pixels."
+msgstr "Applica all'immagine questa larghezza in pixel."
+
+#: D:\purevision/purevision_options_page.php:4600
+msgid "Apply this image height in pixels."
+msgstr "Applica all'immagine questa altezza in pixel."
+
+#: D:\purevision/purevision_options_page.php:4604
+msgid "Force Image Dimensions"
+msgstr "Imponi all'immagine dimensioni stabilite"
+
+#: D:\purevision/purevision_options_page.php:4609
+msgid "Select this option to crop and resize the image with TimThumb script which is recommended if you would like all images to be of the same dimensions, otherwise the built-in WordPress resizing will be applied to the \"Featured Image\"."
+msgstr "Se desiderate che tutte le immagini abbiano le stesse dimensioni, è consigliabile selezionare questa opzione per ritagliare e ridimensionare l'immagine tramite lo script TimThumb. Viceversa, alla \"Immagine in evidenza\" verrà applicato il sistema di ridimensionamento integrato in WordPress."
+
+#: D:\purevision/purevision_options_page.php:4612
+msgid "(This option would only be considered if TimThumb is enabled from the \"General Options\")"
+msgstr ""
+
+#: D:\purevision/purevision_options_page.php:4616
+msgid "Image Alignment"
+msgstr "Allineamento immagine"
+
+#: D:\purevision/purevision_options_page.php:4622
+msgid "Center"
+msgstr "Centrata"
+
+#: D:\purevision/purevision_options_page.php:4653
+msgid "Enable Business Contact"
+msgstr "Attiva pagina Contatti"
+
+#: D:\purevision/purevision_options_page.php:4654
+msgid "Enable Contact Info Fields"
+msgstr "Attiva campi di informazione Contatto"
+
+#: D:\purevision/purevision_options_page.php:4657
+msgid "Enable the Business Contact fields (see below for description)"
+msgstr "Attiva campi della pagina Contatti (vedi descrizione in basso)"
+
+#: D:\purevision/purevision_options_page.php:4660
+msgid "Business Contact Fields"
+msgstr "Campi della pagina Contatti"
+
+#: D:\purevision/purevision_options_page.php:4662
+msgid "The Business Contact Fields provide a way to better display additional contact information such as Company Name, Address, Phone, etc. An example of a Field pair could be <strong>Telephone: (123) 123-4567</strong>, where you would enter the \"<strong>Telephone:</strong>\" part in the first field and \"<strong>(123) 123-4567</strong>\" in the second (under the same \"Line #\") respectively."
+msgstr "I campi della pagina Contatti offrono un metodo per mostrare informazioni aggiuntive di contatto, come ad esempio il nome della società, l'indirizzo, il numero telefonico, ecc. Un esempio di una coppia di campi potrebbe essere <strong>Telefono: (06) 1234567</strong>, in cui nel primo campo si immetterà \"<strong>Telefono:</strong>\" e nel secondo \"<strong>(06) 1234567</strong>\" (nella stessa \"Riga #\")."
+
+#: D:\purevision/purevision_options_page.php:4663
+msgid "Line 1:"
+msgstr "Riga 1:"
+
+#: D:\purevision/purevision_options_page.php:4666
+msgid "Line 2:"
+msgstr "Riga 2:"
+
+#: D:\purevision/purevision_options_page.php:4669
+msgid "Line 3:"
+msgstr "Riga 3:"
+
+#: D:\purevision/purevision_options_page.php:4672
+msgid "Line 4:"
+msgstr "Riga 4:"
+
+#: D:\purevision/purevision_options_page.php:4675
+msgid "Line 5:"
+msgstr "Riga 5:"
+
+#: D:\purevision/purevision_options_page.php:4678
+msgid "Line 6:"
+msgstr "Riga 6:"
+
+#: D:\purevision/purevision_options_page.php:4681
+msgid "Line 7:"
+msgstr "Riga 7:"
+
+#: D:\purevision/purevision_options_page.php:4684
+msgid "Some html tags and inline styling could be used for formatting here, e.g."
+msgstr "&Egrave; consentito un numero limitato di tag HTML e stilizzazione inline, come ad esempio "
+
+#: D:\purevision/purevision_options_page.php:4684
+msgid "Address"
+msgstr "Indirizzo"
+
+#: D:\purevision/purevision_options_page.php:4684
+msgid "or"
+msgstr "o"
+
+#: D:\purevision/purevision_options_page.php:4690
+msgid "This is the sidebar shown on the Contact page"
+msgstr "Questa è la barra laterale visualizzata nella pagina Contatti"
+
+#: D:\purevision/purevision_options_page.php:4692
+msgid "Phone Number validation"
+msgstr "Validazione numero telefonico"
+
+#: D:\purevision/purevision_options_page.php:4693
+msgid "This is the field displayed in the E-mail form on the Contact page template. If checked, the validation for North American phone numbers will be enabled."
+msgstr "Questo è il campo mostrato nel modulo e-mail del template per la pagina Contatti. Se selezionato, viene attivata la validazione per i numeri telefonici del Nord America."
+
+#: D:\purevision/purevision_options_page.php:4694
+msgid "Enable North American phone number validation"
+msgstr "Attiva validazione numero telefonico del Nord America"
+
+#: D:\purevision/purevision_options_page.php:4697
+msgid "Enable North American phone number validation in the contact email form"
+msgstr "Attiva validazione numero telefonico del Nord America nel modulo di contatto"
+
+#: D:\purevision/purevision_options_page.php:4703
+msgid "E-mail Recipient(s)"
+msgstr "Email del destinatario"
+
+#: D:\purevision/purevision_options_page.php:4705
+msgid "Please enter recipient's email address, comma-separate multiple recipients:"
+msgstr "Immettete l'indirizzo email del destinatario, separando con virgole eventuali destinatari multipli:"
+
+#: D:\purevision/purevision_options_page.php:4710
+#: D:\purevision/purevision_options_page.php:4712
+msgid "Enable ReCAPTCHA"
+msgstr "Attivazione ReCAPTCHA"
+
+#: D:\purevision/purevision_options_page.php:4715
+#, php-format
+msgid "Add ReCAPTCHA to the email form for extra security (for more information visit %s)"
+msgstr "Aggiunge il ReCAPTCHA al modulo email come forma aggiuntiva di sicurezza (per maggiori informazioni visita %s)"
+
+#: D:\purevision/purevision_options_page.php:4717
+msgid "Please note: ReCAPTCHA will be automatically disabled if the two fields below are empty!"
+msgstr "Nota: il ReCAPTCHA sar&agrave; automaticamente disattivato se non si compilano i due campi sottostanti!"
+
+#: D:\purevision/purevision_options_page.php:4722
+msgid "ReCAPTCHA Public Key"
+msgstr "Chiave pubblica ReCAPTCHA"
+
+#: D:\purevision/purevision_options_page.php:4725
+msgid "To use reCAPTCHA you must get an API public key from"
+msgstr "Per usare il ReCAPTCHA devi disporre di una chiave pubblica API da"
+
+#: D:\purevision/purevision_options_page.php:4729
+msgid "ReCAPTCHA Private Key"
+msgstr "Chiave privata ReCAPTCHA"
+
+#: D:\purevision/purevision_options_page.php:4732
+msgid "To use ReCAPTCHA you must get an API private key from"
+msgstr "Per usare il ReCAPTCHA devi disporre di una chiave privata API da"
+
+#: D:\purevision/purevision_options_page.php:4733
+msgid "This key is used when communicating between your server and the ReCAPTCHA server. Be sure to keep it a secret."
+msgstr "Questa chiave &egrave; usata nelle comunicazioni tra il tuo server e il server ReCAPTCHA. Sincerati di mantenerla segreta."
+
+#: D:\purevision/purevision_options_page.php:4737
+msgid "ReCAPTCHA Theme"
+msgstr "Tema ReCAPTCHA"
+
+#: D:\purevision/purevision_options_page.php:4740
+msgid "Choose Theme: "
+msgstr "Scegli tema:"
+
+#: D:\purevision/purevision_options_page.php:4742
+msgid "white"
+msgstr "bianco"
+
+#: D:\purevision/purevision_options_page.php:4743
+msgid "red"
+msgstr "rosso"
+
+#: D:\purevision/purevision_options_page.php:4744
+msgid "blackglass"
+msgstr "vetro nero"
+
+#: D:\purevision/purevision_options_page.php:4745
+msgid "clean"
+msgstr "pulito"
+
+#: D:\purevision/purevision_options_page.php:4751
+msgid "ReCAPTCHA Language"
+msgstr "Lingua ReCAPTCHA"
+
+#: D:\purevision/purevision_options_page.php:4754
+msgid "Language: "
+msgstr "Lingua: "
+
+#: D:\purevision/purevision_options_page.php:4781
+msgid "Copyright Message"
+msgstr "Messaggio di copyright"
+
+#: D:\purevision/purevision_options_page.php:4785
+msgid "Copyright message displayed in the footer."
+msgstr "Messaggio di copyright visualizzato nel pi&egrave; di pagina."
+
+#: D:\purevision/purevision_options_page.php:4789
+#: D:\purevision/purevision_options_page.php:4791
+msgid "WordPress credits link"
+msgstr "Link crediti WordPress"
+
+#: D:\purevision/purevision_options_page.php:4794
+#, php-format
+msgid "Show \"is proudly powered by %s\" in footer?"
+msgstr "Mostra \"usa %s\" nel pi&egrave; di pagina?"
+
+#: D:\purevision/purevision_options_page.php:4800
+#: D:\purevision/purevision_options_page.php:4802
+msgid "Entries (RSS) link"
+msgstr "Link Articoli (RSS)"
+
+#: D:\purevision/purevision_options_page.php:4805
+msgid "Show \"Entries (RSS)\" link in footer?"
+msgstr "Mostra link \"Articoli (RSS)\" nel pi&egrave; di pagina?"
+
+#: D:\purevision/purevision_options_page.php:4811
+#: D:\purevision/purevision_options_page.php:4813
+msgid "Comments (RSS) link"
+msgstr "Link Commenti (RSS)"
+
+#: D:\purevision/purevision_options_page.php:4816
+msgid "Show \"Comments (RSS)\" link in footer?"
+msgstr "Mostra link \"Commenti (RSS)\" nel pi&egrave; di pagina?"
+
+#: D:\purevision/purevision_options_page.php:4831
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+#: D:\purevision/purevision_options_page.php:4835
+#, fuzzy
+msgid "Paste your Google Analytics or other tracking code here. It will be inserted just before the closing &lt;/head&gt; tag."
+msgstr "Incolla qui il tuo codice Google Analytics o altro codice di tracciamento. Verrà inserito prima del tag body di chiusura in ogni pagina"
+
+#: D:\purevision/search.php:51
+msgid "Didn't find what you were looking for? Refine your search!"
+msgstr "Non hai trovato quello che cercavi? Prova a perfezionare la tua ricerca!"
+
+#: D:\purevision/sidebar-BlogSidebar.php:20
+#: D:\purevision/sidebar-ContactSidebar.php:20
+#: D:\purevision/sidebar-PagesSidebar2.php:19
+#: D:\purevision/sidebar-PagesSidebar3.php:19
+#: D:\purevision/sidebar-PagesSidebar4.php:19
+msgid "About This Sidebar"
+msgstr "A proposito di questa barra laterale"
+
+#: D:\purevision/sidebar-BlogSidebar.php:22
+msgid "To edit this sidebar, go to admin backend's <strong><em>Appearance -> Widgets</em></strong> and place widgets into the <strong><em>BlogSidebar</em></strong> Widget Area"
+msgstr "Per modificare questa barra laterale, entra nel sistema di amministrazione <strong><em>Aspetto -> Widgets</em></strong> e sistema i widget nell'area widget <strong><em>BlogSidebar</em></strong>"
+
+#: D:\purevision/sidebar-ContactSidebar.php:22
+msgid "To edit this sidebar, go to admin backend's <strong><em>Appearance -> Widgets</em></strong> and place widgets into the <strong><em>ContactSidebar</em></strong> Widget Area"
+msgstr "Per modificare questa barra laterale, entra nel sistema di amministrazione <strong><em>Aspetto -> Widgets</em></strong> e sistema i widget nell'area widget <strong><em>ContactSidebar</em></strong>"
+
+#: D:\purevision/sidebar-PagesSidebar2.php:21
+msgid "To edit this sidebar, go to admin backend's <strong><em>Appearance -> Widgets</em></strong> and place widgets into the <strong><em>Pages Sidebar 2</em></strong> Widget Area"
+msgstr "Per modificare questa barra laterale, entra nel sistema di amministrazione <strong><em>Aspetto -> Widgets</em></strong> e sistema i widget nell'area widget <strong><em>Pages Sidebar 2</em></strong>"
+
+#: D:\purevision/sidebar-PagesSidebar3.php:21
+msgid "To edit this sidebar, go to admin backend's <strong><em>Appearance -> Widgets</em></strong> and place widgets into the <strong><em>Pages Sidebar 3</em></strong> Widget Area"
+msgstr "Per modificare questa barra laterale, entra nel sistema di amministrazione <strong><em>Aspetto -> Widgets</em></strong> e sistema i widget nell'area widget <strong><em>Pages Sidebar 3</em></strong>"
+
+#: D:\purevision/sidebar-PagesSidebar4.php:21
+msgid "To edit this sidebar, go to admin backend's <strong><em>Appearance -> Widgets</em></strong> and place widgets into the <strong><em>Pages Sidebar 4</em></strong> Widget Area"
+msgstr "Per modificare questa barra laterale, entra nel sistema di amministrazione <strong><em>Aspetto -> Widgets</em></strong> e sistema i widget nell'area widget <strong><em>Pages Sidebar 4</em></strong>"
+
+#: D:\purevision/sidebar-PagesSidebar5.php:21
+msgid "To edit this sidebar, go to admin backend's <strong><em>Appearance -> Widgets</em></strong> and place widgets into the <strong><em>Pages Sidebar 5</em></strong> Widget Area"
+msgstr "Per modificare questa barra laterale, entra nel sistema di amministrazione <strong><em>Aspetto -> Widgets</em></strong> e sistema i widget nell'area widget <strong><em>Pages Sidebar 5</em></strong>"
+
+#: D:\purevision/sidebar-PagesSidebar6.php:21
+msgid "To edit this sidebar, go to admin backend's <strong><em>Appearance -> Widgets</em></strong> and place widgets into the <strong><em>Pages Sidebar 6</em></strong> Widget Area"
+msgstr "Per modificare questa barra laterale, entra nel sistema di amministrazione <strong><em>Aspetto -> Widgets</em></strong> e sistema i widget nell'area widget <strong><em>Pages Sidebar 6</em></strong>"
+
+#: D:\purevision/sidebar-PagesSidebar7.php:21
+msgid "To edit this sidebar, go to admin backend's <strong><em>Appearance -> Widgets</em></strong> and place widgets into the <strong><em>Pages Sidebar 7</em></strong> Widget Area"
+msgstr "Per modificare questa barra laterale, entra nel sistema di amministrazione <strong><em>Aspetto -> Widgets</em></strong> e sistema i widget nell'area widget <strong><em>Pages Sidebar 7</em></strong>"
+
+#: D:\purevision/sidebar-PagesSidebar8.php:22
+msgid "To edit this sidebar, go to admin backend's <strong><em>Appearance -> Widgets</em></strong> and place widgets into the <strong><em>Pages Sidebar 8</em></strong> Widget Area"
+msgstr "Per modificare questa barra laterale, entra nel sistema di amministrazione <strong><em>Aspetto -> Widgets</em></strong> e sistema i widget nell'area widget <strong><em>Pages Sidebar 8</em></strong>"
+
+#: D:\purevision/sidebar-PortfolioSidebar.php:24
+msgid "To edit this sidebar, go to admin backend's <strong><em>Appearance -> Widgets</em></strong> and place widgets into the <strong><em>PortfolioSidebar</em></strong> Widget Area"
+msgstr "Per modificare questa barra laterale, entra nel sistema di amministrazione <strong><em>Aspetto -> Widgets</em></strong> e sistema i widget nell'area widget <strong><em>PortfolioSidebar</em></strong>"
+
+#: D:\purevision/sidebar-SitemapSidebar.php:22
+msgid "To edit this sidebar, go to admin backend's <strong><em>Appearance -> Widgets</em></strong> and place widgets into the <strong><em>SitemapSidebar</em></strong> Widget Area"
+msgstr "Per modificare questa barra laterale, entra nel sistema di amministrazione <strong><em>Aspetto -> Widgets</em></strong> e sistema i widget nell'area widget <strong><em>SitemapSidebar</em></strong>"
+
+#: D:\purevision/sidebar.php:21
+msgid "To edit this sidebar, go to admin backend's <strong><em>Appearance -> Widgets</em></strong> and place widgets into the <strong><em>Pages Sidebar</em></strong> Widget Area"
+msgstr "Per modificare questa barra laterale, entra nel sistema di amministrazione <strong><em>Aspetto -> Widgets</em></strong> e sistema i widget nell'area widget <strong><em>Pages Sidebar</em></strong>"
+
+#: D:\purevision/single-Portfolio.php:48
+#: D:\purevision/single.php:52
+msgid "Sorry, no posts matched your criteria."
+msgstr "Spiacenti, non &egrave; stato trovato nessun articolo che risponda ai criteri di ricerca."
+
+#: D:\purevision/sitemap.php:23
+msgid "Site Feeds"
+msgstr "Feed del sito"
+
+#: D:\purevision/sitemap.php:25
+msgid "Main RSS Feed"
+msgstr "Feed RSS principale"
+
+#: D:\purevision/sitemap.php:26
+msgid "Comments RSS Feed"
+msgstr "Feed RSS dei commenti"
+
+#: D:\purevision/sitemap.php:29
+msgid "Pages"
+msgstr "Pagine"
+
+#: D:\purevision/sitemap.php:40
+msgid "Monthly Archives"
+msgstr "Archivi mensili"
+
+#: D:\purevision/sitemap.php:45
+msgid "Tags"
+msgstr "Tag"
+
+#: D:\purevision/sitemap.php:51
+msgid "All Articles"
+msgstr "Tutti gli articoli"
+
+#: D:\purevision/sitemap.php:55
+msgid "0 Comment"
+msgstr "0 commenti"
+
+#: D:\purevision/scripts/breadcrumbs.php:40
+msgid "You are here:"
+msgstr "Siete qui:"
+
+#: D:\purevision/scripts/breadcrumbs.php:113
+msgid "Author: "
+msgstr "Autore:"
+
+#: D:\purevision/scripts/breadcrumbs.php:115
+msgid "Tag: "
+msgstr "Tag:"
+
+#: D:\purevision/scripts/breadcrumbs.php:117
+msgid "404 - Page not Found"
+msgstr "404 - Pagina non trovata"
+
+#: D:\purevision/scripts/portfolio-item-thumbnail.php:54
+msgid "Preview item is not available!."
+msgstr "L'anteprima dell'oggetto non &egrave; disponibile!"
+
+#: D:\purevision/scripts/portfolio-item-thumbnail.php:72
+msgid "Preview image not available!."
+msgstr "L'anteprima dell'immagine non &egrave; disponibile!"
+
+#: D:\purevision/scripts/portfolio-item-thumbnail.php:79
+msgid "Default Image"
+msgstr "Immagine di base"
+
+#: D:\purevision/sliders/cycle/cycle1/cycle1_display.php:34
+#: D:\purevision/sliders/cycle/cycle2/cycle2_display.php:39
+msgid "Play"
+msgstr "Riproduci"
+
+#: D:\purevision/sliders/cycle/cycle1/cycle1_display.php:35
+#: D:\purevision/sliders/cycle/cycle2/cycle2_display.php:38
+msgid "Pause"
+msgstr "Pausa"
+
+#: D:\purevision/sliders/flashmo/grid_slider/grid_slider_display.php:26
+#: D:\purevision/sliders/piecemaker/piecemaker_display.php:11
+#: D:\purevision/sliders/piecemaker_2/piecemaker_display.php:11
+msgid "Slider Image"
+msgstr "Immagine Slider"
+
+#: D:\purevision/widgets/customCategory-widget.php:39
+msgid "A list or dropdown of a single category's descendants."
+msgstr "Una lista o un menu a discesa dei discendenti di una singola categoria."
+
+#: D:\purevision/widgets/customCategory-widget.php:45
+msgid "pureVISION: Custom Category"
+msgstr "pureVISION: Categoria personalizzata"
+
+#: D:\purevision/widgets/customCategory-widget.php:122
+msgid "Category to be displayed:"
+msgstr "Categoria da visualizzare: "
+
+#: D:\purevision/widgets/customCategory-widget.php:132
+msgid "Show as dropdown"
+msgstr "Mostra come menu a discesa"
+
+#: D:\purevision/widgets/customCategory-widget.php:138
+msgid "Show post counts"
+msgstr "Mostra il conteggio dei commenti"
+
+#: D:\purevision/widgets/customCategory-widget.php:144
+msgid "Show hierarchy"
+msgstr "Mostra gerarchia"
+
+#: D:\purevision/widgets/googleMap-widget.php:39
+msgid "A Google Map widget."
+msgstr "Un widget per mappe Google."
+
+#: D:\purevision/widgets/googleMap-widget.php:45
+msgid "pureVISION: Google Map"
+msgstr "pureVISION: Mappa Google"
+
+#: D:\purevision/widgets/googleMap-widget.php:95
+msgid "Google Map"
+msgstr "Mappa di Google"
+
+#: D:\purevision/widgets/googleMap-widget.php:105
+msgid "Google Map Code:"
+msgstr "Codice per mappa di Google:"
+
+#: D:\purevision/widgets/latestPost-widget.php:39
+msgid "The most recent posts with teaser text"
+msgstr "Gli articoli più recenti con un breve estratto del testo"
+
+#: D:\purevision/widgets/latestPost-widget.php:45
+msgid "pureVISION: Recent Posts"
+msgstr "pureVISION: articoli recenti"
+
+#: D:\purevision/widgets/latestPost-widget.php:141
+msgid "Pick a specific category:"
+msgstr "Seleziona una categoria:"
+
+#: D:\purevision/widgets/latestPost-widget.php:147
+msgid "Number of posts to show:"
+msgstr "Numero di articoli da visualizzare:"
+
+#: D:\purevision/widgets/latestPost-widget.php:150
+msgid "(at most 15)"
+msgstr "(al massimo 15)"
+
+#: D:\purevision/widgets/latestPost-widget.php:155
+msgid "Number of posts to skip:"
+msgstr "Numero di articoli da saltare:"
+
+#: D:\purevision/widgets/latestPost-widget.php:158
+msgid "(offset from latest)"
+msgstr "(differenza dal più recente)"
+
+#: D:\purevision/widgets/latestPost-widget.php:163
+msgid "Limit the number of words to show from each post:"
+msgstr "Limita il numero di parole da visualizzare in ogni articolo:"
+
+#: D:\purevision/widgets/latestPost-widget.php:166
+msgid "(Could also be limited by \"Excerpt Length\" defined in the theme's options page)"
+msgstr "(Può anche essere limitato dalla \"Lunghezza dell'estratto\" definibile nella pagina opzioni del tema"
+
+#: D:\purevision/widgets/latestPost-widget.php:173
+msgid "Show date & author info"
+msgstr "Mostra la data e le info sull'autore"
+
+#: D:\purevision/widgets/latestPost-widget.php:182
+msgid "Show thumbnails"
+msgstr "Mostra anteprime ridotte delle immagini"
+
+#: D:\purevision/widgets/latestPost-widget.php:193
+msgid "Show thumbnail frame shadow"
+msgstr "Mostra ombra della cornice per le anteprime delle immagini"
+
+#: D:\purevision/widgets/latestPost-widget.php:199
+msgid "Thumbnail Dimensions:"
+msgstr "Dimensioni miniatura immagine:"
+
+#: D:\purevision/widgets/latestPost-widget.php:204
+msgid "(Width X Height) in pixels"
+msgstr "(larghezza x altezza) in pixel"
+
+#: D:\purevision/widgets/loginForm-widget.php:39
+msgid "A user login form."
+msgstr "Un modulo di connessione utente."
+
+#: D:\purevision/widgets/loginForm-widget.php:45
+msgid "pureVISION: Login Form"
+msgstr "pureVISION: Modulo di connessione"
+
+#: D:\purevision/widgets/loginForm-widget.php:69
+msgid "You are logged in as"
+msgstr "Sei connesso come "
+
+#: D:\purevision/widgets/loginForm-widget.php:72
+msgid "Logout"
+msgstr "Disconnessione"
+
+#: D:\purevision/widgets/loginForm-widget.php:79
+msgid "User"
+msgstr "Utente"
+
+#: D:\purevision/widgets/loginForm-widget.php:82
+msgid "Password"
+msgstr "Parola chiave"
+
+#: D:\purevision/widgets/loginForm-widget.php:86
+msgid "Login"
+msgstr "Connessione"
+
+#: D:\purevision/widgets/loginForm-widget.php:87
+msgid "Remember me"
+msgstr "Ricordati di me"
+
+#: D:\purevision/widgets/loginForm-widget.php:94
+msgid "Register"
+msgstr "Registrati"
+
+#: D:\purevision/widgets/loginForm-widget.php:96
+msgid "Recover password"
+msgstr "Recupera parola chiave"
+
+#: D:\purevision/widgets/loginForm-widget.php:128
+msgid "Login Form"
+msgstr "Modulo di connessione"
+
+#: D:\purevision/widgets/subpages-widget.php:39
+msgid "Display subpages if present page only."
+msgstr "Mostra sottopagine solo se è presente una pagina"
+
+#: D:\purevision/widgets/subpages-widget.php:45
+msgid "pureVISION: Subpages"
+msgstr "pureVISION: Sottopagine"
+
+#: D:\purevision/widgets/subpages-widget.php:121
+msgid "Leave the Title field blank if you would like to display the parent page Title instead."
+msgstr "Non riempire il campo Titolo se vuoi che venga mostrato al suo posto il titolo della pagina collegata."
+
+#~ msgid "Upload Slide:"
+#~ msgstr "Carica slide:"
+
+#~ msgid "(Preview image to be loaded before the SWF file is shown)"
+#~ msgstr ""
+#~ "(L'anteprima dell'immagine da caricare prima di mostrare il file SWF)"
+
+#~ msgid "(Preview image to be loaded before the Video file is shown)"
+#~ msgstr ""
+#~ "(Anteprima dell'immagine da caricare prima che venga mostrato il file "
+#~ "video)"
+
+#~ msgid "Slide Image:"
+#~ msgstr "Immagine slide:"
+
+#~ msgid "Show Author Name as link (if applicable)."
+#~ msgstr "Mostra il nome dell'autore come link (se applicabile)"
+
+#~ msgid "Permanent Link to"
+#~ msgstr "Link permanente a "
+
+#~ msgid "Post Thumbnail"
+#~ msgstr "Pubblica miniatura immagine"
+
+#~ msgid "Permalink to %s"
+#~ msgstr "Permalink a %s"
+
+#~ msgid "Top Area Highlight"
+#~ msgstr "Evidenziazione banda superiore"
+
+#~ msgid "Enable the highlight effect in the top area background."
+#~ msgstr ""
+#~ "Abilita l'effetto di evidenziazione nello sfondo dell'area superiore."
+
+#~ msgid "Header/Slider Highlight"
+#~ msgstr "Evidenziazione testata/slider"
+
+#~ msgid ""
+#~ "Enable the highlight effect in the header area background behind the "
+#~ "slider."
+#~ msgstr ""
+#~ "Abilita l'effetto di evidenziazione nello sfondo dell'area della testata, "
+#~ "dietro lo slider."
+
+#~ msgid "Options"
+#~ msgstr "Opzioni"
+
+#~ msgid "from the top. Enter a number between 0 and 100."
+#~ msgstr "dal margine superiore. Immetti un numero tra 0 e100."
+
+#, fuzzy
+#~ msgid ""
+#~ "(Width X Height) in pixels. This is the \"pureVISION: Recent Posts\" "
+#~ "widget thumbnails."
+#~ msgstr ""
+#~ "Attiva miniature di base per gli articoli (Questa opzione è usata con il "
+#~ "widget \"pureVISION: Recent Posts\")."
+
+#~ msgid "Contact Us"
+#~ msgstr "Contatti"

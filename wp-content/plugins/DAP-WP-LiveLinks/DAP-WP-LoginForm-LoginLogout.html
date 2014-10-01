@@ -1,0 +1,25 @@
+<script language="javascript" type="text/javascript" src="/dap/javascript/jsstrings.php"></script>
+<script language="javascript" type="text/javascript" src="/dap/javascript/LoginWidget.js"></script>
+<form name="loginFormW" method="post" action="" onSubmit="validateW(document.loginFormW); return false;">
+  <table width="95%" border="0" cellspacing="2" cellpadding="5">
+    <tr>
+      <td align="right"><div align="left">Email: </div></td>
+      <td align="left"><div align="left">
+        <input type="text" name="email" size="8" maxlength="60" />
+      </div></td>
+    </tr>
+    <tr>
+      <td align="left"><div align="left">Password: </div></td>
+      <td align="left"><div align="left">
+        <input type="password" name="password" size="8" maxlength="30" />
+      </div></td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center"><input name="rememberMe" type="checkbox" id="rememberMe" value="rememberMe"/> Remember &nbsp;&nbsp;<input name="LoginW" type="submit" value="Login" onSubmit="validateW(this.form); return false;" /></td>
+    </tr>
+  </table>
+  <p align="center"><a href="#" onClick="doForgotPasswordW();">Forgot Password</a></p>
+  <input type="hidden" name="submitted" value="Y" />
+  <input type="hidden" name="forgot" value="N" />
+  <input type="hidden" name="request" value="%%REQUEST%%" />
+</form>

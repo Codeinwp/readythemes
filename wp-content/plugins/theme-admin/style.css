@@ -1,0 +1,32 @@
+/* CSS Document */
+/* sidebar widget */
+.trp-sidebar {width:100% !important; position:relative; border:0px solid #FF0000; }
+.trp-sidebar-item {width:100%; margin-bottom:15px; padding-bottom:15px; border-bottom:1px solid #e5e5e5; position:relative; }
+.trp-sidebar-item-left {width:35%; position:relative; float:left; border:0px solid #FF0000;}
+.trp-sidebar-item-right {width:58%; position:relative; float:right; border:0px solid #0000ff;}
+.trp-sidebar-item-right div {width:100% }
+.trp-sidebar-item-right a {text-decoration:none;}
+
+/* item left part */
+.trp-sidebar-item-left img {border:1px solid #ccc;}
+
+/* item right part */
+.trp-sidebar-item-title { padding-top:5px; padding-bottom:5px; max-height:35px; position:relative; float:left; }
+.trp-sidebar-item-title h2 {margin:0 0 20px 0;}
+.trp-sidebar-item-rating {   padding-top:5px; padding-bottom:5px; max-height:35px; position:relative; float:left;}
+.trp-sidebar-item-buttons {   padding-top:5px; padding-bottom:5px;  position:relative; float:left; border:0px solid #FF0000; }
+.trp-sidebar-item-buttons a {  width:0px; margin:0; padding:0; }
+.trp-sidebar-item-buttons a {  border:1px solid #000000;  margin:0 0 0 0; padding:0 0 0 0; }
+.trp-sidebar-item-buttons a img {  position:relative; float:left; top:0px !important; border:none;  margin:0 0 0 0; padding:0 0 0 0; }
+.trp-sidebar-item-buttons a.readmore img { margin-right:10px;    }
+
+/* image size */
+.trp-sidebar-item-left img { max-height:100%; max-width:100%; }
+.trp-sidebar-item-rating img { max-width:100%; max-height:100%; }
+/*
+.trp-sidebar-item-buttons a img { max-width:40%; }
+*/
+
+/* clear all relative position */
+.trp-clear { clear:both; } 
+.trp-item-clear { clear:both; } 

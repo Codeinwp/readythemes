@@ -1,0 +1,53 @@
+/*
+Theme Name: Ready Themes
+Description: Custom Theme
+Author: Dan Collins
+Author URI: http://readythemes.com
+Version: 1
+*/
+
+.clear {clear:both;}
+body {background:url(images/body_bg.jpg); margin:0; padding:0; font-family:Arial, Helvetica, sans-serif; color:#333; font-size:.9em;}
+#header {height:100px;}
+#header .logo {margin-top:35px; margin-left:20px; width:220px; float:left;}
+#header .headerright {float:right; margin-top:30px; margin-right:20px; width:500px; font-size:16px; font-weight:bold; font-style:italic; text-align:right; color:#333;}
+#wrapper-100 {width:100%; background:url(images/rays.png) top center fixed no-repeat;}
+#wrapper {width:964px; margin:0 auto;}
+#nav {width:964px; height:65px; background:url(images/nav_bg.png) no-repeat; padding-left:5px;}
+#nav ul {list-style:none; margin:0; padding:0;}
+#nav ul li {}
+#nav ul li a {padding:15px 15px 15px 15px; display:block; float:left; color:#fff; font-size:14px; font-weight:bold; text-decoration:none;}
+#nav ul li a.home {padding-top:0; padding-bottom:0; padding-right:20px; background:url(images/divider.gif) right no-repeat;}
+#body {width:964px; margin:0 auto; background:url(images/bodybg.png) repeat-y; padding-left:1px;}
+#bodytop {height:12px; background:url(images/bodytop.png) no-repeat; width:964px; margin:0 auto;}
+#bodybottom {height:26px; background:url(images/bodybottom.png) no-repeat; width:964px; margin:0 auto;}
+#body .intro {width:920px; padding:10px 20px;}
+#body .intro h1 {margin:0 0 20px 0; font-size:32px;}
+#body .intro p {line-height:24px;}
+#body .contentleft {float:left; width:600px; padding:0 0 0 20px;}
+#body .contentleft p {line-height:24px;}
+#body .contentright {float:right; width:300px; padding:0 20px 0 0;}
+.introimage {margin:0 0 20px 0; text-align:center;}
+.introtext {margin:0; line-height:24px;}
+.post p img {border:none;}
+.post h2 {margin-top:0;}
+.post h2 a {color:#222; text-decoration:none;}
+.postleft {float:left; width:150px;}
+.postleft img {border:1px solid #ccc;}
+.fullconentimg {margin:0 20px 20px 0;}
+.postright {float:right; width:445px;}
+.postright p {margin:0 0 20px 0; line-height:24px;}
+.post ul {line-height:24px;}
+#body .contentleft-home {float:left; width:440px; padding:0 0 0 20px; background:none; margin-top:18px;}
+#body .contentleft-home p {line-height:24px;}
+#body .contentright-home {float:right; width:440px; padding:0 20px 0 0; background:none; margin-top:18px;}
+
+#body .download {height:62px; background:url(images/lines.jpg) repeat-x; width:920px; padding:0px 20px 0 20px;}
+#body .download .text {font-size:22px; font-style:italic; margin-top:18px; float:left; width:400px;}
+#body .homecontent {background:url(images/centerline.jpg) center repeat-y; width:960px; padding:10px 0;}
+#body .latestthemes {padding:20px; border-top:1px solid #DFDFDF; padding-top:20px;}
+#body .latestthemes .latest-single {width:200px; height:150px; float:left; margin-right:35px; background-color:#fff;}
+#body .latestthemes .latest-single img {border:1px solid #ccc; padding:4px;}
+.end {margin-right:0;}
+.optinform-home {float:left; width:380px; margin-top:18px;}
+.optinform-submit {float:left; width:100px; margin-top:13px;}

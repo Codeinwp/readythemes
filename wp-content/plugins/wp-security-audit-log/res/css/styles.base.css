@@ -1,0 +1,122 @@
+#wpph-pageWrapper{ padding: 0 0; clear: both; }
+
+h2.pageTitle { padding-left: 40px; }
+h2.pageTitle-eventViewer { background: url("../img/page-viewer-logo.png") no-repeat left center; }
+h2.pageTitle-settings { background: url("../img/page-settings-logo.png") no-repeat left center; }
+h2.pageTitle-support { background: url("../img/page-support-logo.png") no-repeat left center; }
+h2.pageTitle-about { background: url("../img/page-about-logo.png") no-repeat left center; }
+
+#wpph-pageWrapper .button { margin-top: 1px;}
+#wpph-pageWrapper .buttonRefreshEventsList { margin-top: 3px;}
+
+.wpph-text-disabled { color: #c0c0c0 !important; }
+
+
+/*
+*  Page: Event Viewer
+*/
+.column-left-align { text-align: left; }
+.column-center-align { text-align: center; }
+
+#the-list .row-0 { background-color: #FCFCFC; }
+.widefat tbody th.check-column { padding: 8px 0 0 0 !important; }
+.widefat .check-column { padding: 6px 0 0 0; }
+
+#the-list th, #the-list tr, #the-list td { padding: 0 0 0 0 !important; line-height: normal !important;}
+#the-list span { padding: 5px 5px; line-height: normal !important; display: block; }
+
+/*
+*  Page: Settings, Alerts
+*/
+.error-info-icon {
+    padding: 5px 7px 5px 20px;
+    margin-left: 8px;
+    color: #ff0000;
+    background: url("../img/error-icon.png") no-repeat left center;
+}
+.success-info-icon {
+    padding: 5px 7px 5px 20px !important;
+    margin-left: 8px;
+    color: #000000;
+    background: url("../img/success-icon.png") no-repeat left center;
+}
+
+#section-holder { overflow: hidden; }
+#section-holder p { margin: 15px 0; overflow: hidden; }
+#section-holder p input[type="radio"] { float: left; margin-top: 5px !important; }
+#section-holder p label, #section-holder p span { float: left; margin-top: 4px !important; margin-left: 10px !important; font-size: 12px !important; }
+#section-holder p input[type="text"] { float: left; margin-left: 10px !important; }
+
+.form-table, .form-table td { border: none 0;}
+.form-table td { line-height: normal !important; }
+.form-table td.section-left { width: 190px; padding: 0 0; }
+.form-table td.section-right { padding: 0 0 20px 0 !important; margin: 0 0 !important; }
+.form-table td.section-right p { padding: 0 0 !important; margin: 0 0 !important; }
+.form-table td.section-left label { font-weight: bold; }
+
+#errMessage { margin: 20px 0; }
+#eventsDeletion #description,
+#optionsDescription #description {
+    background: none repeat scroll 0 0 #EEEEEE;
+    margin: 0 0 20px 0;
+    padding: 10px;
+}
+#optionsDescription #description { margin: 20px 0; }
+
+.widefat .item-cb_h { width: 50px !important; }
+.widefat .item-event { width: 100px !important; text-align: left; padding: 8px 7px 2px 7px !important; }
+.widefat .item-type { min-width: 100px !important; text-align: left; padding: 8px 7px 2px 7px !important; }
+.widefat .item-description { width: auto !important; text-align: left; padding: 8px 7px 2px 7px !important; }
+.widefat tbody th.check-column { padding: 11px 0 0 3px !important; }
+/*
+*  Page: Events :: pagination
+*/
+.paginationWrapper{
+    overflow: hidden;
+    float: right;
+    display: block;
+    margin-right: 0;
+}
+.paginationWrapper .showPages {
+    float: left;
+    display: block;
+    margin-top:10px;
+    margin-right: 7px;
+}
+.paginationWrapper .showPages .span1,
+.paginationWrapper .showPages .span2,
+.paginationWrapper .showPages .span3 { font-weight: 800; }
+
+.paginationWrapper .pageButton {
+    color: #B8B8B8;
+    background-color: transparent;
+    background-image: -moz-linear-gradient(center top , #F5F5F5, #F1F1F1);
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    cursor: default;
+    outline: 0;
+    text-align: center;
+    white-space: nowrap;
+    display: inline-block;
+    padding: 0 0;
+    margin: 0 0;
+}
+.pageButton span{
+    display: block;
+    font-family: Verdana, "Arial Unicode MS", Arial;
+    font-weight: 800;
+    font-size: 18px;
+    color: #000;
+    margin-right: 0;
+    margin-top: -1px;
+    padding: 2px 7px 4px;
+}
+.paginationWrapper .buttonsWrapper{
+    overflow: hidden;
+    float: right;
+    display: block;
+    width: 70px;
+}
+.buttonsWrapper .buttonPrevious,
+.buttonsWrapper .buttonNext {float: right;}
+.wpphButtonDisabled { background: #ccc !important; }
+.wpphButtonDisabled span { color: #808080 !important; }

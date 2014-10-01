@@ -1,0 +1,34 @@
+body{}
+
+.social-single {
+margin-top:40px;
+position: relative;
+display:block;
+}
+
+#twitterbutton, #likebutton, #stumblebutton, #plusone, #linkedinshare {
+/*float: left;*/
+}
+
+#likebutton {
+margin-top:40px;
+line-height: 10px;
+vertical-align:top;
+padding:0px;
+position: relative;
+}
+
+#twitterbutton {
+margin-top:40px;
+}
+
+#plusone {
+margin-top:40px;
+}
+
+#linkedinshare {
+margin-top:40px;
+vertical-align:top;
+padding:0px;
+line-height: 2px;
+}

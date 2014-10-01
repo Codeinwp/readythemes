@@ -1,0 +1,1 @@
+jQuery(document).ready(function () {	jQuery(".thumbnails").tabs("div.bigpreview > div");});

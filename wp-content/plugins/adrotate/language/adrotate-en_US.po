@@ -1,0 +1,2350 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: AdRotate\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-04-16 20:45+0100\n"
+"PO-Revision-Date: 2014-04-16 20:45+0100\n"
+"Last-Translator: Arnan de Gans <adegans@meandmymac.net>\n"
+"Language-Team: Arnan de Gans from AJdG Solutions <info@adrotateplugin.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;_\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Generator: Poedit 1.6.3\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: adrotate-functions.php:609
+msgid "No files found"
+msgstr ""
+
+#: adrotate-functions.php:612
+msgid "Folder not found or not accessible"
+msgstr ""
+
+#: adrotate-output.php:746
+msgid "Oh no! Something went wrong!"
+msgstr ""
+
+#: adrotate-output.php:747
+msgid ""
+"WordPress was unable to verify the authenticity of the url you have clicked. "
+"Verify if the url used is valid or log in via your browser."
+msgstr ""
+
+#: adrotate-output.php:748
+msgid ""
+"If you have received the url you want to visit via email, you are being "
+"tricked!"
+msgstr ""
+
+#: adrotate-output.php:749
+msgid "Contact support if the issue persists:"
+msgstr ""
+
+#: adrotate-output.php:767
+msgid ""
+"Error, Ad is not available at this time due to schedule/geolocation "
+"restrictions or does not exist!"
+msgstr ""
+
+#: adrotate-output.php:769
+msgid ""
+"Error, Ad is not available at this time due to schedule/geolocation "
+"restrictions!"
+msgstr ""
+
+#: adrotate-output.php:776 adrotate-output.php:778
+msgid ""
+"Either there are no banners, they are disabled or none qualified for this "
+"location!"
+msgstr ""
+
+#: adrotate-output.php:784
+msgid "Error, no Ad ID set! Check your syntax!"
+msgstr ""
+
+#: adrotate-output.php:790
+msgid "Error, no group ID set! Check your syntax!"
+msgstr ""
+
+#: adrotate-output.php:795
+msgid "Error, group does not exist! Check your syntax!"
+msgstr ""
+
+#: adrotate-output.php:801
+msgid ""
+"There was an error locating the database tables for AdRotate. Please "
+"deactivate and re-activate AdRotate from the plugin page!!"
+msgstr ""
+
+#: adrotate-output.php:801
+msgid "If this does not solve the issue please seek support at"
+msgstr ""
+
+#: adrotate-output.php:807
+msgid "An unknown error occured."
+msgstr ""
+
+#: adrotate-output.php:833
+msgid "active ad(s) expired."
+msgstr ""
+
+#: adrotate-output.php:833
+msgid "Take action now"
+msgstr ""
+
+#: adrotate-output.php:835
+msgid "active ad(s) are about to expire."
+msgstr ""
+
+#: adrotate-output.php:835
+msgid "Check it out"
+msgstr ""
+
+#: adrotate-output.php:837
+msgid "active ad(s) with configuration errors."
+msgstr ""
+
+#: adrotate-output.php:837
+msgid "Solve this"
+msgstr ""
+
+#: adrotate-output.php:839
+msgid "ad(s) expired."
+msgstr ""
+
+#: adrotate-output.php:839
+msgid "ad(s) are about to expire."
+msgstr ""
+
+#: adrotate-output.php:839
+msgid "ad(s) with configuration errors."
+msgstr ""
+
+#: adrotate-output.php:839
+msgid "Fix this as soon as possible"
+msgstr ""
+
+#: adrotate-output.php:859
+msgid "Your support makes a difference"
+msgstr ""
+
+#: adrotate-output.php:860
+msgid "Useful links"
+msgstr ""
+
+#: adrotate-output.php:861
+msgid "Brought to you by"
+msgstr ""
+
+#: adrotate-output.php:868
+msgid ""
+"Your awesome gift will ensure the continued development of AdRotate! Thanks "
+"for your consideration!"
+msgstr ""
+
+#: adrotate-output.php:873
+msgid "Like the plugin?"
+msgstr ""
+
+#: adrotate-output.php:873
+msgid "Rate and review"
+msgstr ""
+
+#: adrotate-output.php:874
+msgid "Find my website at"
+msgstr ""
+
+#: adrotate-output.php:875
+msgid "Grab the latest news and updates on the"
+msgstr ""
+
+#: adrotate-output.php:875
+msgid "AdRotate Blog"
+msgstr ""
+
+#: adrotate-output.php:876
+msgid "Check out the"
+msgstr ""
+
+#: adrotate-output.php:876
+msgid "manuals"
+msgstr ""
+
+#: adrotate-output.php:876
+msgid "and have the most popular features explained."
+msgstr ""
+
+#: adrotate-output.php:881
+msgid ""
+"Your one stop for Webdevelopment, consultancy and anything WordPress! Find "
+"out more about what I can do for you!"
+msgstr ""
+
+#: adrotate-output.php:881
+msgid "Visit the"
+msgstr ""
+
+#: adrotate-output.php:881
+msgid "AJdG Solutions"
+msgstr ""
+
+#: adrotate-output.php:881
+msgid "website"
+msgstr ""
+
+#: adrotate-output.php:899
+msgid "Available in AdRotate Pro"
+msgstr ""
+
+#: adrotate-output.php:899
+msgid "Buy now"
+msgstr ""
+
+#: adrotate-output.php:900
+msgid "This feature is available in AdRotate Pro"
+msgstr ""
+
+#: adrotate-output.php:900
+msgid "Go Pro today"
+msgstr ""
+
+#: adrotate-statistics.php:211 dashboard/publisher/adrotate-ads-edit.php:341
+#: dashboard/publisher/adrotate-ads-edit.php:362
+msgid "January"
+msgstr ""
+
+#: adrotate-statistics.php:211 dashboard/publisher/adrotate-ads-edit.php:342
+#: dashboard/publisher/adrotate-ads-edit.php:363
+msgid "February"
+msgstr ""
+
+#: adrotate-statistics.php:211 dashboard/publisher/adrotate-ads-edit.php:343
+#: dashboard/publisher/adrotate-ads-edit.php:364
+msgid "March"
+msgstr ""
+
+#: adrotate-statistics.php:211 dashboard/publisher/adrotate-ads-edit.php:344
+#: dashboard/publisher/adrotate-ads-edit.php:365
+msgid "April"
+msgstr ""
+
+#: adrotate-statistics.php:211 dashboard/publisher/adrotate-ads-edit.php:345
+#: dashboard/publisher/adrotate-ads-edit.php:366
+msgid "May"
+msgstr ""
+
+#: adrotate-statistics.php:211 dashboard/publisher/adrotate-ads-edit.php:346
+#: dashboard/publisher/adrotate-ads-edit.php:367
+msgid "June"
+msgstr ""
+
+#: adrotate-statistics.php:211 dashboard/publisher/adrotate-ads-edit.php:347
+#: dashboard/publisher/adrotate-ads-edit.php:368
+msgid "July"
+msgstr ""
+
+#: adrotate-statistics.php:211 dashboard/publisher/adrotate-ads-edit.php:348
+#: dashboard/publisher/adrotate-ads-edit.php:369
+msgid "August"
+msgstr ""
+
+#: adrotate-statistics.php:211 dashboard/publisher/adrotate-ads-edit.php:349
+#: dashboard/publisher/adrotate-ads-edit.php:370
+msgid "September"
+msgstr ""
+
+#: adrotate-statistics.php:211 dashboard/publisher/adrotate-ads-edit.php:350
+#: dashboard/publisher/adrotate-ads-edit.php:371
+msgid "October"
+msgstr ""
+
+#: adrotate-statistics.php:211 dashboard/publisher/adrotate-ads-edit.php:351
+#: dashboard/publisher/adrotate-ads-edit.php:372
+msgid "November"
+msgstr ""
+
+#: adrotate-statistics.php:211 dashboard/publisher/adrotate-ads-edit.php:352
+#: dashboard/publisher/adrotate-ads-edit.php:373
+msgid "December"
+msgstr ""
+
+#: adrotate-statistics.php:218
+msgid "Previous"
+msgstr ""
+
+#: adrotate-statistics.php:220
+msgid "This month"
+msgstr ""
+
+#: adrotate-statistics.php:221
+msgid "Next"
+msgstr ""
+
+#: adrotate-statistics.php:284 dashboard/adrotate-info.php:123
+msgid "No data to show!"
+msgstr ""
+
+#: adrotate-widget.php:101
+msgid "Title (optional):"
+msgstr ""
+
+#: adrotate-widget.php:104
+msgid "HTML will be stripped out."
+msgstr ""
+
+#: adrotate-widget.php:107
+msgid "Description (optional):"
+msgstr ""
+
+#: adrotate-widget.php:110
+msgid "What is this widget used for? (Not parsed, HTML will be stripped out.)"
+msgstr ""
+
+#: adrotate-widget.php:113
+msgid "Type:"
+msgstr ""
+
+#: adrotate-widget.php:115
+msgid "Single Ad - Use Ad ID"
+msgstr ""
+
+#: adrotate-widget.php:116
+msgid "Group of Ads - Use group ID"
+msgstr ""
+
+#: adrotate-widget.php:117
+msgid "Block of Ads - Use Block ID"
+msgstr ""
+
+#: adrotate-widget.php:120
+msgid "Choose what you want to use this widget for"
+msgstr ""
+
+#: adrotate-widget.php:123 dashboard/publisher/adrotate-blocks-edit.php:30
+#: dashboard/publisher/adrotate-groups-edit.php:46
+msgid "ID:"
+msgstr ""
+
+#: adrotate-widget.php:126
+msgid "Fill in the ID of the type you want to display!"
+msgstr ""
+
+#: adrotate.php:95
+msgid "General Info"
+msgstr ""
+
+#: adrotate.php:96
+msgid "Manage Ads"
+msgstr ""
+
+#: adrotate.php:97 dashboard/publisher/adrotate-groups-main.php:6
+msgid "Manage Groups"
+msgstr ""
+
+#: adrotate.php:98 dashboard/publisher/adrotate-blocks-main.php:6
+msgid "Manage Blocks"
+msgstr ""
+
+#: adrotate.php:99
+msgid "Moderate"
+msgstr ""
+
+#: adrotate.php:99
+msgid "Moderate Adverts"
+msgstr ""
+
+#: adrotate.php:100
+msgid "Global Reports"
+msgstr ""
+
+#: adrotate.php:101
+msgid "Settings"
+msgstr ""
+
+#: adrotate.php:117
+msgid "AdRotate Info"
+msgstr ""
+
+#: adrotate.php:159
+msgid "Ad Management"
+msgstr ""
+
+#: adrotate.php:162
+msgid "Ad created"
+msgstr ""
+
+#: adrotate.php:164
+msgid "Ad updated"
+msgstr ""
+
+#: adrotate.php:166
+msgid "Ad(s) deleted"
+msgstr ""
+
+#: adrotate.php:168
+msgid "Ad(s) statistics reset"
+msgstr ""
+
+#: adrotate.php:170
+msgid "Ad(s) renewed"
+msgstr ""
+
+#: adrotate.php:172
+msgid "Ad(s) deactivated"
+msgstr ""
+
+#: adrotate.php:174
+msgid "Ad(s) activated"
+msgstr ""
+
+#: adrotate.php:176
+msgid ""
+"The ad was saved but has an issue which might prevent it from working "
+"properly. Review the yellow marked ad."
+msgstr ""
+
+#: adrotate.php:178
+msgid "Action prohibited"
+msgstr ""
+
+#: adrotate.php:180 adrotate.php:329 adrotate.php:410
+msgid "No data found in selected time period"
+msgstr ""
+
+#: adrotate.php:238 adrotate.php:335 adrotate.php:416
+msgid "Manage"
+msgstr ""
+
+#: adrotate.php:239 adrotate.php:336
+msgid "Add New"
+msgstr ""
+
+#: adrotate.php:241 adrotate.php:338 adrotate.php:418
+msgid "Report"
+msgstr ""
+
+#: adrotate.php:318
+msgid "Group Management"
+msgstr ""
+
+#: adrotate.php:321
+msgid "Group created"
+msgstr ""
+
+#: adrotate.php:323
+msgid "Group updated"
+msgstr ""
+
+#: adrotate.php:325
+msgid "Group deleted"
+msgstr ""
+
+#: adrotate.php:327
+msgid "Group including it's Ads deleted"
+msgstr ""
+
+#: adrotate.php:401
+msgid "Block Management"
+msgstr ""
+
+#: adrotate.php:404
+msgid "Block created"
+msgstr ""
+
+#: adrotate.php:406
+msgid "Block updated"
+msgstr ""
+
+#: adrotate.php:408
+msgid "Block deleted"
+msgstr ""
+
+#: adrotate.php:466
+msgid "Moderation queue"
+msgstr ""
+
+#: adrotate.php:471 dashboard/publisher/adrotate-ads-main-disabled.php:14
+#: dashboard/publisher/adrotate-ads-main-error.php:13
+#: dashboard/publisher/adrotate-ads-main.php:14
+#: dashboard/publisher/adrotate-blocks-main.php:14
+#: dashboard/publisher/adrotate-groups-main.php:14
+msgid "Bulk Actions"
+msgstr ""
+
+#: adrotate.php:472
+msgid "Approve"
+msgstr ""
+
+#: adrotate.php:473
+msgid "Update"
+msgstr ""
+
+#: adrotate.php:474 dashboard/publisher/adrotate-ads-main-disabled.php:16
+#: dashboard/publisher/adrotate-ads-main-error.php:15
+#: dashboard/publisher/adrotate-ads-main.php:16
+msgid "Delete"
+msgstr ""
+
+#: adrotate.php:475
+msgid "Reject"
+msgstr ""
+
+#: adrotate.php:487 dashboard/publisher/adrotate-ads-edit.php:416
+#: dashboard/publisher/adrotate-ads-main-disabled.php:29
+#: dashboard/publisher/adrotate-ads-main-error.php:33
+#: dashboard/publisher/adrotate-ads-main.php:32
+#: dashboard/publisher/adrotate-blocks-main.php:26
+#: dashboard/publisher/adrotate-groups-main.php:26
+msgid "ID"
+msgstr ""
+
+#: adrotate.php:488 dashboard/publisher/adrotate-ads-main-disabled.php:30
+#: dashboard/publisher/adrotate-ads-main-error.php:34
+#: dashboard/publisher/adrotate-ads-main.php:33
+msgid "Show from"
+msgstr ""
+
+#: adrotate.php:489 dashboard/publisher/adrotate-ads-main-disabled.php:31
+#: dashboard/publisher/adrotate-ads-main-error.php:35
+#: dashboard/publisher/adrotate-ads-main.php:34
+msgid "Show until"
+msgstr ""
+
+#: adrotate.php:490 dashboard/publisher/adrotate-ads-main-disabled.php:32
+#: dashboard/publisher/adrotate-ads-main-error.php:36
+#: dashboard/publisher/adrotate-ads-main.php:35
+msgid "Title"
+msgstr ""
+
+#: adrotate.php:491
+msgid "Advertiser"
+msgstr ""
+
+#: adrotate.php:492 dashboard/publisher/adrotate-ads-main.php:36
+#: dashboard/publisher/adrotate-groups-edit.php:257
+msgid "Weight"
+msgstr ""
+
+#: adrotate.php:493
+msgid "Options"
+msgstr ""
+
+#: adrotate.php:501
+msgid ""
+"Couple adverts to advertisers and allow them to create and upload their own "
+"advertisements for you to moderate and approve or reject!"
+msgstr ""
+
+#: adrotate.php:524 adrotate.php:772
+msgid "Statistics"
+msgstr ""
+
+#: adrotate.php:527
+msgid "A summarized overview of all adverts currently active!"
+msgstr ""
+
+#: adrotate.php:565
+msgid "AdRotate Settings"
+msgstr ""
+
+#: adrotate.php:568
+msgid "Settings saved"
+msgstr ""
+
+#: adrotate.php:570
+msgid "Database optimized"
+msgstr ""
+
+#: adrotate.php:572
+msgid "Database repaired"
+msgstr ""
+
+#: adrotate.php:574
+msgid "Ads evaluated and statuses have been corrected where required"
+msgstr ""
+
+#: adrotate.php:576
+msgid "Empty database records removed"
+msgstr ""
+
+#: adrotate.php:578
+msgid "Database can only be optimized or cleaned once every hour"
+msgstr ""
+
+#: adrotate.php:586
+msgid "Access Rights"
+msgstr ""
+
+#: adrotate.php:587
+msgid ""
+"Who has access to what? All but the \"advertiser page\" are usually for "
+"admins and moderators."
+msgstr ""
+
+#: adrotate.php:590
+msgid "Advertiser page"
+msgstr ""
+
+#: adrotate.php:594
+msgid "Role to allow users/advertisers to see their advertisement page."
+msgstr ""
+
+#: adrotate.php:598
+msgid "Global report page"
+msgstr ""
+
+#: adrotate.php:602
+msgid "Role to review the global report."
+msgstr ""
+
+#: adrotate.php:606
+msgid "Manage/Add/Edit adverts"
+msgstr ""
+
+#: adrotate.php:610
+msgid "Role to see and add/edit ads."
+msgstr ""
+
+#: adrotate.php:614
+msgid "Delete/Reset adverts"
+msgstr ""
+
+#: adrotate.php:618
+msgid "Role to delete ads and reset stats."
+msgstr ""
+
+#: adrotate.php:622
+msgid "Manage/Add/Edit groups"
+msgstr ""
+
+#: adrotate.php:626
+msgid "Role to see and add/edit groups."
+msgstr ""
+
+#: adrotate.php:630
+msgid "Delete groups"
+msgstr ""
+
+#: adrotate.php:634
+msgid "Role to delete groups."
+msgstr ""
+
+#: adrotate.php:638
+msgid "Manage/Add/Edit blocks"
+msgstr ""
+
+#: adrotate.php:642
+msgid "Role to see and add/edit blocks."
+msgstr ""
+
+#: adrotate.php:646
+msgid "Delete blocks"
+msgstr ""
+
+#: adrotate.php:650
+msgid "Role to delete blocks."
+msgstr ""
+
+#: adrotate.php:654
+msgid "Moderate new adverts"
+msgstr ""
+
+#: adrotate.php:658
+msgid "Role to approve ads submitted by advertisers."
+msgstr ""
+
+#: adrotate.php:662
+msgid "Approve/Reject adverts in Moderation Queue"
+msgstr ""
+
+#: adrotate.php:666
+msgid "Role to approve or reject ads submitted by advertisers."
+msgstr ""
+
+#: adrotate.php:686 adrotate.php:826
+msgid "Advertisers"
+msgstr ""
+
+#: adrotate.php:687
+msgid "Enable advertisers so they can review and manage their own ads."
+msgstr ""
+
+#: adrotate.php:690
+msgid "Enable Advertisers"
+msgstr ""
+
+#: adrotate.php:692
+msgid "Allow adverts to be coupled to users (Advertisers)."
+msgstr ""
+
+#: adrotate.php:696
+msgid "Edit/update adverts"
+msgstr ""
+
+#: adrotate.php:698
+msgid "Allow advertisers to add new or edit their adverts."
+msgstr ""
+
+#: adrotate.php:702
+msgid "Advertiser role"
+msgstr ""
+
+#: adrotate.php:704
+msgid "Create Role"
+msgstr ""
+
+#: adrotate.php:705
+msgid ""
+"This role has no capabilities unless you assign them using the above "
+"options. Obviously you should use this with care."
+msgstr ""
+
+#: adrotate.php:706
+msgid ""
+"This type of user is NOT required to use AdRotate or any of it's features. "
+"It merely helps you to seperate advertisers from regular subscribers without "
+"giving them too much access to your dashboard."
+msgstr ""
+
+#: adrotate.php:719
+msgid "Banner Folder"
+msgstr ""
+
+#: adrotate.php:720
+msgid ""
+"Activate your AdRotate License here to receive support via the fast and "
+"personal ticket system."
+msgstr ""
+
+#: adrotate.php:723
+msgid "Where are your banner ads?"
+msgstr ""
+
+#: adrotate.php:726
+msgid ""
+"Set a location where your banner images will be stored. (Default: /wp-"
+"content/banners/)."
+msgstr ""
+
+#: adrotate.php:727
+msgid ""
+"To try and trick ad blockers you could set the folder to something crazy "
+"like:"
+msgstr ""
+
+#: adrotate.php:728
+msgid ""
+"This folder will not be automatically created if it doesn't exist. AdRotate "
+"will show errors when the folder is missing."
+msgstr ""
+
+#: adrotate.php:733
+msgid "Email Notifications"
+msgstr ""
+
+#: adrotate.php:734
+msgid "Set up who gets email notifications if ads need your attention."
+msgstr ""
+
+#: adrotate.php:737
+msgid "Notifications"
+msgstr ""
+
+#: adrotate.php:740
+msgid ""
+"A comma separated list of email addresses. Maximum of 5 addresses. Keep this "
+"list to a minimum!"
+msgstr ""
+
+#: adrotate.php:741
+msgid ""
+"Messages are sent once every 24 hours when needed. If this field is empty "
+"the function will be disabled."
+msgstr ""
+
+#: adrotate.php:745 adrotate.php:747 adrotate.php:764 adrotate.php:766
+msgid "Test"
+msgstr ""
+
+#: adrotate.php:748
+msgid ""
+"This sends a test notification. Before you test, for example, with a new "
+"email address. Save the options first!"
+msgstr ""
+
+#: adrotate.php:753 adrotate.php:757
+msgid "Advertiser Messages"
+msgstr ""
+
+#: adrotate.php:754
+msgid "Configure who gets email from advertisers."
+msgstr ""
+
+#: adrotate.php:760
+msgid "Maximum of 2 addresses. Comma seperated. This field cannot be empty!"
+msgstr ""
+
+#: adrotate.php:767
+msgid ""
+"This sends a test message. Before you test, for example, with a new email "
+"address. Save the options first!"
+msgstr ""
+
+#: adrotate.php:775
+msgid "Enable stats"
+msgstr ""
+
+#: adrotate.php:777
+msgid "Track clicks and impressions."
+msgstr ""
+
+#: adrotate.php:777
+msgid ""
+"Disabling this also disables click and impression limits on schedules and "
+"disables timeframes."
+msgstr ""
+
+#: adrotate.php:781
+msgid "Logged in impressions"
+msgstr ""
+
+#: adrotate.php:783
+msgid "Track impressions from logged in users (Recommended)."
+msgstr ""
+
+#: adrotate.php:783 adrotate.php:789
+msgid "Has no effect when click and impression tracking is disabled."
+msgstr ""
+
+#: adrotate.php:787
+msgid "Logged in clicks"
+msgstr ""
+
+#: adrotate.php:789
+msgid "Track clicks from logged in users."
+msgstr ""
+
+#: adrotate.php:793
+msgid "Impressions timer"
+msgstr ""
+
+#: adrotate.php:795
+msgid "Seconds."
+msgstr ""
+
+#: adrotate.php:796
+msgid "Default: 10. Set to 0 to disable this timer."
+msgstr ""
+
+#: adrotate.php:796
+msgid "This number may not be empty, negative or exceed 3600 (1 hour)."
+msgstr ""
+
+#: adrotate.php:801
+msgid "Bot filter"
+msgstr ""
+
+#: adrotate.php:804
+msgid "User-Agent Filter"
+msgstr ""
+
+#: adrotate.php:807
+msgid ""
+"A comma separated list of keywords. Filter out bots/crawlers/user-agents. To "
+"prevent impressions and clicks counted on them."
+msgstr ""
+
+#: adrotate.php:808
+msgid ""
+"Keep in mind that this might give false positives. The word 'google' also "
+"matches 'googlebot', but not vice-versa. So be careful!"
+msgstr ""
+
+#: adrotate.php:808
+msgid "Keep your list up-to-date"
+msgstr ""
+
+#: adrotate.php:809
+msgid ""
+"Use only words with alphanumeric characters, [ - _ ] are allowed too. All "
+"other characters are stripped out."
+msgstr ""
+
+#: adrotate.php:810
+msgid ""
+"Additionally to the list specified here, empty User-Agents are blocked as "
+"well."
+msgstr ""
+
+#: adrotate.php:810
+msgid "Learn more about"
+msgstr ""
+
+#: adrotate.php:810
+msgid "user-agents"
+msgstr ""
+
+#: adrotate.php:816 dashboard/publisher/adrotate-groups-edit.php:136
+msgid "Geo Targeting"
+msgstr ""
+
+#: adrotate.php:820
+msgid "Geographic Tracking"
+msgstr ""
+
+#: adrotate.php:821
+msgid "Enable Freegeoip for adverts."
+msgstr ""
+
+#: adrotate.php:822
+msgid "Consider making a donation to"
+msgstr ""
+
+#: adrotate.php:822
+msgid "to keep their services free and awesome!"
+msgstr ""
+
+#: adrotate.php:828
+msgid "Allow advertisers to specify where their ads will show."
+msgstr ""
+
+#: adrotate.php:833
+msgid "Miscellaneous"
+msgstr ""
+
+#: adrotate.php:836
+msgid "Widget alignment"
+msgstr ""
+
+#: adrotate.php:837
+msgid ""
+"Check this box if your widgets do not align in your themes sidebar. (Does "
+"not always help!)"
+msgstr ""
+
+#: adrotate.php:840
+msgid "Widget padding"
+msgstr ""
+
+#: adrotate.php:841
+msgid ""
+"Enable this to remove the padding (blank space) around ads in widgets. (Does "
+"not always work!)"
+msgstr ""
+
+#: adrotate.php:844
+msgid "Admin Bar"
+msgstr ""
+
+#: adrotate.php:845
+msgid "Enable the AdRotate Quickmenu in the Admin Bar."
+msgstr ""
+
+#: adrotate.php:848
+msgid "Dashboard Notifications"
+msgstr ""
+
+#: adrotate.php:849
+msgid "Disable Dashboard Notifications about advert statuses."
+msgstr ""
+
+#: adrotate.php:852
+msgid "Hide Schedules"
+msgstr ""
+
+#: adrotate.php:853
+msgid ""
+"When editing adverts; Hide schedules that are not in use by that advert."
+msgstr ""
+
+#: adrotate.php:856
+msgid "W3 Total Caching"
+msgstr ""
+
+#: adrotate.php:857
+msgid "Check this box if you use W3 Total Caching on your site."
+msgstr ""
+
+#: adrotate.php:860
+msgid "WP Super Cache"
+msgstr ""
+
+#: adrotate.php:861
+msgid "Check this box if you use WP Super Cache on your site."
+msgstr ""
+
+#: adrotate.php:865
+msgid ""
+"It may take a while for the ad to start rotating. The caching plugin needs "
+"to refresh the cache. This can take up to a week if not done manually."
+msgstr ""
+
+#: adrotate.php:865
+msgid ""
+"Caching support only works for [shortcodes] and the AdRotate Widget. If you "
+"use a PHP Snippet you need to wrap your PHP in the exclusion code yourself."
+msgstr ""
+
+#: adrotate.php:865
+msgid "Check the manual of your caching plugin to see how this works."
+msgstr ""
+
+#: adrotate.php:869
+msgid "Javascript"
+msgstr ""
+
+#: adrotate.php:872
+msgid "Load jQuery"
+msgstr ""
+
+#: adrotate.php:873
+msgid ""
+"jQuery is required for Dynamic Groups and Clicktracking. Enable if your "
+"theme does not load jQuery already."
+msgstr ""
+
+#: adrotate.php:876
+msgid "Load jQuery ShowOff"
+msgstr ""
+
+#: adrotate.php:877
+msgid ""
+"The jQuery.jshowoff.adrotate library is required for Dynamic Groups. This "
+"library depends on jQuery."
+msgstr ""
+
+#: adrotate.php:880
+msgid "Load jQuery Clicktracking"
+msgstr ""
+
+#: adrotate.php:881
+msgid ""
+"The jQuery.clicktracker library is required for Clicktracking. This library "
+"depends on jQuery."
+msgstr ""
+
+#: adrotate.php:884
+msgid "Load in footer?"
+msgstr ""
+
+#: adrotate.php:885
+msgid ""
+"Enable if you want to load your Javascripts in the footer. Your theme needs "
+"to call wp_footer() for this to work."
+msgstr ""
+
+#: adrotate.php:889
+msgid "Maintenance"
+msgstr ""
+
+#: adrotate.php:890
+msgid ""
+"NOTE: The below functions are intented to be used to OPTIMIZE your database. "
+"They only apply to your ads/groups/blocks and stats. Not to other settings "
+"or other parts of WordPress! Always always make a backup! These functions "
+"are to be used when you feel or notice your database is slow, unresponsive "
+"and sluggish."
+msgstr ""
+
+#: adrotate.php:905 adrotate.php:907
+msgid "Optimize Database"
+msgstr ""
+
+#: adrotate.php:907
+msgid "You are about to optimize the AdRotate database."
+msgstr ""
+
+#: adrotate.php:907
+msgid "Did you make a backup of your database?"
+msgstr ""
+
+#: adrotate.php:907
+msgid ""
+"This may take a moment and may cause your website to respond slow "
+"temporarily!"
+msgstr ""
+
+#: adrotate.php:907 adrotate.php:915 adrotate.php:923
+#: dashboard/publisher/adrotate-blocks-main.php:17
+#: dashboard/publisher/adrotate-groups-main.php:18
+msgid "OK to continue, CANCEL to stop."
+msgstr ""
+
+#: adrotate.php:908
+msgid "Cleans up overhead data in the AdRotate tables."
+msgstr ""
+
+#: adrotate.php:909
+msgid ""
+"Overhead data is accumulated garbage resulting from many changes you've "
+"made. This can vary from nothing to hundreds of KiB of data."
+msgstr ""
+
+#: adrotate.php:913 adrotate.php:915
+msgid "Clean-up Database"
+msgstr ""
+
+#: adrotate.php:915
+msgid ""
+"You are about to clean up your database. This may delete expired schedules "
+"and older statistics."
+msgstr ""
+
+#: adrotate.php:915
+msgid "Are you sure you want to continue?"
+msgstr ""
+
+#: adrotate.php:915 adrotate.php:923
+msgid "This might take a while and may slow down your site during this action!"
+msgstr ""
+
+#: adrotate.php:916
+msgid "Delete stats older than 356 days (Optional)."
+msgstr ""
+
+#: adrotate.php:917
+msgid ""
+"AdRotate creates empty records when you start making ads or groups. In rare "
+"occasions these records are faulty."
+msgstr ""
+
+#: adrotate.php:917
+msgid ""
+"If you made an ad or group that does not save when you make it use this "
+"button to delete those empty records."
+msgstr ""
+
+#: adrotate.php:917
+msgid ""
+"Additionally you can clean up old statistics. This will improve the speed of "
+"your site."
+msgstr ""
+
+#: adrotate.php:921
+msgid "Re-evaluate Ads"
+msgstr ""
+
+#: adrotate.php:923
+msgid "Re-evaluate all ads"
+msgstr ""
+
+#: adrotate.php:923
+msgid "You are about to check all ads for errors."
+msgstr ""
+
+#: adrotate.php:924
+msgid ""
+"This will apply all evaluation rules to all ads to see if any error slipped "
+"in. Normally you should not need this feature."
+msgstr ""
+
+#: adrotate.php:928
+msgid ""
+"DISCLAIMER: If for any reason your data is lost, damaged or otherwise "
+"becomes unusable in any way or by any means in whichever way I will not take "
+"responsibility. You should always have a backup of your database. These "
+"functions do NOT destroy data. If data is lost, damaged or unusable, your "
+"database likely was beyond repair already. Claiming it worked before "
+"clicking these buttons is not a valid point in any case."
+msgstr ""
+
+#: adrotate.php:932
+msgid "Troubleshooting"
+msgstr ""
+
+#: adrotate.php:935
+msgid "Current version:"
+msgstr ""
+
+#: adrotate.php:936
+msgid "Previous version:"
+msgstr ""
+
+#: adrotate.php:939
+msgid "Current database version:"
+msgstr ""
+
+#: adrotate.php:940
+msgid "Previous database version:"
+msgstr ""
+
+#: adrotate.php:943
+msgid "Clean Trackerdata next run:"
+msgstr ""
+
+#: adrotate.php:944
+msgid "Not scheduled!"
+msgstr ""
+
+#: adrotate.php:947
+msgid "Current status of adverts"
+msgstr ""
+
+#: adrotate.php:948
+msgid "Normal"
+msgstr ""
+
+#: adrotate.php:948
+msgid "Error"
+msgstr ""
+
+#: adrotate.php:948
+msgid "Expired"
+msgstr ""
+
+#: adrotate.php:948
+msgid "Expires Soon"
+msgstr ""
+
+#: adrotate.php:948
+msgid "Unknown Status"
+msgstr ""
+
+#: adrotate.php:951
+msgid ""
+"NOTE: The below options are not meant for normal use and are only there for "
+"developers to review saved settings or how ads are selected. These can be "
+"used as a measure of troubleshooting upon request but for normal use they "
+"SHOULD BE LEFT UNCHECKED!!"
+msgstr ""
+
+#: adrotate.php:955
+msgid "Developer Debug"
+msgstr ""
+
+#: adrotate.php:957
+msgid "Troubleshoot ads and how (if) they are selected, has front-end output."
+msgstr ""
+
+#: adrotate.php:958
+msgid "Show all settings, dashboard routines and related values."
+msgstr ""
+
+#: adrotate.php:959
+msgid "Show array of all userroles and capabilities."
+msgstr ""
+
+#: adrotate.php:960
+msgid "Review saved advertisers! Visible to advertisers."
+msgstr ""
+
+#: adrotate.php:961
+msgid ""
+"Review global stats, per ad/group/block stats. Visible only to publishers."
+msgstr ""
+
+#: adrotate.php:962
+msgid ""
+"Disable timers for clicks and impressions and enable a alert window for "
+"clicktracking."
+msgstr ""
+
+#: adrotate.php:963
+msgid "Temporarily disable encryption on the redirect url."
+msgstr ""
+
+#: adrotate.php:969
+msgid "Update Options"
+msgstr ""
+
+#: dashboard/adrotate-info.php:65
+msgid "Currently"
+msgstr ""
+
+#: dashboard/adrotate-info.php:71
+msgid "Your setup"
+msgstr ""
+
+#: dashboard/adrotate-info.php:72
+msgid "Adverts that need you"
+msgstr ""
+
+#: dashboard/adrotate-info.php:78
+msgid "Adverts"
+msgstr ""
+
+#: dashboard/adrotate-info.php:79
+msgid "(Almost) Expired"
+msgstr ""
+
+#: dashboard/adrotate-info.php:82
+#: dashboard/publisher/adrotate-blocks-main.php:28
+msgid "Groups"
+msgstr ""
+
+#: dashboard/adrotate-info.php:83
+msgid "Have errors"
+msgstr ""
+
+#: dashboard/adrotate-info.php:86
+msgid "Blocks"
+msgstr ""
+
+#: dashboard/adrotate-info.php:87
+msgid "Queued"
+msgstr ""
+
+#: dashboard/adrotate-info.php:93
+msgid "The last few days"
+msgstr ""
+
+#: dashboard/adrotate-info.php:132
+msgid "You are using"
+msgstr ""
+
+#: dashboard/adrotate-info.php:138
+msgid "AdRotate News and Developer Blog"
+msgstr ""
+
+#: dashboard/adrotate-info.php:158
+msgid "AdRotate Store"
+msgstr ""
+
+#: dashboard/adrotate-info.php:161
+msgid "AdRotate Pro"
+msgstr ""
+
+#: dashboard/adrotate-info.php:161
+msgid "Get more features! Get AdRotate Pro."
+msgstr ""
+
+#: dashboard/adrotate-info.php:161 dashboard/adrotate-info.php:162
+#: dashboard/adrotate-info.php:163 dashboard/adrotate-info.php:164
+msgid "More info"
+msgstr ""
+
+#: dashboard/adrotate-info.php:162
+msgid "Installations"
+msgstr ""
+
+#: dashboard/adrotate-info.php:162
+msgid "Not sure how to set up AdRotate? Get me to do it!"
+msgstr ""
+
+#: dashboard/adrotate-info.php:163
+msgid "Premium Support"
+msgstr ""
+
+#: dashboard/adrotate-info.php:163
+msgid "Stuck with AdRotate? I'll help!"
+msgstr ""
+
+#: dashboard/adrotate-info.php:164
+msgid "Periodic Maintenance"
+msgstr ""
+
+#: dashboard/adrotate-info.php:164
+msgid "No time to get things done? Let's make a schedule!"
+msgstr ""
+
+#: dashboard/adrotate-info.php:165
+msgid "Visit store to see all services and products"
+msgstr ""
+
+#: dashboard/adrotate-info.php:169
+msgid "AdRotate Promotions"
+msgstr ""
+
+#: dashboard/adrotate-info.php:183
+msgid "Support AdRotate"
+msgstr ""
+
+#: dashboard/adrotate-info.php:186
+msgid "Your gift will ensure the continued development of AdRotate!"
+msgstr ""
+
+#: dashboard/adrotate-info.php:191
+msgid "AdRotate is brought to you by"
+msgstr ""
+
+#: dashboard/adrotate-info.php:195
+msgid ""
+"Your one stop for Webdevelopment, consultancy and anything WordPress! If you "
+"need a custom plugin. Theme customizations or have your site moved/migrated "
+"entirely. Visit my website for details!"
+msgstr ""
+
+#: dashboard/adrotate-info.php:195
+msgid "Find out more"
+msgstr ""
+
+#: dashboard/publisher/adrotate-ads-edit.php:47
+msgid "The AdCode cannot be empty!"
+msgstr ""
+
+#: dashboard/publisher/adrotate-ads-edit.php:50
+msgid "You didn't use %image% in your AdCode but did select an image!"
+msgstr ""
+
+#: dashboard/publisher/adrotate-ads-edit.php:53
+msgid "You did use %image% in your AdCode but did not select an image!"
+msgstr ""
+
+#: dashboard/publisher/adrotate-ads-edit.php:56
+msgid ""
+"There is a problem saving the image specification. Please reset your image "
+"and re-save the ad!"
+msgstr ""
+
+#: dashboard/publisher/adrotate-ads-edit.php:59
+msgid ""
+"This advert has run out of budget. Add more budget to the advert or reset "
+"the rate to zero!"
+msgstr ""
+
+#: dashboard/publisher/adrotate-ads-edit.php:64
+msgid ""
+"AdRotate cannot find an error but the ad is marked erroneous, try re-saving "
+"the ad!"
+msgstr ""
+
+#: dashboard/publisher/adrotate-ads-edit.php:67
+msgid "This ad is expired and currently not shown on your website!"
+msgstr ""
+
+#: dashboard/publisher/adrotate-ads-edit.php:70
+msgid "The ad will expire in less than 2 days!"
+msgstr ""
+
+#: dashboard/publisher/adrotate-ads-edit.php:73
+msgid "This ad will expire in less than 7 days!"
+msgstr ""
+
+#: dashboard/publisher/adrotate-ads-edit.php:76
+msgid "This ad has been disabled and does not rotate on your site!"
+msgstr ""
+
+#: dashboard/publisher/adrotate-ads-edit.php:100
+msgid "New Advert"
+msgstr ""
+
+#: dashboard/publisher/adrotate-ads-edit.php:102
+msgid "Edit Advert"
+msgstr ""
+
+#: dashboard/publisher/adrotate-ads-edit.php:105
+#: dashboard/publisher/adrotate-groups-edit.php:42
+msgid "These are required."
+msgstr ""
+
+#: dashboard/publisher/adrotate-ads-edit.php:109
+msgid "Title:"
+msgstr ""
+
+#: dashboard/publisher/adrotate-ads-edit.php:115
+msgid "AdCode:"
+msgstr ""
+
+#: dashboard/publisher/adrotate-ads-edit.php:120
+#: dashboard/publisher/adrotate-groups-edit.php:217
+msgid "Options:"
+msgstr ""
+
+#: dashboard/publisher/adrotate-ads-edit.php:122
+msgid ""
+"Place the cursor where you want to add a tag and click to add it to your "
+"AdCode."
+msgstr ""
+
+#: dashboard/publisher/adrotate-ads-edit.php:124
+msgid "Basic Examples:"
+msgstr ""
+
+#: dashboard/publisher/adrotate-ads-edit.php:128
+msgid "Click an example to add it to your AdCode."
+msgstr ""
+
+#: dashboard/publisher/adrotate-ads-edit.php:132
+msgid "Activate:"
+msgstr ""
+
+#: dashboard/publisher/adrotate-ads-edit.php:136
+msgid "Yes, this ad will be used"
+msgstr ""
+
+#: dashboard/publisher/adrotate-ads-edit.php:137
+msgid "No, do not show this ad anywhere"
+msgstr ""
+
+#: dashboard/publisher/adrotate-ads-edit.php:146
+#: dashboard/publisher/adrotate-ads-edit.php:244
+#: dashboard/publisher/adrotate-ads-edit.php:327
+#: dashboard/publisher/adrotate-ads-edit.php:452
+#: dashboard/publisher/adrotate-ads-edit.php:485
+msgid "Save Advert"
+msgstr ""
+
+#: dashboard/publisher/adrotate-ads-edit.php:147
+#: dashboard/publisher/adrotate-ads-edit.php:245
+#: dashboard/publisher/adrotate-ads-edit.php:328
+#: dashboard/publisher/adrotate-ads-edit.php:453
+#: dashboard/publisher/adrotate-ads-edit.php:486
+#: dashboard/publisher/adrotate-groups-edit.php:246
+#: dashboard/publisher/adrotate-groups-edit.php:291
+msgid "Cancel"
+msgstr ""
+
+#: dashboard/publisher/adrotate-ads-edit.php:151
+msgid "Preview"
+msgstr ""
+
+#: dashboard/publisher/adrotate-ads-edit.php:157
+msgid ""
+"Note: While this preview is an accurate one, it might look different then it "
+"does on the website."
+msgstr ""
+
+#: dashboard/publisher/adrotate-ads-edit.php:158
+msgid ""
+"This is because of CSS differences. Your themes CSS file is not active here!"
+msgstr ""
+
+#: dashboard/publisher/adrotate-ads-edit.php:165
+#: dashboard/publisher/adrotate-ads-edit.php:309
+#: dashboard/publisher/adrotate-blocks-edit.php:131
+#: dashboard/publisher/adrotate-groups-edit.php:231
+msgid "Usage"
+msgstr ""
+
+#: dashboard/publisher/adrotate-ads-edit.php:166
+#: dashboard/publisher/adrotate-ads-edit.php:310
+#: dashboard/publisher/adrotate-groups-edit.php:232
+msgid ""
+"Copy the shortcode in a post or page. The PHP code goes in a theme file "
+"where you want the advert to show up."
+msgstr ""
+
+#: dashboard/publisher/adrotate-ads-edit.php:170
+#: dashboard/publisher/adrotate-ads-edit.php:314
+#: dashboard/publisher/adrotate-groups-edit.php:236
+msgid "In a post or page:"
+msgstr ""
+
+#: dashboard/publisher/adrotate-ads-edit.php:172
+#: dashboard/publisher/adrotate-ads-edit.php:316
+#: dashboard/publisher/adrotate-groups-edit.php:238
+msgid "Directly in a theme:"
+msgstr ""
+
+#: dashboard/publisher/adrotate-ads-edit.php:176
+#: dashboard/publisher/adrotate-ads-edit.php:320
+msgid "Email or Remote page:"
+msgstr ""
+
+#: dashboard/publisher/adrotate-ads-edit.php:182
+#: dashboard/publisher/adrotate-groups-edit.php:131
+msgid "Advanced"
+msgstr ""
+
+#: dashboard/publisher/adrotate-ads-edit.php:183
+msgid "Everything below is optional."
+msgstr ""
+
+#: dashboard/publisher/adrotate-ads-edit.php:188
+msgid "Clicktracking:"
+msgstr ""
+
+#: dashboard/publisher/adrotate-ads-edit.php:190
+msgid "Enable click tracking for this advert."
+msgstr ""
+
+#: dashboard/publisher/adrotate-ads-edit.php:191
+msgid ""
+"The URL field is no longer required. Placing the URL in your adcode and "
+"enabling click tracking is sufficient."
+msgstr ""
+
+#: dashboard/publisher/adrotate-ads-edit.php:192
+msgid "jQuery must be active on your site for clicktracking to work."
+msgstr ""
+
+#: dashboard/publisher/adrotate-ads-edit.php:196
+msgid "Remote usage:"
+msgstr ""
+
+#: dashboard/publisher/adrotate-ads-edit.php:199
+msgid ""
+"Enter the target url here if you intent to use this advert in mailings or on "
+"remote pages."
+msgstr ""
+
+#: dashboard/publisher/adrotate-ads-edit.php:204
+msgid "Banner image:"
+msgstr ""
+
+#: dashboard/publisher/adrotate-ads-edit.php:207
+msgid "Media:"
+msgstr ""
+
+#: dashboard/publisher/adrotate-ads-edit.php:207
+msgid "Select Banner"
+msgstr ""
+
+#: dashboard/publisher/adrotate-ads-edit.php:209
+msgid "- OR -"
+msgstr ""
+
+#: dashboard/publisher/adrotate-ads-edit.php:211
+msgid "Banner folder:"
+msgstr ""
+
+#: dashboard/publisher/adrotate-ads-edit.php:212
+msgid "No image selected"
+msgstr ""
+
+#: dashboard/publisher/adrotate-ads-edit.php:216
+msgid "Use %image% in the code. Accepted files are:"
+msgstr ""
+
+#: dashboard/publisher/adrotate-ads-edit.php:216
+msgid ""
+"Use either the text field or the dropdown. If the textfield has content that "
+"field has priority."
+msgstr ""
+
+#: dashboard/publisher/adrotate-ads-edit.php:220
+msgid "Weight:"
+msgstr ""
+
+#: dashboard/publisher/adrotate-ads-edit.php:223
+msgid "Barely visible"
+msgstr ""
+
+#: dashboard/publisher/adrotate-ads-edit.php:224
+msgid "Less than average"
+msgstr ""
+
+#: dashboard/publisher/adrotate-ads-edit.php:225
+msgid "Normal coverage"
+msgstr ""
+
+#: dashboard/publisher/adrotate-ads-edit.php:226
+msgid "More than average"
+msgstr ""
+
+#: dashboard/publisher/adrotate-ads-edit.php:227
+msgid "Best visibility"
+msgstr ""
+
+#: dashboard/publisher/adrotate-ads-edit.php:235
+#: dashboard/publisher/adrotate-groups-edit.php:150
+msgid "Sortorder:"
+msgstr ""
+
+#: dashboard/publisher/adrotate-ads-edit.php:237
+#: dashboard/publisher/adrotate-groups-edit.php:152
+msgid "For administrative purposes set a sortorder."
+msgstr ""
+
+#: dashboard/publisher/adrotate-ads-edit.php:237
+msgid "Leave empty or 0 to skip this. Will default to ad id."
+msgstr ""
+
+#: dashboard/publisher/adrotate-ads-edit.php:248
+msgid "Geo Location"
+msgstr ""
+
+#: dashboard/publisher/adrotate-ads-edit.php:249
+msgid ""
+"This works if you assign the advert to a group and enable that group to use "
+"Geo Targeting."
+msgstr ""
+
+#: dashboard/publisher/adrotate-ads-edit.php:254
+msgid "Cities:"
+msgstr ""
+
+#: dashboard/publisher/adrotate-ads-edit.php:278
+msgid "Advertiser & Budget"
+msgstr ""
+
+#: dashboard/publisher/adrotate-ads-edit.php:279
+msgid ""
+"Link your ad to an Advertiser and optionally set a budget for clicks and "
+"impressions."
+msgstr ""
+
+#: dashboard/publisher/adrotate-ads-edit.php:331
+msgid "Schedule"
+msgstr ""
+
+#: dashboard/publisher/adrotate-ads-edit.php:332
+msgid "From when to when is the advert visible?"
+msgstr ""
+
+#: dashboard/publisher/adrotate-ads-edit.php:336
+msgid "Start date (day/month/year):"
+msgstr ""
+
+#: dashboard/publisher/adrotate-ads-edit.php:357
+msgid "End date (day/month/year):"
+msgstr ""
+
+#: dashboard/publisher/adrotate-ads-edit.php:380
+msgid "Start time (hh:mm):"
+msgstr ""
+
+#: dashboard/publisher/adrotate-ads-edit.php:387
+msgid "End time (hh:mm):"
+msgstr ""
+
+#: dashboard/publisher/adrotate-ads-edit.php:397
+msgid "Maximum Clicks:"
+msgstr ""
+
+#: dashboard/publisher/adrotate-ads-edit.php:398
+#: dashboard/publisher/adrotate-ads-edit.php:400
+msgid "Leave empty or 0 to skip this."
+msgstr ""
+
+#: dashboard/publisher/adrotate-ads-edit.php:399
+msgid "Maximum Impressions:"
+msgstr ""
+
+#: dashboard/publisher/adrotate-ads-edit.php:405
+msgid ""
+"Time uses a 24 hour clock. When you're used to the AM/PM system keep this in "
+"mind: If the start or end time is after lunch, add 12 hours. 2PM is 14:00 "
+"hours. 6AM is 6:00 hours."
+msgstr ""
+
+#: dashboard/publisher/adrotate-ads-edit.php:405
+msgid ""
+"The maximum clicks and impressions are measured over the set schedule only. "
+"Every schedule can have it's own limit!"
+msgstr ""
+
+#: dashboard/publisher/adrotate-ads-edit.php:410
+msgid "Current Schedules"
+msgstr ""
+
+#: dashboard/publisher/adrotate-ads-edit.php:417
+msgid "From / Until"
+msgstr ""
+
+#: dashboard/publisher/adrotate-ads-edit.php:419
+msgid "Max Clicks"
+msgstr ""
+
+#: dashboard/publisher/adrotate-ads-edit.php:420
+#: dashboard/publisher/adrotate-ads-edit.php:422
+msgid "This ad used"
+msgstr ""
+
+#: dashboard/publisher/adrotate-ads-edit.php:421
+msgid "Max Impressions"
+msgstr ""
+
+#: dashboard/publisher/adrotate-ads-edit.php:458
+#: dashboard/publisher/adrotate-blocks-edit.php:137
+msgid "Select Groups"
+msgstr ""
+
+#: dashboard/publisher/adrotate-ads-edit.php:459
+msgid "Optionally select the group(s) this ad belongs to."
+msgstr ""
+
+#: dashboard/publisher/adrotate-ads-edit.php:464
+msgid "ID - Name"
+msgstr ""
+
+#: dashboard/publisher/adrotate-ads-edit.php:465
+msgid "Ads in group"
+msgstr ""
+
+#: dashboard/publisher/adrotate-ads-edit.php:478
+#: dashboard/publisher/adrotate-blocks-edit.php:156
+#: dashboard/publisher/adrotate-groups-main.php:28
+msgid "Ads"
+msgstr ""
+
+#: dashboard/publisher/adrotate-ads-main-disabled.php:9
+msgid "Disabled Ads"
+msgstr ""
+
+#: dashboard/publisher/adrotate-ads-main-disabled.php:15
+msgid "Activate"
+msgstr ""
+
+#: dashboard/publisher/adrotate-ads-main-disabled.php:17
+#: dashboard/publisher/adrotate-ads-main-error.php:16
+#: dashboard/publisher/adrotate-ads-main.php:17
+msgid "Reset stats"
+msgstr ""
+
+#: dashboard/publisher/adrotate-ads-main-disabled.php:33
+#: dashboard/publisher/adrotate-ads-report.php:28
+#: dashboard/publisher/adrotate-blocks-main.php:29
+#: dashboard/publisher/adrotate-blocks-report.php:41
+#: dashboard/publisher/adrotate-groups-edit.php:255
+#: dashboard/publisher/adrotate-groups-main.php:29
+#: dashboard/publisher/adrotate-groups-report.php:34
+msgid "Impressions"
+msgstr ""
+
+#: dashboard/publisher/adrotate-ads-main-disabled.php:34
+#: dashboard/publisher/adrotate-ads-main.php:39
+#: dashboard/publisher/adrotate-ads-report.php:29
+#: dashboard/publisher/adrotate-blocks-main.php:31
+#: dashboard/publisher/adrotate-blocks-report.php:42
+#: dashboard/publisher/adrotate-groups-edit.php:256
+#: dashboard/publisher/adrotate-groups-main.php:31
+#: dashboard/publisher/adrotate-groups-report.php:35
+msgid "Clicks"
+msgstr ""
+
+#: dashboard/publisher/adrotate-ads-main-disabled.php:35
+#: dashboard/publisher/adrotate-ads-main.php:41
+#: dashboard/publisher/adrotate-ads-report.php:32
+#: dashboard/publisher/adrotate-blocks-report.php:45
+#: dashboard/publisher/adrotate-groups-report.php:38
+msgid "CTR"
+msgstr ""
+
+#: dashboard/publisher/adrotate-ads-main-disabled.php:70
+#: dashboard/publisher/adrotate-ads-main-error.php:60
+#: dashboard/publisher/adrotate-ads-main.php:80
+#: dashboard/publisher/adrotate-groups-main.php:62
+msgid "Edit"
+msgstr ""
+
+#: dashboard/publisher/adrotate-ads-main-disabled.php:70
+#: dashboard/publisher/adrotate-ads-main-error.php:60
+#: dashboard/publisher/adrotate-ads-main.php:80
+#: dashboard/publisher/adrotate-blocks-main.php:56
+#: dashboard/publisher/adrotate-groups-main.php:62
+msgid "Stats"
+msgstr ""
+
+#: dashboard/publisher/adrotate-ads-main-error.php:6
+msgid "Ads that need immediate attention"
+msgstr ""
+
+#: dashboard/publisher/adrotate-ads-main-error.php:14
+#: dashboard/publisher/adrotate-ads-main.php:15
+msgid "Deactivate"
+msgstr ""
+
+#: dashboard/publisher/adrotate-ads-main-error.php:17
+#: dashboard/publisher/adrotate-ads-main.php:18
+msgid "-- Renew --"
+msgstr ""
+
+#: dashboard/publisher/adrotate-ads-main-error.php:18
+#: dashboard/publisher/adrotate-ads-main.php:19
+msgid "For 1 year"
+msgstr ""
+
+#: dashboard/publisher/adrotate-ads-main-error.php:19
+#: dashboard/publisher/adrotate-ads-main.php:20
+msgid "For 180 days"
+msgstr ""
+
+#: dashboard/publisher/adrotate-ads-main-error.php:20
+#: dashboard/publisher/adrotate-ads-main.php:21
+msgid "For 30 days"
+msgstr ""
+
+#: dashboard/publisher/adrotate-ads-main-error.php:21
+#: dashboard/publisher/adrotate-ads-main.php:22
+msgid "For 7 days"
+msgstr ""
+
+#: dashboard/publisher/adrotate-ads-main-error.php:69
+msgid "Configuration errors."
+msgstr ""
+
+#: dashboard/publisher/adrotate-ads-main-error.php:70
+msgid "Expires soon."
+msgstr ""
+
+#: dashboard/publisher/adrotate-ads-main-error.php:71
+msgid "Has expired."
+msgstr ""
+
+#: dashboard/publisher/adrotate-ads-main.php:6
+msgid "Active Ads"
+msgstr ""
+
+#: dashboard/publisher/adrotate-ads-main.php:37
+msgid "Shown"
+msgstr ""
+
+#: dashboard/publisher/adrotate-ads-main.php:38
+#: dashboard/publisher/adrotate-ads-main.php:40
+#: dashboard/publisher/adrotate-blocks-main.php:30
+#: dashboard/publisher/adrotate-blocks-main.php:32
+#: dashboard/publisher/adrotate-groups-main.php:30
+#: dashboard/publisher/adrotate-groups-main.php:32
+msgid "Today"
+msgstr ""
+
+#: dashboard/publisher/adrotate-ads-main.php:98
+msgid "No ads created yet!"
+msgstr ""
+
+#: dashboard/publisher/adrotate-ads-report.php:23
+msgid "Statistics for advert"
+msgstr ""
+
+#: dashboard/publisher/adrotate-ads-report.php:30
+#: dashboard/publisher/adrotate-blocks-report.php:43
+#: dashboard/publisher/adrotate-groups-report.php:36
+msgid "Impressions today"
+msgstr ""
+
+#: dashboard/publisher/adrotate-ads-report.php:31
+#: dashboard/publisher/adrotate-blocks-report.php:44
+#: dashboard/publisher/adrotate-groups-report.php:37
+msgid "Clicks today"
+msgstr ""
+
+#: dashboard/publisher/adrotate-ads-report.php:38
+#: dashboard/publisher/adrotate-groups-report.php:44
+msgid "Monthly overview of clicks and impressions"
+msgstr ""
+
+#: dashboard/publisher/adrotate-ads-report.php:53
+#: dashboard/publisher/adrotate-groups-report.php:59
+msgid "Export options"
+msgstr ""
+
+#: dashboard/publisher/adrotate-ads-report.php:65
+#: dashboard/publisher/adrotate-blocks-report.php:71
+#: dashboard/publisher/adrotate-groups-report.php:71
+msgid "Note:"
+msgstr ""
+
+#: dashboard/publisher/adrotate-ads-report.php:65
+#: dashboard/publisher/adrotate-blocks-report.php:71
+#: dashboard/publisher/adrotate-groups-report.php:71
+msgid ""
+"All statistics are indicative. They do not nessesarily reflect results "
+"counted by other parties."
+msgstr ""
+
+#: dashboard/publisher/adrotate-blocks-edit.php:6
+msgid "Edit Block"
+msgstr ""
+
+#: dashboard/publisher/adrotate-blocks-edit.php:24
+msgid "The basics"
+msgstr ""
+
+#: dashboard/publisher/adrotate-blocks-edit.php:34
+msgid "Name / Reference:"
+msgstr ""
+
+#: dashboard/publisher/adrotate-blocks-edit.php:41
+msgid ""
+"Block shape  and border (Required) - Define the shape and size of the block"
+msgstr ""
+
+#: dashboard/publisher/adrotate-blocks-edit.php:47
+msgid "Rows and Columns"
+msgstr ""
+
+#: dashboard/publisher/adrotate-blocks-edit.php:49
+#: dashboard/publisher/adrotate-groups-edit.php:78
+msgid "rows"
+msgstr ""
+
+#: dashboard/publisher/adrotate-blocks-edit.php:49
+#: dashboard/publisher/adrotate-groups-edit.php:78
+msgid "columns"
+msgstr ""
+
+#: dashboard/publisher/adrotate-blocks-edit.php:52
+msgid ""
+"Make a grid for your ads. Filling in 2 and 2 makes a 2x2 grid. (Default: 2/2)"
+msgstr ""
+
+#: dashboard/publisher/adrotate-blocks-edit.php:56
+msgid "Block Padding"
+msgstr ""
+
+#: dashboard/publisher/adrotate-blocks-edit.php:58
+#: dashboard/publisher/adrotate-groups-edit.php:122
+msgid "pixel(s)"
+msgstr ""
+
+#: dashboard/publisher/adrotate-blocks-edit.php:61
+msgid "An invisible border inside the block in pixels. (Default: 1)"
+msgstr ""
+
+#: dashboard/publisher/adrotate-blocks-edit.php:68
+msgid ""
+"Advert shape and border (Required) - Define the shape and size of the adverts"
+msgstr ""
+
+#: dashboard/publisher/adrotate-blocks-edit.php:74
+msgid "Width and Height"
+msgstr ""
+
+#: dashboard/publisher/adrotate-blocks-edit.php:76
+#: dashboard/publisher/adrotate-groups-edit.php:113
+msgid "pixel(s) wide"
+msgstr ""
+
+#: dashboard/publisher/adrotate-blocks-edit.php:76
+#: dashboard/publisher/adrotate-groups-edit.php:113
+msgid "pixel(s) high."
+msgstr ""
+
+#: dashboard/publisher/adrotate-blocks-edit.php:79
+msgid ""
+"Define the maximum size of the ads in pixels. Height can be 'auto' (Default: "
+"125/125)"
+msgstr ""
+
+#: dashboard/publisher/adrotate-blocks-edit.php:83
+#: dashboard/publisher/adrotate-groups-edit.php:120
+msgid "Advert Margin"
+msgstr ""
+
+#: dashboard/publisher/adrotate-blocks-edit.php:85
+msgid "pixel(s) margin"
+msgstr ""
+
+#: dashboard/publisher/adrotate-blocks-edit.php:88
+msgid "An invisible border outside the advert in pixels. (Default: 1)"
+msgstr ""
+
+#: dashboard/publisher/adrotate-blocks-edit.php:92
+msgid "Advert Border"
+msgstr ""
+
+#: dashboard/publisher/adrotate-blocks-edit.php:94
+msgid "Style"
+msgstr ""
+
+#: dashboard/publisher/adrotate-blocks-edit.php:95
+msgid "Width"
+msgstr ""
+
+#: dashboard/publisher/adrotate-blocks-edit.php:95
+msgid "pixel(s). Color"
+msgstr ""
+
+#: dashboard/publisher/adrotate-blocks-edit.php:99
+msgid ""
+"Set the border width to 0 to disable. Color must be a valid hex value. "
+"(Default: none/0/#fff)"
+msgstr ""
+
+#: dashboard/publisher/adrotate-blocks-edit.php:106
+msgid "Wrapper code (Optional) - Wraps around each ad"
+msgstr ""
+
+#: dashboard/publisher/adrotate-blocks-edit.php:112
+#: dashboard/publisher/adrotate-groups-edit.php:213
+msgid "Before ad"
+msgstr ""
+
+#: dashboard/publisher/adrotate-blocks-edit.php:115
+#: dashboard/publisher/adrotate-blocks-edit.php:123
+#: dashboard/publisher/adrotate-groups-edit.php:216
+#: dashboard/publisher/adrotate-groups-edit.php:225
+msgid "Example:"
+msgstr ""
+
+#: dashboard/publisher/adrotate-blocks-edit.php:120
+#: dashboard/publisher/adrotate-groups-edit.php:222
+msgid "After ad"
+msgstr ""
+
+#: dashboard/publisher/adrotate-blocks-edit.php:143
+msgid "Choose the groups to use in this block"
+msgstr ""
+
+#: dashboard/publisher/adrotate-blocks-edit.php:162
+#: dashboard/publisher/adrotate-groups-main.php:76
+msgid "No groups created!"
+msgstr ""
+
+#: dashboard/publisher/adrotate-blocks-main.php:15
+msgid "Delete Block(s)"
+msgstr ""
+
+#: dashboard/publisher/adrotate-blocks-main.php:17
+msgid "You are about to delete a block"
+msgstr ""
+
+#: dashboard/publisher/adrotate-blocks-main.php:17
+#: dashboard/publisher/adrotate-groups-main.php:18
+msgid "This action can not be undone!"
+msgstr ""
+
+#: dashboard/publisher/adrotate-blocks-main.php:17
+#: dashboard/publisher/adrotate-groups-main.php:18
+msgid "Go"
+msgstr ""
+
+#: dashboard/publisher/adrotate-blocks-main.php:27
+#: dashboard/publisher/adrotate-groups-main.php:27
+msgid "Name"
+msgstr ""
+
+#: dashboard/publisher/adrotate-blocks-main.php:56
+msgid "View"
+msgstr ""
+
+#: dashboard/publisher/adrotate-blocks-main.php:68
+msgid "No blocks created yet!"
+msgstr ""
+
+#: dashboard/publisher/adrotate-blocks-report.php:6
+msgid "This blocks performance"
+msgstr ""
+
+#: dashboard/publisher/adrotate-blocks-report.php:35
+msgid "Statistics for"
+msgstr ""
+
+#: dashboard/publisher/adrotate-blocks-report.php:57
+msgid "Export options for"
+msgstr ""
+
+#: dashboard/publisher/adrotate-groups-edit.php:37
+msgid "New Group"
+msgstr ""
+
+#: dashboard/publisher/adrotate-groups-edit.php:39
+msgid "Edit Group"
+msgstr ""
+
+#: dashboard/publisher/adrotate-groups-edit.php:50
+msgid "Name:"
+msgstr ""
+
+#: dashboard/publisher/adrotate-groups-edit.php:56
+msgid "Mode"
+msgstr ""
+
+#: dashboard/publisher/adrotate-groups-edit.php:59
+msgid "Default - Show one ad at a time"
+msgstr ""
+
+#: dashboard/publisher/adrotate-groups-edit.php:60
+msgid "Dynamic Mode - Show a different ad every few seconds"
+msgstr ""
+
+#: dashboard/publisher/adrotate-groups-edit.php:61
+msgid "Block Mode - Show a block of ads"
+msgstr ""
+
+#: dashboard/publisher/adrotate-groups-edit.php:65
+msgid ""
+"'Dynamic' and 'Block' mode require 'jQuery' and 'jQuery Showoff' to be "
+"loaded. You can enable this in AdRotate Settings."
+msgstr ""
+
+#: dashboard/publisher/adrotate-groups-edit.php:71
+msgid "Dynamic and Block Mode"
+msgstr ""
+
+#: dashboard/publisher/adrotate-groups-edit.php:72
+msgid "Only required if your group is in Dynamic or Block mode."
+msgstr ""
+
+#: dashboard/publisher/adrotate-groups-edit.php:76
+msgid "Block shape and border"
+msgstr ""
+
+#: dashboard/publisher/adrotate-groups-edit.php:81
+msgid "Block Mode"
+msgstr ""
+
+#: dashboard/publisher/adrotate-groups-edit.php:81
+msgid ""
+"Make a grid for your ads. Filling in 3 and 2 makes a grid with 2 columns "
+"showing a maximum of 6 ads. Default: 2x2."
+msgstr ""
+
+#: dashboard/publisher/adrotate-groups-edit.php:85
+msgid "Automated refresh"
+msgstr ""
+
+#: dashboard/publisher/adrotate-groups-edit.php:104
+msgid "seconds."
+msgstr ""
+
+#: dashboard/publisher/adrotate-groups-edit.php:107
+msgid "Dynamic Mode"
+msgstr ""
+
+#: dashboard/publisher/adrotate-groups-edit.php:107
+msgid ""
+"Load a new advert in this interval without reloading the page. Default: 6."
+msgstr ""
+
+#: dashboard/publisher/adrotate-groups-edit.php:111
+msgid "Advert Width and Height"
+msgstr ""
+
+#: dashboard/publisher/adrotate-groups-edit.php:116
+msgid ""
+"Define the maximum size of the ads in pixels minus margin. Size can be "
+"'auto' (Not recommended). Default: 125/125."
+msgstr ""
+
+#: dashboard/publisher/adrotate-groups-edit.php:125
+msgid "A transparant border outside the advert in pixels. Default: 1."
+msgstr ""
+
+#: dashboard/publisher/adrotate-groups-edit.php:137
+msgid "Enable."
+msgstr ""
+
+#: dashboard/publisher/adrotate-groups-edit.php:138
+msgid "Do not forget to tell the adverts for which areas they should show."
+msgstr ""
+
+#: dashboard/publisher/adrotate-groups-edit.php:141
+msgid "Fallback group"
+msgstr ""
+
+#: dashboard/publisher/adrotate-groups-edit.php:144
+msgid "No"
+msgstr ""
+
+#: dashboard/publisher/adrotate-groups-edit.php:147
+msgid ""
+"Select another group to fall back on when all ads are expired, not in the "
+"visitors geographic area or are otherwise unavailable."
+msgstr ""
+
+#: dashboard/publisher/adrotate-groups-edit.php:152
+msgid "Leave empty or 0 to skip this. Will default to group id."
+msgstr ""
+
+#: dashboard/publisher/adrotate-groups-edit.php:157
+msgid "Post Injection"
+msgstr ""
+
+#: dashboard/publisher/adrotate-groups-edit.php:161
+msgid "Include ads in categories?"
+msgstr ""
+
+#: dashboard/publisher/adrotate-groups-edit.php:165
+#: dashboard/publisher/adrotate-groups-edit.php:187
+msgid "Do not use this feature"
+msgstr ""
+
+#: dashboard/publisher/adrotate-groups-edit.php:166
+msgid "Before the post content"
+msgstr ""
+
+#: dashboard/publisher/adrotate-groups-edit.php:167
+msgid "After the post content"
+msgstr ""
+
+#: dashboard/publisher/adrotate-groups-edit.php:168
+#: dashboard/publisher/adrotate-groups-edit.php:190
+msgid "Before and after the content"
+msgstr ""
+
+#: dashboard/publisher/adrotate-groups-edit.php:173
+msgid "Which categories?"
+msgstr ""
+
+#: dashboard/publisher/adrotate-groups-edit.php:178
+msgid "Click the categories posts you want the adverts to show in."
+msgstr ""
+
+#: dashboard/publisher/adrotate-groups-edit.php:183
+msgid "Include ads in pages?"
+msgstr ""
+
+#: dashboard/publisher/adrotate-groups-edit.php:188
+msgid "Before the page content"
+msgstr ""
+
+#: dashboard/publisher/adrotate-groups-edit.php:189
+msgid "After the page content"
+msgstr ""
+
+#: dashboard/publisher/adrotate-groups-edit.php:196
+msgid "Which pages?"
+msgstr ""
+
+#: dashboard/publisher/adrotate-groups-edit.php:201
+msgid "Click the pages you want the adverts to show in."
+msgstr ""
+
+#: dashboard/publisher/adrotate-groups-edit.php:208
+msgid "Wrapper code"
+msgstr ""
+
+#: dashboard/publisher/adrotate-groups-edit.php:209
+msgid "Wraps around each ad."
+msgstr ""
+
+#: dashboard/publisher/adrotate-groups-edit.php:218
+msgid "HTML/JavaScript allowed, use with care!"
+msgstr ""
+
+#: dashboard/publisher/adrotate-groups-edit.php:245
+#: dashboard/publisher/adrotate-groups-edit.php:290
+msgid "Save"
+msgstr ""
+
+#: dashboard/publisher/adrotate-groups-edit.php:249
+msgid "Select Ads"
+msgstr ""
+
+#: dashboard/publisher/adrotate-groups-edit.php:254
+msgid "Choose the ads to use in this group"
+msgstr ""
+
+#: dashboard/publisher/adrotate-groups-edit.php:258
+msgid "Visible until"
+msgstr ""
+
+#: dashboard/publisher/adrotate-groups-edit.php:283
+msgid "No ads created!"
+msgstr ""
+
+#: dashboard/publisher/adrotate-groups-main.php:15
+msgid "Delete Group"
+msgstr ""
+
+#: dashboard/publisher/adrotate-groups-main.php:16
+msgid "Delete Group including ads"
+msgstr ""
+
+#: dashboard/publisher/adrotate-groups-main.php:18
+msgid "You are about to delete a group"
+msgstr ""
+
+#: dashboard/publisher/adrotate-groups-main.php:33
+msgid "Code"
+msgstr ""
+
+#: dashboard/publisher/adrotate-groups-main.php:34
+msgid "Fallback"
+msgstr ""
+
+#: dashboard/publisher/adrotate-groups-main.php:52
+msgid "Default"
+msgstr ""
+
+#: dashboard/publisher/adrotate-groups-main.php:53
+msgid "Dynamic"
+msgstr ""
+
+#: dashboard/publisher/adrotate-groups-main.php:54
+msgid "Block"
+msgstr ""
+
+#: dashboard/publisher/adrotate-groups-main.php:55
+msgid "Geolocation"
+msgstr ""
+
+#: dashboard/publisher/adrotate-groups-report.php:29
+msgid "Statistics for group"
+msgstr ""
